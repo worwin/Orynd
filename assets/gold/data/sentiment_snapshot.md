@@ -1,27 +1,47 @@
 # Sentiment snapshot
 
-## Timestamp
-- Updated: 2026-03-20 10:35 CET
+## Purpose
+Track qualitative and geopolitical inputs that affect gold.
 
-## Raw facts
-- Geopolitics: AP reported a major escalation in the Iran-Israel conflict on 2026-03-20, including strikes across the Gulf and damage to regional energy infrastructure.
-- Gold ETF flows: World Gold Council reported that February 2026 marked the ninth consecutive month of global gold ETF inflows, with North America dominating inflows.
-- Central banks: World Gold Council reported central bank net purchases of 863.3 tonnes in 2025; Poland was the largest reported buyer at 102 tonnes.
-- News theme: despite geopolitical escalation, recent public market coverage says gold sold off hard as the dollar and yields rose and markets pushed out easing expectations.
+## Required sections
 
-## Interpretation
-- Geopolitical stress is clearly elevated, which is structurally supportive for gold.
-- Investor allocation demand is still supportive: ETF flows remain positive and central-bank demand stayed strong through 2025.
-- Near-term sentiment is conflicted. Gold is not acting like a clean crisis hedge right now because higher yields and a firmer dollar are offsetting safe-haven demand.
-- The dominant current theme is conflict plus inflation/oil risk on one side, versus higher-for-longer rates and dollar strength on the other.
+### Timestamp
+- Updated:
+- Time zone:
 
-## Uncertainty
-- The geopolitical backdrop is fast-moving and may change quickly after this timestamp.
-- ETF-flow and central-bank data are slower-moving than the news flow, so they are useful context but not a same-day read on sentiment.
+### Raw facts
+- Major geopolitical developments:
+- Oil / shipping / Strait disruption developments:
+- Sanctions or export disruption:
+- Market fear or risk sentiment:
+- Central bank gold demand context:
+- ETF flow context:
+- Major news themes affecting gold:
 
-## Sources
-- AP News conflict update: https://apnews.com/article/86da674adf010d75e080193592da43e6
-- AP News regional energy/infrastructure escalation: https://apnews.com/article/28202423a66327455e898deab2fde88c
-- World Gold Council ETF flows, February 2026: https://www.gold.org/goldhub/research/gold-etfs-holdings-and-flows/2026/03
-- World Gold Council central banks, full-year 2025: https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-full-year-2025/central-banks
-- Barron's on gold selloff vs rates/dollar: https://www.barrons.com/articles/gold-price-plunge-newmont-oil-24c9f3d0
+### Interpretation
+Address all of the following:
+- Is geopolitical stress rising, falling, or mixed?
+- Is the stress likely to affect inflation through energy or shipping?
+- Is gold behaving like a clean haven, or is macro pressure offsetting that?
+- Are ETF flows and central-bank demand reinforcing the move?
+- Is the dominant theme:
+  - safe-haven demand,
+  - inflation shock,
+  - growth scare,
+  - tighter-for-longer,
+  - or mixed?
+
+### Uncertainty
+- Note where the news is fast-moving
+- Distinguish same-day news from slower-moving demand data
+
+### Sources
+- Include links for all major claims
+
+## Rules
+- Do not reduce geopolitics to “war = gold up”
+- Separate:
+  - geopolitical event,
+  - market reaction,
+  - likely transmission into gold
+- Explicitly mention if gold is failing to respond like a haven
