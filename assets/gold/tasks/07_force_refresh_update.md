@@ -37,11 +37,13 @@ Always rewrite these files, even if the final stance remains the same:
 
 ## Rules
 - No-op behavior is not allowed
+- Forced rewrite behavior must be preserved even if the final stance does not change
 - Preserve journal history by appending, not overwriting
 - If evidence is mixed, a neutral outcome is acceptable, but the files must still be refreshed
 - Must apply `assets/gold/framework/decision_protocol.md`, `assets/gold/framework/scoring.md`, and `assets/gold/framework/freshness_rules.md`
 - Must explicitly state whether macro inputs are stale or aligned
 - Must explicitly include a data freshness assessment in the output
+- Must explicitly state whether the stance is degraded due to stale inputs
 - Must cap confidence according to the freshness rules
 - Must ensure signal language matches signal score
 - If the score remains `0`, the wording must stay explicitly neutral

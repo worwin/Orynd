@@ -5,6 +5,9 @@ Evaluate the quality of the current gold decision and identify weaknesses in rea
 
 ## Read
 - all files under `assets/gold/`
+- `assets/gold/framework/decision_protocol.md`
+- `assets/gold/framework/scoring.md`
+- `assets/gold/framework/freshness_rules.md`
 
 ## Do not edit
 Do not modify any files.
@@ -39,5 +42,6 @@ Do not modify any files.
 - Call out any facts that are actually interpretation
 - Call out any confidence overstatement caused by stale or mismatched data
 - Call out any mismatch between signal wording and signal score
+- Call out any missing or weak data freshness assessment
 - Assign a severity level to each major weakness
 - End with an explicit recommendation: downgrade confidence, change score, or keep as-is

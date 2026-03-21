@@ -44,12 +44,15 @@ Update gold thesis, signals, and position using snapshot data.
 
 ## Rules
 - Do not invent data
+- Must apply `assets/gold/framework/decision_protocol.md`, `assets/gold/framework/scoring.md`, and `assets/gold/framework/freshness_rules.md`
 - Apply `assets/gold/framework/freshness_rules.md` before assigning confidence
 - If core macro inputs are stale, confidence must be capped
 - If freshness is poor, prefer neutral stance and lower confidence
 - Signal language must match signal score
+- If the score remains `0`, the wording must stay explicitly neutral
 - Technical pivot levels must be labeled as watch levels unless independently confirmed
 - Keep facts and interpretation strictly separated
+- Must explicitly state whether macro inputs are stale or aligned
 - If signals conflict, default to neutral or hold
 - Preserve previous journal entries
 - This is the light update task: a rewrite is allowed but not required if the current files already remain accurate under the latest framework and inputs
