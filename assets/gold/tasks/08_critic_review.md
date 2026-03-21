@@ -11,6 +11,8 @@ Do not modify any files.
 
 ## Evaluate
 - Are facts correctly separated from interpretation?
+- Are there any freshness violations, including stale macro inputs being used as tactical drivers?
+- Are there any confidence violations, including confidence set too high for the data quality?
 - Are any inputs overweighted or ignored?
 - Are there contradictions between macro, sentiment, and price?
 - Is the signal justified by the evidence?
@@ -19,10 +21,14 @@ Do not modify any files.
 - Were stale core macro inputs allowed to support confidence above the permitted cap?
 - Does signal language agree with the numeric signal score?
 - Are technical pivot levels labeled only as watch levels unless independently confirmed?
+- Is there any improper use of technical levels?
+- Is there any mixing of facts and interpretation?
 
 ## Output
 - Strengths of the current decision
 - Weaknesses or blind spots
+- Severity levels: high, medium, low
+- Explicit recommendation: downgrade confidence, change score, or keep as-is
 - Suggested improvements to reasoning
 - Suggested improvements to the system itself
 
@@ -33,3 +39,5 @@ Do not modify any files.
 - Call out any facts that are actually interpretation
 - Call out any confidence overstatement caused by stale or mismatched data
 - Call out any mismatch between signal wording and signal score
+- Assign a severity level to each major weakness
+- End with an explicit recommendation: downgrade confidence, change score, or keep as-is
