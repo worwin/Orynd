@@ -31,6 +31,7 @@ Always rewrite these files, even if the final stance remains the same:
 - Action
 - Risk
 - Invalidation
+- Data freshness assessment
 - Top 3 facts
 - Top 2 risks
 
@@ -38,10 +39,11 @@ Always rewrite these files, even if the final stance remains the same:
 - No-op behavior is not allowed
 - Preserve journal history by appending, not overwriting
 - If evidence is mixed, a neutral outcome is acceptable, but the files must still be refreshed
-- Use the decision protocol and scoring framework
-- Apply freshness rules before setting confidence or tactical conviction
-- If core macro inputs are stale, confidence must be capped
-- If signal wording implies bullishness or bearishness, the signal score must agree
+- Must apply `assets/gold/framework/decision_protocol.md`, `assets/gold/framework/scoring.md`, and `assets/gold/framework/freshness_rules.md`
+- Must explicitly state whether macro inputs are stale or aligned
+- Must explicitly include a data freshness assessment in the output
+- Must cap confidence according to the freshness rules
+- Must ensure signal language matches signal score
 - If the score remains `0`, the wording must stay explicitly neutral
-- Technical pivot levels must be labeled as watch levels unless independently confirmed
-- Keep facts and interpretation strictly separated
+- Must label technical levels as watch levels unless independently confirmed
+- Must reject outputs that mix facts and interpretation
