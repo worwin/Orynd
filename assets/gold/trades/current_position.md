@@ -4,46 +4,47 @@
 AAAU
 
 ## Facts
-- `AAAU` last quoted price: 51.28.
-- `AAAU` near-term support: 50.90.
-- `AAAU` near-term resistance: 51.67.
-- Gold remains under macro pressure from elevated real yields, a firm dollar proxy, and delayed cut expectations.
-- Gold price action is still weak relative to the recent high.
+- `AAAU` last quoted price was 51.28 on 2026-03-20.
+- `AAAU` Barchart pivot watch levels were 50.90 support and 51.67 resistance.
+- Gold was quoted at 4,666.4 on 2026-03-20.
+- Core macro inputs used in the gold decision are stale under the freshness rules.
+- `AAAU` and gold quote timestamps are not perfectly matched.
 
 ## Interpretation
-- The current setup does not justify initiating risk.
-- `AAAU` is near short-term resistance while the underlying gold signal remains mixed.
-- A flat position is more consistent with the protocol than forcing exposure into conflicted evidence.
+- A flat position is the most defensible stance when the signal score is neutral and confidence is low.
+- The current `AAAU` watch levels are not independently confirmed, so they should not be used as standalone trade triggers.
+- The position process should favor patience over forced exposure while the data set is stale and mixed.
 
 ## Signal
 - Stance: No active position
-- Bias: Neutral / hold with bearish tilt
+- Bias: Neutral
 
 ## Confidence
-- Medium
-- Confidence score: 58%
+- Low
+- Confidence score: 42%
 
 ## Signal score
 - 0
-- Read: positioning stays flat because the directional signal is mixed.
+- Read: positioning stays flat because the directional signal remains neutral.
 
 ## Action
 - Stay flat in `AAAU`.
-- Add only if gold reclaims and holds above 4,814.6, `AAAU` clears 51.67, and macro pressure eases.
+- Treat 50.90 and 51.67 as watch levels only until they are independently confirmed.
+- Wait for fresher macro data and cleaner price confirmation before changing stance.
 
 ## Risk
 - Conflict-driven safe-haven demand could cause an upside move before macro improves.
-- `AAAU` and gold quote timestamps are not perfectly matched.
+- Quote timestamp mismatch and stale macro data reduce precision for any tactical entry.
 
 ## Invalidation
-- The flat stance weakens if gold reclaims 4,814.6 and `AAAU` clears 51.67 with confirmation.
-- The setup turns more negative if gold breaks 4,450.9 and `AAAU` loses 50.90.
+- The flat neutral stance weakens if fresh macro data and confirmed price action align clearly in one direction.
+- A confirmed move through the current watch-level area, with fresher macro confirmation, would justify reassessment.
 
 ## Top 3 facts
-- Signal state is mixed, which defaults to hold.
-- Gold is far below its early-March high and close to the recent low.
-- `AAAU` is near short-term resistance, not near a confirmed bullish breakout.
+- Signal score is neutral and confidence is capped at low.
+- Core macro inputs are stale under the freshness rules.
+- `AAAU` watch levels are unconfirmed pivots rather than validated trade triggers.
 
 ## Top 2 risks
 - Conflict-driven safe-haven demand could cause an upside move before macro improves.
-- Quote timestamp mismatch reduces precision for the entry read.
+- Fresh macro data could materially change the tactical read.

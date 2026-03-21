@@ -104,3 +104,46 @@ Top 3 facts:
 Top 2 risks:
 - Safe-haven demand could still overpower restrictive macro.
 - Mixed and slightly stale data could be understating a recent turn.
+
+### 2026-03-21
+Facts:
+- Gold was quoted at 4,666.4 on 2026-03-20 and `AAAU` at 51.28 on 2026-03-20.
+- Barchart pivot watch levels were 4,450.9 and 4,814.6 for gold, and 50.90 and 51.67 for `AAAU`.
+- US 10Y real yield was 1.85% on 2026-03-11 and the broad dollar proxy was 119.491 on 2026-03-06.
+- Geopolitical stress, ETF inflows, and central-bank demand remained supportive in the snapshots.
+
+Interpretation:
+- The data set remains mixed, but freshness rules now cap confidence at low because core macro inputs are stale.
+- The signal remains neutral because the score is `0`, even though the background pressure is not favorable.
+- The current pivot levels are watch levels only, not independently confirmed trade triggers.
+
+Signal:
+- Neutral
+
+Confidence:
+- Low
+- Confidence score: 42%
+
+Signal score:
+- 0
+
+Action:
+- Stay flat in `AAAU`.
+- Wait for fresh macro data and confirmed price action before changing stance.
+
+Risk:
+- Safe-haven demand could still overpower restrictive macro.
+- Stale macro inputs could be obscuring a recent turn in yields or the dollar.
+
+Invalidation:
+- The neutral read weakens if fresh macro data and confirmed price action align clearly in one direction.
+- A confirmed move through the current watch-level area would justify reassessment.
+
+Top 3 facts:
+- Core macro inputs are stale and cap confidence at low.
+- Gold is far below its early-March high and close to its recent low.
+- Geopolitical stress and demand support remain present at the same time the macro backdrop is restrictive.
+
+Top 2 risks:
+- Safe-haven demand could still overpower restrictive macro.
+- Fresh macro data could materially change the tactical read.

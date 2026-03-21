@@ -3,48 +3,53 @@
 ## Facts
 - US 10Y real yield was 1.85% on 2026-03-11.
 - The best verified dollar proxy, `DTWEXBGS`, was 119.491 on 2026-03-06.
-- Fed held rates at 3.50% to 3.75% on 2026-03-18, and public futures coverage says cut expectations have been pushed back.
-- Gold was quoted at 4,666.4, versus a 1-month high of 5,434.1 and a 2026-03-19 low of 4,505.0.
-- Gold near-term support was 4,450.9 and near-term resistance was 4,814.6.
-- Geopolitical stress remained elevated, including Gulf attacks and Hormuz disruption risk.
+- Fed held rates at 3.50% to 3.75% on 2026-03-18.
+- Public futures coverage said cut expectations had been pushed back.
+- Gold was quoted at 4,666.4 on 2026-03-20.
+- Gold 1-month high was 5,434.1 on 2026-03-02.
+- Gold 1-month low was 4,505.0 on 2026-03-19.
+- Barchart pivot watch levels were 4,450.9 support and 4,814.6 resistance.
+- Geopolitical stress remained elevated, including Gulf attacks and Hormuz disruption risk, in the 2026-03-20 snapshot.
 - February 2026 gold ETF flows were positive, and central-bank demand was strong in 2025.
 - Snapshot timestamps are mixed, and the dollar input is a broad proxy rather than `DXY`.
+- Core macro data are stale under `assets/gold/framework/freshness_rules.md`.
 
 ## Interpretation
-- The macro backdrop is still a headwind for gold.
-- Elevated real yields, firm dollar conditions, and tighter-for-longer repricing lean bearish.
-- Geopolitical stress and structural demand support lean bullish, but they are not dominating price.
-- Gold is not behaving like a clean haven.
-- The current regime is mixed, with weak price action and supportive sentiment offsetting each other.
+- The decision set is mixed.
+- Restrictive macro, delayed cuts, and weak recent price behavior lean against gold.
+- Geopolitical stress and supportive demand data lean in favor of gold.
+- Because core macro inputs are stale and timestamps are mixed, the tactical read is lower quality than the directional narrative might suggest.
+- The available evidence supports caution, not a high-conviction directional thesis.
 
 ## Signal
-- Regime: Neutral / hold with bearish tilt
+- Regime: Neutral
 
 ## Confidence
-- Medium
-- Confidence score: 58%
+- Low
+- Confidence score: 42%
 
 ## Signal score
 - 0
-- Read: mixed evidence, slightly weaker than neutral but not clean enough for `-1`.
+- Read: mixed evidence with stale core macro inputs, so the score remains neutral.
 
 ## Action
 - Stay flat.
-- Wait for either a stronger reclaim above 4,814.6 or a clearer break below 4,450.9 before changing stance.
-- Do not treat current conditions as a high-conviction bullish re-entry.
+- Use 4,450.9 and 4,814.6 only as watch levels until they are independently confirmed.
+- Do not treat current conditions as a high-conviction bullish or bearish setup.
 
 ## Risk
 - Geopolitical stress could still trigger a sharp safe-haven rebound despite restrictive macro.
-- Mixed timestamps and proxy substitutions could be obscuring a recent turn in yields or the dollar.
+- Stale macro inputs and proxy substitutions could be obscuring a recent turn in yields or the dollar.
 
 ## Invalidation
-- This neutral / bearish-tilt view weakens if gold reclaims and holds above 4,814.6 while real yields and the dollar ease.
-- This view shifts more bearish if gold loses 4,450.9 support and macro remains restrictive.
+- This neutral view weakens if fresh macro data and confirmed price action align in one direction.
+- A confirmed reclaim above the current resistance watch area with softer macro pressure would weaken the cautious read.
+- A confirmed break below the current support watch area with restrictive macro still in place would weaken the neutral read in the opposite direction.
 
 ## Top 3 facts
-- Real yields remain elevated and the Fed backdrop is still restrictive.
-- Gold is far below its early-March high and only modestly above its recent low.
-- Geopolitical stress and demand support are present, but gold is still failing to behave like a clean haven.
+- Core macro inputs are stale and confidence must be capped.
+- Gold is far below its early-March high and close to its recent low.
+- Geopolitical stress and demand support are present at the same time restrictive macro remains a headwind.
 
 ## Top 2 risks
 - Geopolitical stress could still trigger a sharper safe-haven rebound despite restrictive macro.
