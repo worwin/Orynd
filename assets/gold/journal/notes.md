@@ -31,3 +31,76 @@ Top 3 facts driving conclusion:
 Top 2 risks to thesis:
 - Safe-haven demand could overpower restrictive macro.
 - Mixed and slightly stale snapshot timing limits confidence.
+
+### 2026-03-20
+Facts:
+- Gold is now quoted at 4,666.4, far below the 1-month high of 5,434.1 and only modestly above support at 4,450.9.
+- Real yields remain elevated, the Fed stayed on hold, and accessible public coverage says 2026 cut expectations have dimmed.
+- Geopolitical stress, Hormuz disruption risk, ETF inflows, and central-bank demand remain supportive.
+
+Interpretation:
+- The setup is still mixed, but the short-term read has weakened.
+- Gold is not acting like a clean haven; macro pressure from rates, the dollar, and tighter-for-longer repricing is still offsetting safe-haven support.
+
+Signal:
+- Neutral / hold with bearish tilt
+- Confidence: Medium
+
+Action:
+- Keep `AAAU` at no active position.
+- Wait for a cleaner bullish reclaim above resistance or a cleaner bearish break below support before changing stance.
+
+Invalidation:
+- A reclaim and hold above 4,814.6 with softer yields / USD would weaken the bearish tilt.
+- A break below 4,450.9 with restrictive macro intact would shift the setup more bearish.
+
+Top 3 facts driving conclusion:
+- Elevated real yields and delayed cut expectations.
+- Gold far below the early-March high and near the recent low.
+- Geopolitical stress is high, but gold is still not acting like a clean haven.
+
+Top 2 risks to thesis:
+- Safe-haven demand could still overpower restrictive macro.
+- Mixed and slightly stale timestamp alignment limits confidence.
+
+### 2026-03-21
+Facts:
+- US 10Y real yield was 1.85% on 2026-03-11, the broad dollar proxy remained firm, and the Fed held rates at 3.50% to 3.75% on 2026-03-18.
+- Gold was quoted at 4,666.4 with support at 4,450.9 and resistance at 4,814.6.
+- `AAAU` was quoted at 51.28 with support at 50.90 and resistance at 51.67.
+- Geopolitical stress, Hormuz disruption risk, ETF inflows, and central-bank demand remained supportive.
+
+Interpretation:
+- Macro pressure is still offsetting the safe-haven case.
+- Gold is not behaving like a clean haven, so the evidence remains mixed rather than decisively bullish.
+
+Signal:
+- Neutral / hold with bearish tilt
+
+Confidence:
+- Medium
+- Confidence score: 57%
+
+Signal score:
+- 0
+
+Action:
+- Stay flat in `AAAU`.
+- Wait for a cleaner reclaim above resistance or a clearer break below support before changing stance.
+
+Risk:
+- Safe-haven demand could still overwhelm restrictive macro.
+- Mixed timestamps and proxy substitutions reduce signal quality.
+
+Invalidation:
+- The neutral / bearish-tilt read weakens if gold reclaims 4,814.6 and `AAAU` clears 51.67 with softer macro pressure.
+- The setup turns more bearish if gold breaks 4,450.9 and `AAAU` loses 50.90.
+
+Top 3 facts:
+- Real yields remain elevated and the Fed backdrop is still restrictive.
+- Gold is far below its early-March high and close to the recent low.
+- Geopolitical stress is high, but gold is still not acting like a clean haven.
+
+Top 2 risks:
+- Safe-haven demand could still overpower restrictive macro.
+- Mixed and slightly stale data could be understating a recent turn.

@@ -4,46 +4,46 @@
 AAAU
 
 ## Facts
-- `AAAU` last quoted price: 51.13.
-- `AAAU` current support: 50.87.
-- `AAAU` current resistance: 51.33.
-- Gold macro backdrop is mixed: restrictive rates/real yields vs supportive geopolitical stress and flows.
+- `AAAU` last quoted price: 51.28.
+- `AAAU` near-term support: 50.90.
+- `AAAU` near-term resistance: 51.67.
+- Gold remains under macro pressure from elevated real yields, a firm dollar proxy, and delayed cut expectations.
+- Gold price action is still weak relative to the recent high.
 
 ## Interpretation
-- Conservative mode does not justify initiating risk when the signal state is mixed.
-- The instrument is near short-term resistance while the underlying gold thesis is not cleanly bullish.
+- The current setup does not justify initiating risk.
+- `AAAU` is near short-term resistance while the underlying gold signal remains mixed.
+- A flat position is more consistent with the protocol than forcing exposure into conflicted evidence.
 
 ## Signal
-- Stance signal: Hold / neutral
-- Confidence: Medium
+- Stance: No active position
+- Bias: Neutral / hold with bearish tilt
+
+## Confidence
+- Medium
+- Confidence score: 58%
+
+## Signal score
+- 0
+- Read: positioning stays flat because the directional signal is mixed.
 
 ## Action
-- No active position.
-- Do not add until gold reclaims and holds above the former 5,200 support zone and/or the macro headwind from real yields eases.
+- Stay flat in `AAAU`.
+- Add only if gold reclaims and holds above 4,814.6, `AAAU` clears 51.67, and macro pressure eases.
+
+## Risk
+- Conflict-driven safe-haven demand could cause an upside move before macro improves.
+- `AAAU` and gold quote timestamps are not perfectly matched.
 
 ## Invalidation
-- Neutral no-position stance is invalidated on the upside if gold reclaims 5,200 and `AAAU` clears 51.33 with confirmation.
-- Neutral no-position stance is invalidated on the downside if gold breaks 5,146 and `AAAU` loses 50.87, which would argue against trying to buy weakness.
+- The flat stance weakens if gold reclaims 4,814.6 and `AAAU` clears 51.67 with confirmation.
+- The setup turns more negative if gold breaks 4,450.9 and `AAAU` loses 50.90.
 
-## Top 3 facts driving conclusion
-- Signal state is mixed, which defaults to hold in conservative mode.
-- Gold is still below former support near 5,200.
+## Top 3 facts
+- Signal state is mixed, which defaults to hold.
+- Gold is far below its early-March high and close to the recent low.
 - `AAAU` is near short-term resistance, not near a confirmed bullish breakout.
 
-## Top 2 risks to thesis
+## Top 2 risks
 - Conflict-driven safe-haven demand could cause an upside move before macro improves.
-- The quote timestamps across gold and `AAAU` are not perfectly verified as matched.
-
-## Stance
-No active position
-
-## Thesis
-Neutral / hold until signals align
-
-## Add conditions
-- Gold reclaims and holds above 5,200.
-- `AAAU` clears 51.33 with confirmation.
-- Real yields and/or USD pressure ease.
-
-## Reduce conditions
-- Remain flat unless a position is opened on stronger evidence.
+- Quote timestamp mismatch reduces precision for the entry read.

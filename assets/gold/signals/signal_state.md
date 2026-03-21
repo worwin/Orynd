@@ -1,42 +1,51 @@
 # Gold signal state
 
 ## Facts
-- Bullish inputs present:
-- Geopolitical stress elevated.
-- Gold ETF flows positive and central-bank demand supportive.
-- Bearish inputs present:
-- Real yields elevated.
-- Broad USD proxy firm into early March.
-- Price is below former support near 5,200.
-- Market structure is not broken at current support yet: current support 5,146.4 sits slightly below the latest quoted price 5,157.6.
+- Bullish inputs:
+- Geopolitical stress is elevated.
+- ETF flows are positive.
+- Central-bank demand remains supportive.
+- Bearish inputs:
+- Real yields are elevated.
+- The broad dollar proxy is firm.
+- Rate-cut expectations have been pushed back.
+- Gold is trading at 4,666.4, near the recent low and below resistance at 4,814.6.
+- Gold is not behaving like a clean haven despite elevated conflict risk.
 
 ## Interpretation
-- The rule set is mixed rather than cleanly bullish or bearish.
-- Gold is not decisively holding former support, but it is also not yet through current near-term support.
-- Conservative mode means conflicting evidence defaults to neutral rather than forcing a trade.
+- The rule set remains mixed.
+- Bullish inputs are present, but they are not translating into strong price confirmation.
+- Bearish inputs dominate the short-term read because macro pressure and weak price action are aligned.
+- Because the evidence is mixed and timestamps are not fully aligned, the protocol still favors a neutral outcome over a forced bearish call.
 
 ## Signal
-- Current status: Neutral
-- Confidence: Medium
-- Rule read:
-- Bullish: geopolitical stress elevated.
-- Bearish: macro restrictive and price below former support.
-- Neutral: yes, because signals conflict.
+- Current status: Neutral / hold with bearish tilt
+
+## Confidence
+- Medium
+- Confidence score: 56%
+
+## Signal score
+- 0
+- Read: mixed signal quality, with bearish pressure not strong enough for `-1`.
 
 ## Action
-- No directional signal upgrade.
 - Maintain hold / no new active position in `AAAU`.
+- Do not upgrade the signal unless gold reclaims resistance with macro relief.
+
+## Risk
+- Safe-haven demand could still overwhelm restrictive macro.
+- The signal could be too conservative if the market is bottoming near support.
 
 ## Invalidation
-- Upgrade toward bullish only if price reclaims and holds above 5,200 with less macro pressure from yields/USD.
-- Downgrade toward bearish if gold breaks below 5,146 support and `AAAU` loses 50.87 support.
+- Upgrade toward bullish only if gold reclaims and holds above 4,814.6 with less macro pressure from yields/USD and `AAAU` clears 51.67.
+- Downgrade toward bearish if gold breaks below 4,450.9 support and `AAAU` loses 50.90 support.
 
-## Top 3 facts driving conclusion
+## Top 3 facts
 - Elevated real yields remain a macro headwind.
-- Gold is below former support near 5,200.
-- Geopolitical stress is high enough to prevent a clean bearish read.
+- Gold is far below its early-March high and close to its recent low.
+- Geopolitical stress is high enough to prevent a clean outright bearish read.
 
-## Notes
-- Top 2 risks to thesis:
-- Safe-haven demand could overwhelm restrictive macro.
-- Snapshot timestamps are mixed, so signal quality is not high enough for aggressive positioning.
+## Top 2 risks
+- Safe-haven demand could still overwhelm restrictive macro.
+- Snapshot timestamps are mixed, reducing signal quality.
