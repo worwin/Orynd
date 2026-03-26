@@ -2,8 +2,9 @@
 
 ## Purpose
 This repository is a lightweight trading operating system for discretionary macro analysis.
-The first supported asset is gold.
-The primary execution vehicle is AAAU.
+Supported assets:
+- Gold, with `AAAU` as the primary execution vehicle
+- Silver, with `SLV` as the primary execution vehicle
 
 ## Core rules
 - Do not invent market facts.
@@ -20,6 +21,16 @@ When asked to update gold:
 5. Update `assets/gold/signals/signal_state.md`
 6. Update `assets/gold/trades/current_position.md`
 7. Add a dated note to `assets/gold/journal/notes.md`
+
+## Silver workflow
+When asked to update silver:
+1. Read `assets/silver/tasks/update_silver.md`
+2. Inspect files in `assets/silver/data/`
+3. Update `assets/silver/thesis/current_state.md`
+4. Evaluate `assets/silver/signals/signal_rules.md`
+5. Update `assets/silver/signals/signal_state.md`
+6. Update `assets/silver/trades/current_position.md`
+7. Add a dated note to `assets/silver/journal/notes.md`
 
 ## File roles
 - `core_thesis.md` = slow moving model of how gold works
