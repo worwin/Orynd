@@ -5,6 +5,7 @@ This repository is a lightweight trading operating system for discretionary macr
 Supported assets:
 - Gold, with `AAAU` as the primary execution vehicle
 - Silver, with `SLV` as the primary execution vehicle
+- Equities, with per-ticker workspaces under `assets/equities/tickers/`
 
 ## Core rules
 - Do not invent market facts.
@@ -31,6 +32,16 @@ When asked to update silver:
 5. Update `assets/silver/signals/signal_state.md`
 6. Update `assets/silver/trades/current_position.md`
 7. Add a dated note to `assets/silver/journal/notes.md`
+
+## Equities workflow
+When asked to update a company:
+1. Read `assets/equities/tasks/update_company.md`
+2. Review the target ticker files under `assets/equities/tickers/`
+3. Review the latest filings and company profile files
+4. Refresh analysis files
+5. Run the Buffett entry/exit decision
+6. Update the ticker position file
+7. Generate the ticker final report
 
 ## File roles
 - `core_thesis.md` = slow moving model of how gold works

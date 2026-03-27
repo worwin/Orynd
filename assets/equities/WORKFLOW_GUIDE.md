@@ -1,0 +1,194 @@
+# Equities Workflow Guide
+
+## What this system is
+This is the stock-analysis operating system for Buffett-style long-term investing.
+
+It has:
+- a shared framework in `assets/equities/framework/`
+- portfolio-level files in `assets/equities/portfolio/`
+- reusable tasks in `assets/equities/tasks/`
+- one workspace per stock in `assets/equities/tickers/<TICKER>/`
+
+## How to think about the tasks
+You do not usually run every task manually in order unless you want maximum control.
+
+There are two normal ways to use the system:
+- full workflow
+- targeted task
+
+## Full workflow
+Use this when you want the whole company updated from research through decision and report.
+
+Say:
+- `Run assets/equities/tasks/update_company.md for AAPL`
+- `Run the full equity workflow for MSFT`
+- `Update company AAPL`
+
+What that means operationally:
+1. review company profile files
+2. review filings
+3. refresh analysis files
+4. run Buffett entry/exit decision
+5. run critic review
+6. update position
+7. generate final report
+
+## Targeted task mode
+Use this when only one part of the workflow needs to change.
+
+Examples:
+- `Run assets/equities/tasks/04_review_filings.md for AAPL`
+- `Run assets/equities/tasks/06_run_buffett_entry_exit.md for BRK-B`
+- `Run assets/equities/tasks/09_generate_final_report.md for V`
+
+## What each task does
+
+### Task 01
+`01_audit_equities_repo.md`
+
+Use when:
+- you want to inspect what exists
+- you want to see what is missing
+- you want a repo health check
+
+### Task 02
+`02_create_company_workspace.md`
+
+Use when:
+- adding a new stock for the first time
+
+You can say:
+- `Create a company workspace for JPM`
+
+### Task 03
+`03_populate_company_profile.md`
+
+Use when:
+- you want the slow-moving business understanding built out
+- business model, moat, management, risks, and capital allocation need to be populated
+
+### Task 04
+`04_review_filings.md`
+
+Use when:
+- a new 10-K, 10-Q, 8-K, or proxy is out
+- you want the primary-source evidence refreshed
+
+### Task 05
+`05_build_long_term_analysis.md`
+
+Use when:
+- you want the broad investment memo
+- fundamentals, valuation context, technical context, and sentiment need to be refreshed
+
+### Task 06
+`06_run_buffett_entry_exit.md`
+
+Use when:
+- you want the actual Buffett-style decision
+- you want `BUY`, `HOLD`, `SELL`, or `INSUFFICIENT_DATA`
+- you want entry prices, exit prices, and JSON output
+
+### Task 07
+`07_critic_review.md`
+
+Use when:
+- you want the thesis attacked
+- you want accounting, moat, or valuation weaknesses surfaced
+
+### Task 08
+`08_update_position.md`
+
+Use when:
+- actual holdings changed
+- the recommendation changed and you want the live position file updated
+
+Important:
+- this task must distinguish actual holdings from recommended action
+
+### Task 09
+`09_generate_final_report.md`
+
+Use when:
+- you want the final decision memo for the stock
+
+## Do I say “run task 0-9”?
+Not exactly.
+
+The cleanest options are:
+- `Run assets/equities/tasks/update_company.md for AAPL`
+- `Run the full equity workflow for AAPL`
+- `Run task 04 for AAPL`
+- `Run task 06 for AAPL`
+
+There is no `00` task right now.
+The current numbered task set is `01` through `09`.
+
+## Recommended normal workflow
+
+### First time covering a stock
+1. Run task `02`
+2. Run task `03`
+3. Run task `04`
+4. Run task `05`
+5. Run task `06`
+6. Run task `07`
+7. Run task `08`
+8. Run task `09`
+
+### Existing covered stock, normal refresh
+1. Run `update_company.md`
+
+### Earnings or filing refresh
+1. Run task `04`
+2. Run task `05`
+3. Run task `06`
+4. Run task `07`
+5. Run task `08` if needed
+6. Run task `09`
+
+### Holdings-only change
+1. Run task `08`
+
+## Best user commands
+These are the most natural prompts to use with me:
+
+- `Create a workspace for COST`
+- `Run the full equity workflow for AAPL`
+- `Run task 04 for MSFT`
+- `Run Buffett entry/exit for BRK-B`
+- `Generate the final report for V`
+- `Update the position file for AAPL to 20 shares`
+
+## What files matter most
+
+### Slow-moving understanding
+- `company_profile/`
+- `filings/`
+
+### Live analysis
+- `analysis/`
+
+### Action layer
+- `decisions/buffett_decision.md`
+- `decisions/buffett_decision.json`
+- `trades/current_position.md`
+- `reports/latest_report.md`
+
+## Confidence guidance
+For equities, confidence should come mainly from:
+- filing coverage
+- accounting clarity
+- moat and management understanding
+- valuation quality
+
+It should not come mainly from:
+- short-term price movement
+- social sentiment
+- technical indicators alone
+
+## Practical rule of thumb
+If you are unsure what to ask for, use:
+- `Run the full equity workflow for <TICKER>`
+
+That is the safest default.
