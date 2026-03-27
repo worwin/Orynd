@@ -1,0 +1,27 @@
+{
+  "ticker": "BRK-B",
+  "company_name": "Berkshire Hathaway Inc.",
+  "cik": "0001067983",
+  "record": {
+    "accession_number": "0000950123-23-008074",
+    "filing_date": "2023-08-14",
+    "report_date": "2023-06-30",
+    "acceptance_datetime": "2023-08-14T20:01:03.000Z",
+    "act": "34",
+    "form": "13F-HR",
+    "file_number": "028-04545",
+    "film_number": "231169523",
+    "items": "",
+    "size": 85714,
+    "is_xbrl": 0,
+    "is_inline_xbrl": 0,
+    "primary_document": "xslForm13F_X02/primary_doc.xml",
+    "primary_doc_description": ""
+  },
+  "urls": {
+    "directory_index_json": "https://www.sec.gov/Archives/edgar/data/1067983/000095012323008074/index.json",
+    "full_submission_txt": "https://www.sec.gov/Archives/edgar/data/1067983/000095012323008074/0000950123-23-008074.txt",
+    "primary_document": "https://www.sec.gov/Archives/edgar/data/1067983/000095012323008074/xslForm13F_X02/primary_doc.xml"
+  },
+  "synced_at_utc": "2026-03-27T11:23:45.954052+00:00"
+}

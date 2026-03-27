@@ -1,0 +1,27 @@
+{
+  "ticker": "AAPL",
+  "company_name": "Apple Inc.",
+  "cik": "0000320193",
+  "record": {
+    "accession_number": "0001193125-12-006704",
+    "filing_date": "2012-01-09",
+    "report_date": "2012-02-23",
+    "acceptance_datetime": "2012-01-09T22:06:57.000Z",
+    "act": "34",
+    "form": "DEF 14A",
+    "file_number": "000-10030",
+    "film_number": "12518092",
+    "items": "",
+    "size": 1366027,
+    "is_xbrl": 0,
+    "is_inline_xbrl": 0,
+    "primary_document": "d275281ddef14a.htm",
+    "primary_doc_description": "DEFINITIVE PROXY STATEMENT"
+  },
+  "urls": {
+    "directory_index_json": "https://www.sec.gov/Archives/edgar/data/320193/000119312512006704/index.json",
+    "full_submission_txt": "https://www.sec.gov/Archives/edgar/data/320193/000119312512006704/0001193125-12-006704.txt",
+    "primary_document": "https://www.sec.gov/Archives/edgar/data/320193/000119312512006704/d275281ddef14a.htm"
+  },
+  "synced_at_utc": "2026-03-27T10:53:14.134548+00:00"
+}

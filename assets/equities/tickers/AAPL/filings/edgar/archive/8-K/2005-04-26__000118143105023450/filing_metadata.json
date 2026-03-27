@@ -1,0 +1,27 @@
+{
+  "ticker": "AAPL",
+  "company_name": "Apple Inc.",
+  "cik": "0000320193",
+  "record": {
+    "accession_number": "0001181431-05-023450",
+    "filing_date": "2005-04-26",
+    "report_date": "2005-04-21",
+    "acceptance_datetime": "2005-04-25T22:48:38.000Z",
+    "act": "34",
+    "form": "8-K",
+    "file_number": "000-10030",
+    "film_number": "05771263",
+    "items": "1.01",
+    "size": 16893,
+    "is_xbrl": 0,
+    "is_inline_xbrl": 0,
+    "primary_document": "rrd76564.htm",
+    "primary_doc_description": "PERFORMANCE BONUS PLAN"
+  },
+  "urls": {
+    "directory_index_json": "https://www.sec.gov/Archives/edgar/data/320193/000118143105023450/index.json",
+    "full_submission_txt": "https://www.sec.gov/Archives/edgar/data/320193/000118143105023450/0001181431-05-023450.txt",
+    "primary_document": "https://www.sec.gov/Archives/edgar/data/320193/000118143105023450/rrd76564.htm"
+  },
+  "synced_at_utc": "2026-03-27T10:56:57.133834+00:00"
+}

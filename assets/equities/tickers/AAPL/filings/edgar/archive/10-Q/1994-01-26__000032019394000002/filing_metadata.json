@@ -1,0 +1,26 @@
+{
+  "ticker": "AAPL",
+  "company_name": "Apple Inc.",
+  "cik": "0000320193",
+  "record": {
+    "accession_number": "0000320193-94-000002",
+    "filing_date": "1994-01-26",
+    "report_date": "1993-12-31",
+    "acceptance_datetime": "1994-01-26T05:00:00.000Z",
+    "act": "",
+    "form": "10-Q",
+    "file_number": "000-10030",
+    "film_number": "94502732",
+    "items": "",
+    "size": 233311,
+    "is_xbrl": 0,
+    "is_inline_xbrl": 0,
+    "primary_document": "",
+    "primary_doc_description": ""
+  },
+  "urls": {
+    "directory_index_json": "https://www.sec.gov/Archives/edgar/data/320193/000032019394000002/index.json",
+    "full_submission_txt": "https://www.sec.gov/Archives/edgar/data/320193/000032019394000002/0000320193-94-000002.txt"
+  },
+  "synced_at_utc": "2026-03-27T10:59:32.731223+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "ticker": "AAPL",
+  "company_name": "Apple Inc.",
+  "cik": "0000320193",
+  "record": {
+    "accession_number": "0000320193-25-000071",
+    "filing_date": "2025-07-31",
+    "report_date": "2025-07-31",
+    "acceptance_datetime": "2025-07-31T20:30:25.000Z",
+    "act": "34",
+    "form": "8-K",
+    "file_number": "001-36743",
+    "film_number": "251172116",
+    "items": "2.02,9.01",
+    "size": 420256,
+    "is_xbrl": 1,
+    "is_inline_xbrl": 1,
+    "primary_document": "aapl-20250731.htm",
+    "primary_doc_description": "8-K"
+  },
+  "urls": {
+    "directory_index_json": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000071/index.json",
+    "full_submission_txt": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000071/0000320193-25-000071.txt",
+    "primary_document": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000071/aapl-20250731.htm"
+  },
+  "synced_at_utc": "2026-03-27T10:46:00.472334+00:00"
+}

@@ -1,0 +1,3004 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ K9K5PaapKlI4wiN4uHdpm52nTY3xW/cNYZnhsNCXY1Ti+2SFtoJxXGiS+fNNbeeQ
+ 6KIqlRTjLwMVWzGv7Za2FQ==
+
+<SEC-DOCUMENT>0000912057-96-030278.txt : 19970113
+<SEC-HEADER>0000912057-96-030278.hdr.sgml : 19970113
+ACCESSION NUMBER:		0000912057-96-030278
+CONFORMED SUBMISSION TYPE:	DEF 14A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19970205
+FILED AS OF DATE:		19961227
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			APPLE COMPUTER INC
+		CENTRAL INDEX KEY:			0000320193
+		STANDARD INDUSTRIAL CLASSIFICATION:	3571
+		IRS NUMBER:				942404110
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		DEF 14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-10030
+		FILM NUMBER:		96686724
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 INFINITE LOOP
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+		BUSINESS PHONE:		4089961010
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEF 14A
+<SEQUENCE>1
+<DESCRIPTION>DEF 14A
+<TEXT>
+
+<PAGE>
+                                  SCHEDULE 14A
+                                 (RULE 14a-101)
+ 
+                    INFORMATION REQUIRED IN PROXY STATEMENT
+ 
+                            SCHEDULE 14A INFORMATION
+                PROXY STATEMENT PURSUANT TO SECTION 14(a) OF THE
+                        SECURITIES EXCHANGE ACT OF 1934
+ 
+    Filed by the Registrant /X/
+    Filed by a Party other than the Registrant / /
+ 
+    Check the appropriate box:
+    / /  Preliminary Proxy Statement
+    / /  Confidential, for Use of the Commission Only (as permitted by Rule
+         14a-6(e)(2))
+    /X/  Definitive Proxy Statement
+    / /  Definitive Additional Materials
+    / /  Soliciting Material Pursuant to Rule 14a-11(c) or Rule 14a-12
+ 
+                                       APPLE COMPUTER, INC.
+- - --------------------------------------------------------------------------------
+                (Name of Registrant as Specified In Its Charter)
+ 
+- - --------------------------------------------------------------------------------
+    (Name of Person(s) Filing Proxy Statement, if other than the Registrant)
+ 
+Payment of Filing Fee (Check the appropriate box):
+ 
+/X/  No fee required.
+/ /  Fee computed on table below per Exchange Act Rules 14a-6(i)(1)
+     and 0-11.
+     1) Title of each class of securities to which transaction applies:
+        ------------------------------------------------------------------------
+     2) Aggregate number of securities to which transaction applies:
+        ------------------------------------------------------------------------
+     3) Per unit price or other underlying value of transaction computed
+        pursuant to Exchange Act Rule 0-11 (set forth the amount on which the
+        filing fee is calculated and state how it was determined):
+        ------------------------------------------------------------------------
+     4) Proposed maximum aggregate value of transaction:
+        ------------------------------------------------------------------------
+     5) Total fee paid:
+        ------------------------------------------------------------------------
+/ /  Check box if any part of the fee is offset as provided by Exchange Act Rule
+     0-11(a)(2) and identify the filing for which the offsetting fee was paid
+     previously. Identify the previous filing by registration statement number,
+     or the Form or Schedule and the date of its filing.
+     1) Amount Previously Paid:
+        ------------------------------------------------------------------------
+     2) Form, Schedule or Registration Statement No.:
+        ------------------------------------------------------------------------
+     3) Filing Party:
+        ------------------------------------------------------------------------
+     4) Date Filed:
+        ------------------------------------------------------------------------
+<PAGE>
+                             [APPLE COMPUTER LOGO]
+ 
+                    NOTICE OF ANNUAL MEETING OF SHAREHOLDERS
+                         TO BE HELD ON FEBRUARY 5, 1997
+ 
+To Holders of Common Stock of
+ 
+Apple Computer, Inc.:
+ 
+    Notice is hereby given that the Annual Meeting of Shareholders of Apple
+Computer, Inc., a California corporation ("Apple" or the "Company"), will be
+held on Wednesday, February 5, 1997 at 10:00 a.m., local time, at the Flint
+Center, DeAnza College, at 21250 Stevens Creek Boulevard, Cupertino, California
+95014, for the following purposes, as more fully described in the accompanying
+Proxy Statement:
+ 
+    1.  To elect three directors to Class I of the Board of Directors.
+ 
+    2.  To approve an amendment to the Employee Stock Purchase Plan to increase
+       the number of shares of Common Stock reserved for issuance thereunder by
+       3,500,000 shares.
+ 
+    3.  To approve the grant of a stock option to Dr. Gilbert F. Amelio under
+       the 1990 Stock Option Plan (the "1990 Plan") to acquire 1,000,000 shares
+       of Common Stock at an exercise price equal to $26.25 per share, as set
+       forth in his employment agreement with the Company.
+ 
+    4.  To approve an amendment to the 1990 Plan to (i) permit compliance with
+       the requirements of Section 162(m) of the Internal Revenue Code of 1986,
+       as amended, applicable to qualified performance-based compensation and
+       (ii) increase the number of shares of Common Stock reserved for issuance
+       thereunder by 1,000,000 shares.
+ 
+    5.  To ratify the terms of a Performance Share Arrangement for Dr. Gilbert
+       F. Amelio for fiscal year 1996, as set forth in his employment agreement
+       with the Company.
+ 
+    6.  To approve the Senior Officers Restricted Performance Share Plan,
+       including the performance goals stated therein, for the Chief Executive
+       Officer, other executive officers and such other key employees of the
+       Company as the Compensation Committee of the Board of Directors may
+       determine, which plan provides for the issuance of up to 2,000,000 shares
+       of Common Stock.
+ 
+    7.  To ratify the appointment of KPMG Peat Marwick LLP as independent
+       auditors of Apple for fiscal year 1997.
+ 
+    8.  To transact such other business as may properly come before the meeting
+       or any adjournment(s) thereof.
+ 
+    All shareholders are cordially invited to attend the meeting in person.
+However, to ensure that each shareholder's vote is counted at the meeting,
+shareholders are requested to mark, sign, date and return the enclosed proxy
+card as promptly as possible in the envelope provided. Shareholders attending
+the meeting may vote in person even if they have previously returned proxy
+cards.
+ 
+    Only shareholders of record as of the close of business on December 9, 1996
+are entitled to receive notice of, to attend and to vote at the meeting.
+ 
+                                          Sincerely,
+ 
+                                                     [SIGNATURE]
+ 
+                                          GEORGE M. SCALISE
+                                          EXECUTIVE VICE PRESIDENT,
+                                          CHIEF ADMINISTRATIVE OFFICER
+                                          AND ACTING SECRETARY
+ 
+Cupertino, California
+December 26, 1996
+<PAGE>
+                              APPLE COMPUTER, INC.
+                                1 INFINITE LOOP
+                          CUPERTINO, CALIFORNIA 95014
+                                PROXY STATEMENT
+ 
+INTRODUCTION
+ 
+    The enclosed Proxy is solicited on behalf of the Board of Directors of Apple
+Computer, Inc., a California corporation ("Apple" or the "Company"), for use at
+Apple's Annual Meeting of Shareholders (the "Annual Meeting") to be held on
+Wednesday, February 5, 1997 at 10:00 a.m., local time, or at any adjournment(s)
+thereof. The purposes of the Annual Meeting are set forth in this Proxy
+Statement and in the accompanying Notice of Annual Meeting of Shareholders. The
+Annual Meeting will be held at the Flint Center, DeAnza College, at 21250
+Stevens Creek Boulevard, Cupertino, California 95014.
+ 
+    The Company's principal executive offices are located at, and the Company's
+complete mailing address is, 1 Infinite Loop, Cupertino, California 95014, and
+its telephone number is (408) 996-1010. Georgeson & Company Inc., which is
+assisting with the mechanics of the return of the proxies, may be contacted at
+(800) 223-2064.
+ 
+    These proxy solicitation materials were mailed on or about December 26, 1996
+to all shareholders entitled to vote at the Annual Meeting.
+ 
+PROCEDURAL MATTERS
+ 
+    Shareholders of record as of the close of business on December 9, 1996 (the
+"Record Date") are entitled to notice of, to attend and to vote at the Annual
+Meeting. There were 124,561,110 shares of Apple's Common Stock, no par value
+("Common Stock"), issued and outstanding on the Record Date. Each share has one
+vote on all matters. The closing sale price of Common Stock as reported on the
+Nasdaq National Market on the Record Date was $25.00 per share.
+ 
+    A shareholder may revoke any proxy given pursuant to this solicitation by
+attending the Annual Meeting and voting in person, or by delivering to Apple's
+Corporate Secretary at the Company's principal executive offices referred to
+above, prior to the Annual Meeting, a written notice of revocation or a duly
+executed proxy bearing a date later than that of the previously submitted proxy.
+ 
+    Apple will bear the cost of this solicitation. Apple has retained the
+services of Georgeson & Company Inc. to assist in obtaining proxies from brokers
+and nominees of shareholders for the Annual Meeting. The estimated cost of such
+services is $12,500 plus out-of-pocket expenses. In addition, Apple will
+reimburse brokerage firms and other persons representing beneficial owners of
+shares for their reasonable expenses in forwarding solicitation material to such
+beneficial owners. Proxies may be solicited by certain of the Company's
+directors, officers and regular employees, without additional compensation,
+personally or by telephone, telecopy or telegram.
+ 
+QUORUM; ABSTENTIONS; BROKER NON-VOTES
+ 
+    In the election of directors, the three candidates receiving the highest
+number of affirmative votes will be elected as directors. Proposals 2 through 7
+each require for approval (i) the affirmative vote of a majority of the shares
+"represented and voting" and (ii) the affirmative vote of a majority of the
+required quorum. The required quorum for the transaction of business at the
+Annual Meeting is a majority of the shares of Common Stock issued and
+outstanding on the Record Date (the "Quorum"). Shares that are voted "FOR",
+"AGAINST" or "ABSTAIN" in a matter are treated as being present at the meeting
+for purposes of establishing the Quorum, but only shares voted "FOR" or
+"AGAINST" are treated as shares "represented and voting" at the Annual Meeting
+(the "Votes Cast") with respect to such matter. Accordingly, abstentions and
+broker non-votes will be counted for purposes of determining the presence or
+absence of the Quorum for the transaction of business, but will not be counted
+for purposes of determining the number of Votes Cast with respect to a proposal.
+<PAGE>
+                     INFORMATION ABOUT APPLE COMPUTER, INC.
+ 
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+ 
+    The following table sets forth, as of October 31, 1996 (the "Table Date"),
+certain information with respect to the beneficial ownership of Common Stock.
+There are no shareholders known to the Company to be the beneficial owner of
+more than 5% of the outstanding Common Stock. Table A contains information
+concerning (i) each director of the Company and each nominee; (ii) the Chief
+Executive Officer and each of the five other current or former executive
+officers of the Company named in the Summary Compensation Table below under the
+heading "INFORMATION REGARDING EXECUTIVE COMPENSATION" (the "Named Officers");
+and (iii) all directors and executive officers of the Company as a group. On the
+Table Date, 124,537,762 shares of Common Stock were issued and outstanding.
+Unless otherwise indicated, all persons named as beneficial owners of Common
+Stock have sole voting power and sole investment power with respect to the
+shares indicated as beneficially owned.
+ 
+              TABLE A: DIRECTORS, NOMINEES AND EXECUTIVE OFFICERS
+ 
+<TABLE>
+<CAPTION>
+                                                                                           SHARES OF COMMON STOCK
+                                                                                             BENEFICIALLY OWNED
+                                                                                        -----------------------------
+                                                                                          NUMBER OF      PERCENT OF
+NAME                                                                                        SHARES          TOTAL
+- - --------------------------------------------------------------------------------------  --------------  -------------
+<S>                                                                                     <C>             <C>
+Gilbert F. Amelio.....................................................................           8,334(1)           *
+Fred D. Anderson......................................................................             -0-            *
+Gareth C. C. Chang....................................................................           1,000            *
+John Floisand.........................................................................         138,077(2)           *
+Bernard Goldstein.....................................................................          12,167(3)           *
+B. Jurgen Hintz.......................................................................           6,667(4)           *
+Katherine M. Hudson...................................................................           6,667(5)           *
+Marco Landi...........................................................................          42,773(6)           *
+Delano E. Lewis.......................................................................           3,884(7)           *
+A. C. Markkula, Jr....................................................................       2,596,930         2.09
+George M. Scalise.....................................................................           2,000            *
+Michael H. Spindler...................................................................             -0-            *
+Edgar S. Woolard, Jr..................................................................           1,500            *
+All executive officers and directors as a group (26 persons)..........................       3,483,256(8)        2.80
+</TABLE>
+ 
+- - ------------------------
+ 
+*   Less than 1%.
+ 
+(1) Includes 3,334 shares subject to outstanding warrants held by Dr. Amelio
+    that were exercisable at the Table Date or within 60 days of such date.
+ 
+(2) Includes 132,667 shares subject to outstanding options held by Mr. Floisand
+    that were exercisable at the Table Date or within 60 days of such date.
+ 
+(3) Includes 6,667 shares subject to outstanding warrants held by Mr. Goldstein
+    that were exercisable at the Table Date or within 60 days of such date.
+ 
+(4) Includes 6,667 shares subject to outstanding warrants held by Mr. Hintz that
+    were exercisable at the Table Date or within 60 days of such date.
+ 
+(5) Includes 3,333 shares subject to outstanding warrants held by Ms. Hudson
+    that were exercisable at the Table Date or within 60 days of such date.
+ 
+(6) Includes 40,000 shares subject to outstanding options held by Mr. Landi that
+    were exercisable at the Table Date or within 60 days of such date.
+ 
+                                       2
+<PAGE>
+(7) Includes 3,334 shares subject to outstanding warrants held by Mr. Lewis that
+    were exercisable at the Table Date or within 60 days of such date.
+ 
+(8) Includes 842,435 shares subject to outstanding options or warrants held by
+    26 executive officers and directors, which options and warrants were
+    exercisable at the Table Date or within 60 days of such date.
+ 
+SECTION 16(A) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE
+ 
+    Section 16(a) of the Securities Exchange Act of 1934, as amended, requires
+the Company's officers and directors, and persons who own more than ten percent
+of a registered class of the Company's equity securities, to file reports of
+securities ownership and changes in such ownership with the Securities and
+Exchange Commission (the "SEC"). Officers, directors and greater than ten
+percent shareholders also are required by rules promulgated by the SEC to
+furnish the Company with copies of all Section 16(a) forms they file.
+ 
+    Based solely upon a review of the copies of such forms furnished to the
+Company, the absence of a Form 3 or Form 5 or written representations that no
+Forms 5 were required, the Company believes that, during the fiscal year ended
+September 27, 1996, its officers, directors and greater than ten percent
+beneficial owners complied with all applicable Section 16(a) filing requirements
+except that, based on information received by the Company, two executive
+officers, James Groff and Howard Lee, were each 13 days late in filing their
+initial statements of beneficial ownership of securities.
+ 
+DIRECTORS
+ 
+    The name of, principal occupation of, and certain additional information
+about each of the three nominees and the four current directors with unexpired
+terms are set forth below.
+<TABLE>
+<CAPTION>
+                                                                                    DIRECTOR
+NAME                              POSITION WITH THE COMPANY               AGE         SINCE
+- - ------------------------  ------------------------------------------      ---      -----------
+ 
+<S>                       <C>                                         <C>          <C>
+Class I directors nominated for election or re-election at this Annual Meeting to serve a
+two-year term expiring in 1999:
+ 
+Gilbert F. Amelio         Chairman of the Board and Chief Executive           53         1994
+                           Officer
+Gareth C. C. Chang        Director                                            53         1996
+Katherine M. Hudson       Director                                            49         1994
+ 
+<CAPTION>
+ 
+                                                                                    DIRECTOR
+NAME                              POSITION WITH THE COMPANY               AGE         SINCE
+- - ------------------------  ------------------------------------------      ---      -----------
+<S>                       <C>                                         <C>          <C>
+ 
+Class II directors whose two-year term does not expire until the next Annual Meeting:
+ 
+Bernard Goldstein         Director                                            66         1991
+Delano E. Lewis           Director                                            58         1994
+A. C. Markkula, Jr.       Director                                            54         1977
+Edgar S. Woolard, Jr.     Director                                            62         1996
+</TABLE>
+ 
+    Dr. Gilbert F. Amelio has been the Chairman of the Board and Chief Executive
+Officer of Apple since February 1996. He joined Apple's Board in November 1994.
+From 1991 until February 1996, Dr. Amelio was President and Chief Executive
+Officer of National Semiconductor Corporation, a manufacturer of semiconductors.
+From 1988 to 1991, he served as president of Rockwell Communications System, a
+subsidiary of Rockwell International. He is currently a director of Pacific
+Telesis and of the Electronics Industry Association.
+ 
+                                       3
+<PAGE>
+    Gareth C. C. Chang has been a Corporate Senior Vice President of Hughes
+Electronics since 1993. Previously, he was Corporate Vice President of McDonnell
+Douglas Corporation. He is currently a director of Mallinckrodt, Inc.
+ 
+    Bernard Goldstein has been Managing Director of Broadview Associates LLC, an
+investment banking firm, since 1979. He is also a director of Enterprise
+Systems, Inc., Franklin Electronic Publishers, Inc., SPSS, Inc., and Sungard
+Data Systems, Inc.
+ 
+    Katherine M. Hudson has been the President and Chief Executive Officer of W.
+H. Brady Co., a manufacturer of coated products and industrial identification
+products, since January 1994. Prior to assuming her position at W. H. Brady Co.,
+she was Vice President and General Manager, Professional Printing & Publishing
+Imaging, of Eastman Kodak Company. She is currently a director of the Case
+Corporation and of W. H. Brady Co.
+ 
+    Delano E. Lewis has served as President and Chief Executive Officer of the
+National Public Radio Corporation since January 1994. From 1988 to 1994 he was
+President of the C&P Telephone Company, a subsidiary of Bell Atlantic. He is
+currently a director of the Colgate-Palmolive Company, BET Holdings and the
+Halliburton Company.
+ 
+    A. C. Markkula, Jr. has served as the Chairman of the Board of Apple from
+October 1993 to February 1996. He is also Chairman of the Board of ACM Aviation,
+Inc., a fixed-base operation at San Jose International Airport, and has served
+in that role since 1980. He has been Vice Chairman of the Board of Echelon
+Corporation since 1989.
+ 
+    Edgar S. Woolard, Jr. serves as the Chairman of the Board of Directors of E.
+I. duPont De Nemours & Co. Previously, he held the positions of President and
+Chief Executive Officer of E. I. duPont De Nemours. He is currently a director
+of Citicorp and Zurich Holding Company of America, Inc.
+ 
+BOARD MEETINGS AND COMMITTEES
+ 
+    The Board of Directors of Apple met a total of twenty-four (24) times during
+the fiscal year ended September 27, 1996. Apple's Board of Directors has
+standing audit and finance, director affairs and compensation committees.
+ 
+    The Audit and Finance Committee of the Board of Directors consists of
+directors Goldstein, Markkula and Woolard, none of whom is an employee of the
+Company. This Committee is primarily responsible for reviewing the services
+performed by Apple's independent auditors and internal audit department,
+evaluating Apple's accounting policies and its system of internal controls, and
+reviewing significant finance transactions. The Audit and Finance Committee met
+seven (7) times during the last fiscal year.
+ 
+    The Compensation Committee of the Board of Directors (the "Compensation
+Committee") consists of directors Lewis, Hudson and B. Jurgen Hintz, none of
+whom is an employee of the Company. The Compensation Committee is primarily
+responsible for reviewing compensation to be paid to officers of the Company,
+and for administering the 1981 Stock Option Plan, the 1986 Employee Incentive
+Stock Option Plan, the 1990 Plan, the Employee Stock Purchase Plan and the 1993
+Executive Restricted Stock Plan. The Compensation Committee met twenty (20)
+times during the last fiscal year. See "REPORT OF THE COMPENSATION COMMITTEE OF
+THE BOARD OF DIRECTORS ON EXECUTIVE COMPENSATION".
+ 
+    The Director Affairs Committee of the Board of Directors consists of
+directors Hudson, Lewis and Woolard, none of whom is an employee of the Company.
+This Committee is primarily responsible for reviewing and recommending qualified
+candidates for election as directors to the Board of Directors. The Committee
+periodically reviews the size and makeup of the Board and makes appropriate
+recommendations to the Board based on perceived need, position description and
+candidate profile. The Committee
+ 
+                                       4
+<PAGE>
+will consider nominees recommended by management, shareholders and others. Such
+recommendations may be delivered in writing to the attention of the Director
+Affairs Committee in care of the Corporate Secretary at the Company's principal
+executive offices. The Director Affairs Committee met nine (9) times during the
+last fiscal year.
+ 
+    During the last fiscal year, no director attended fewer than 75% of the
+aggregate of all meetings of the Board of Directors and the committees, if any,
+upon which such director served and which were held during the period of time
+that such person served on the Board or such committee.
+ 
+DIRECTOR COMPENSATION
+ 
+    Directors who are not employees of the Company are paid a retainer of $7,000
+per quarter and a fee of $1,000 per Board meeting attended. No additional fees
+are paid for committee meetings. The Company also reimburses non-employee
+directors for travel and other incidental expenses incurred in attending
+meetings of the Board. In addition, A. C. Markkula, Jr., a director of Apple,
+received $2,335 in the form of health insurance benefits during fiscal year
+1996.
+ 
+                                       5
+<PAGE>
+COMPANY STOCK PERFORMANCE
+ 
+    The following graph shows a five-year comparison of cumulative total
+shareholder return, calculated on a dividend reinvested basis, for the Company,
+the S&P 500 Composite Index (the "S&P 500") and the S&P Computers (Hardware)
+Index (the "Industry Index"). The graph assumes $100 was invested in each of
+Common Stock, the S&P 500 and the Industry Index on September 30, 1991. Data
+points on the graph are annual. Note that historic stock price performance is
+not necessarily indicative of future stock price performance.
+ 
+EDGAR REPRESENTATION OF DATA POINTS USED IN PRINTED GRAPHIC
+ 
+<TABLE>
+<CAPTION>
+             CUMULATIVE TOTAL RETURN
+<S>                                                <C>                   <C>           <C>
+Based on reinvestment of $100 on September 30,
+1991
+                                                   Apple Computer, Inc.    S&P 500-R-    S&P-R- Computers (Hardware) Index
+Sep-91                                                             $100          $100                                 $100
+Sep-92                                                              $92          $111                                  $83
+Sep-93                                                              $48          $125                                  $56
+Sep-94                                                              $70          $130                                  $81
+Sep-95                                                              $79          $169                                 $117
+Sep-96                                                              $47          $203                                 $142
+</TABLE>
+ 
+                      REPORT OF THE COMPENSATION COMMITTEE
+              OF THE BOARD OF DIRECTORS ON EXECUTIVE COMPENSATION
+ 
+    The Company's executive compensation program is administered by the
+Compensation Committee. The role of the Compensation Committee, which is
+comprised of three outside non-employee directors, is to review and approve base
+salaries, executive bonus payouts, stock options and other compensation of the
+executive officers of the Company.
+ 
+    The Company's executive compensation programs are designed to use Company
+performance, individual executive performance and increasing stockholder value
+over time as determinants in establishing levels of executive compensation.
+These design principles are intended to motivate executive officers to improve
+the financial position of the Company, hold executives accountable for the
+performance of the organizations for which they are responsible and to attract
+key executives into the service of the Company
+ 
+                                       6
+<PAGE>
+and its shareholders. In addition, the Company undertook an extensive
+reorganization of executive officers beginning in the second fiscal quarter of
+1996 that resulted in the addition of Gilbert F. Amelio, Chairman of the Board
+and Chief Executive Officer; George M. Scalise, Executive Vice President and
+Chief Administrative Officer; Fred D. Anderson, Executive Vice President and
+Chief Financial Officer; and Ellen M. Hancock, Executive Vice President and
+Chief Technology Officer; and the promotion of Marco Landi to the newly created
+position of Chief Operating Officer. Certain one-time payments to these
+individuals and the level of compensation paid to them reflect, in part, the
+Compensation Committee's judgment as to the amount that was necessary to attract
+them to the Company from their former employers and to compensate these
+individuals for amounts forfeited or foregone as a result of leaving their
+former employers.
+ 
+    In fiscal year 1996, executive officer compensation had two primary
+elements: cash compensation (divided into a base salary and an executive bonus
+component) and equity-based compensation, including stock options and
+performance shares. These elements are determined by the Compensation Committee
+of the Board and are discussed in more detail below.
+ 
+CASH COMPENSATION
+ 
+    The Company regularly participates in several executive compensation surveys
+in the computer industry and general industry to ensure that the total cash
+compensation provided to executive officers and senior management remains at a
+competitive level to enable the Company to attract and retain management
+personnel with the talents and skills required to meet the challenges of a
+highly competitive industry.
+ 
+    DETERMINATION OF BASE SALARY
+ 
+    Some executive officer base salaries were increased in October 1995 as part
+of an annual executive compensation review. The base salary increases were based
+upon the sustained individual performance of each executive and the competitive
+base salary data provided by executive compensation surveys. As part of the
+extensive reorganization of the executive functions of the Company as noted
+above, executive officer base salaries were reviewed by the Compensation
+Committee in July 1996. This base salary review resulted in some executive
+officers receiving an increase in base salary. These increases were based upon
+establishing competitive base salary levels for executives who assumed new roles
+and accountabilities under the Company's executive reorganization. Competitive
+base salary levels were established by use of computer industry and general
+industry salary survey data.
+ 
+    DETERMINATION OF BONUS PAYOUTS
+ 
+    For fiscal year 1996, the Compensation Committee approved a
+performance-based bonus plan, the Senior/Executive Incentive Bonus Plan (the
+"1996 Bonus Plan"), in which bonuses for executive officers were determined with
+reference to financial performance targets. Major emphasis in the 1996 Bonus
+Plan was placed on financial performance measurements that included Return on
+Capital Employed, Market Share, Operating Margin, Inventory Turns and Days Sales
+Outstanding targets. The 1996 Bonus Plan formula provided the potential for two
+semiannual payments to be made to executive officers. The first semiannual
+payment was based on fiscal year 1996's first half (first and second quarter)
+financial results. The second semiannual payment was based on fiscal year 1996's
+second half (third and fourth quarter) financial results.
+ 
+    The purpose of the 1996 Bonus Plan was to focus the efforts of senior
+management toward predetermined specific goals and objectives that were of
+critical importance to the success of the Company. Specifically, the 1996 Bonus
+Plan was intended to:
+ 
+    - encourage participants to achieve outstanding results toward Company
+      objectives by measuring executive officers on the basis of achievement of
+      financial performance targets;
+ 
+                                       7
+<PAGE>
+    - strengthen the ability of the Company to attract and retain high caliber
+      key management personnel; and
+ 
+    - provide a leveraged compensation program based on performance towards
+      Company objectives, with superior performance resulting in more aggressive
+      compensation levels.
+ 
+    Under the 1996 Bonus Plan, bonus targets for executive officers were set
+individually, based on the executive pay range to which a particular officer was
+assigned. The target bonus established for all participants was based largely on
+financial performance targets and to a lesser extent on individual performance
+targets.
+ 
+    Target payouts (less deductions and withholdings) for executive officers
+were set based on achievement of financial performance goals. All other plan
+participants' target payouts were set based principally on achievement of
+financial performance goals as well as on meeting individual performance
+targets. No executive officers or other 1996 Bonus Plan participants received a
+payout under the first semiannual measurement period of the plan.
+ 
+    As part of the Company's executive officer and business reorganization in
+July 1996, the Compensation Committee approved the replacement of the existing
+1996 Bonus Plan with a Special Senior/Executive Bonus Program (the "Special Q4
+Bonus Plan") for the fourth quarter of fiscal year 1996. The Special Q4 Bonus
+Plan was effective only during the fourth fiscal quarter of fiscal year 1996 and
+operated under the same rules of participant eligibility as the discontinued
+1996 Bonus Plan but with prorated annual bonus targets reflecting the single
+fiscal quarter measurement period. Under the Special Q4 Bonus Plan, all
+executive officers and other participants were measured on a single financial
+performance target of a specified dollar net income increase above the Company's
+June 1996 forecast. The purpose of the Special Q4 Bonus Plan was to focus senior
+management on improving the Company's overall financial results and to rebuild
+momentum toward increased sales and improved profit performance. Under the
+Special Q4 Bonus Plan, bonus targets for executive officers and other
+participants were set at one fourth of the annual bonus target amount they would
+be eligible for under the 1996 Bonus Plan. The target payout under the Special
+Q4 Bonus Plan resulted in all executives receiving 175% of their special bonus
+target as a bonus payout.
+ 
+EQUITY BASED COMPENSATION
+ 
+    Equity based compensation of executive officers was determined by the
+Compensation Committee, upon consideration of recommendations made by the
+executive officers' direct managers and, in some cases, reviewed by other
+management. In fiscal year 1996, executive officers of the company were eligible
+to receive grants of stock options under the 1990 Plan. In addition, executive
+officers were eligible to participate in the Company's Employee Stock Purchase
+Plan.
+ 
+    The 1990 Plan is designed to attract and retain high quality personnel for
+positions of substantial responsibility, to provide additional incentive to
+employees of the Company, and to promote the success of the Company's business.
+Options are granted under the 1990 Plan at an exercise price equal to the fair
+market value of Common Stock on the business day immediately preceding the date
+of the grant, and, in general, vest in increments over a period of three years
+after the date of grant of the option, subject to earlier termination of the
+option upon termination of employment and subject to automatic acceleration of
+vesting upon death of the optionee or a change in control of the Company. All
+options granted under the 1990 Plan expire ten years from date of grant, unless
+previously terminated or unless a shorter term is provided in the option
+agreement.
+ 
+    During fiscal year 1996, recommendations for grants of options to individual
+executive officers were made upon a market analysis of grants made to officers
+at similar levels of responsibility by other companies in the computer and high
+technology industry that the Company uses generally as comparables to determine
+its own compensation levels, and also in comparison to certain other companies
+in the
+ 
+                                       8
+<PAGE>
+software industry. The Compensation Committee as administrator of the 1990 Plan
+determined stock option awards for executive officers of the Company based on a
+comparison of what officers in comparable positions at competing hardware and
+software companies receive in terms of the face value of the options at the time
+of grant, expressed as an annualized award size as a multiple of base salary.
+ 
+    The Compensation Committee awarded options to executive officers under the
+1990 Plan in accordance with the goals of the plan, and upon a review of each
+officer's individual performance goals, achievements and long-term potential to
+the Company. In fiscal year 1996, sixteen executive officers of the Company,
+five of whom were Named Officers, received option grants under the plan.
+ 
+COMPENSATION OF THE CHIEF EXECUTIVE OFFICER
+ 
+    In fiscal year 1996, until February 1996, Michael H. Spindler was Chief
+Executive Officer of the Company. His compensation was determined using the same
+criteria described above for executive officers generally. During his tenure as
+Chief Executive Officer in fiscal year 1996, Mr. Spindler's base salary was not
+increased. In fiscal year 1996, Mr. Spindler did not receive any bonus payout
+under the 1996 Bonus Plan or Special Q4 Bonus Plan or any option grants under
+the 1990 Plan.
+ 
+    On February 2, 1996, Dr. Gilbert F. Amelio joined the Company as Chief
+Executive Officer. Prior to joining the Company, Dr. Amelio was Chief Executive
+Officer of National Semiconductor Corporation and a member of Apple's Board of
+Directors.
+ 
+    The fiscal year 1996 compensation for Dr. Amelio was set forth in a
+five-year employment agreement (the "Amelio Employment Agreement") between Dr.
+Amelio and the Company. The compensation elements under the Amelio Employment
+Agreement include base salary, bonus, and long-term incentives. These were
+extensively negotiated between Dr. Amelio and the Compensation Committee prior
+to his employment by the Company and reflect the Compensation Committee's
+judgment as to a competitive total compensation program that would be necessary
+to engage Dr. Amelio as the Chief Executive Officer of the Company and to
+compensate him for amounts forfeited or foregone as a result of his resignation
+from his prior employer. Each of the elements of his compensation is described
+below.
+ 
+    BASE SALARY
+ 
+    The Amelio Employment Agreement sets Dr. Amelio's fiscal year 1996 base
+salary at a rate of $990,000 per annum.
+ 
+    BONUS
+ 
+    For fiscal year 1996, Dr. Amelio was eligible for an annual bonus consisting
+of a Component A Bonus and a Component B Bonus. The fiscal year 1996 Component A
+Bonus provides a bonus target equal to 100% of Dr. Amelio's annual base salary
+prorated by a formula to reflect less than a full fiscal year of service. The
+result of the proration formula calculation yielded a target bonus amount of
+$648,000 for fiscal year 1996. The potential payout under the Component A Bonus
+ranges from a minimum guaranteed bonus amount in fiscal year 1996 of $324,126 to
+a maximum bonus amount of $1,944,756. Under the terms of the Amelio Employment
+Agreement, there is no minimum guaranteed Component A Bonus for fiscal years
+after fiscal year 1996. The Performance Goals on which the Component A Bonus is
+measured include Financial Targets for Revenue Growth and Gross Margin;
+Strategic Targets for Product Portfolio, Platform Strategy and Channel Strategy;
+and Management Targets for Building a New Management Team, determining Apple's
+Information Systems Strategy and Restructuring Business Processes. The
+Compensation Committee has reviewed Dr. Amelio's performance against the
+Performance Goals for the fiscal year 1996 Component A Bonus and, in its
+judgment, has determined that Dr. Amelio met and in some cases exceeded six of
+the eight aforementioned Performance Goals and that the appropriate payout
+percentage was 175% of the prorated target bonus amount.
+ 
+                                       9
+<PAGE>
+    The fiscal year 1996 Component B Bonus provided a $1,000,000 bonus earned at
+the end of fiscal year 1996. In addition to the above-mentioned bonuses, Dr.
+Amelio received a one-time signing bonus of $200,000.
+ 
+    LONG-TERM INCENTIVES
+ 
+    The long-term incentives for Dr. Amelio are divided into two components:
+stock options under the 1990 Plan and shares of Common Stock (the "Performance
+Shares") under a performance share arrangement (the "Performance Share
+Arrangement"). These components are described below. Both the stock option
+granted under the 1990 Plan and the Performance Shares are conditioned upon the
+approval of the shareholders of the Company in separate votes of the
+shareholders at the Company's annual meeting on February 5, 1997.
+ 
+    Subject to the aforementioned approval by the Company's shareholders, the
+Company has granted Dr. Amelio an option covering 1,000,000 shares of Common
+Stock under the 1990 Plan. The option was granted on March 5, 1996 at an
+exercise price of $26.25 per share (the fair market value of a share of Common
+Stock on the day preceding the date of grant). The option shall become vested
+and exercisable in increments of 20% over a five-year period.
+ 
+    Under the Performance Share Arrangement, Dr. Amelio is eligible to earn up
+to 1 million shares of Common Stock over a five-year period. Pursuant to the
+terms of the Performance Share Arrangement, for fiscal year 1996, Dr. Amelio was
+afforded the opportunity to earn a maximum of 130,960 shares of Common Stock
+provided that, in the judgment of the Compensation Committee, Dr. Amelio
+attained the following Performance Goals: develop and execute a three-year
+strategic plan showing results by the fourth quarter of fiscal year 1996;
+develop and execute a profit model for the Company showing results by the fourth
+quarter of fiscal year 1996; and develop and implement an organizational model
+aligned with the corporate strategy and profit model by the end of the fourth
+quarter of fiscal year 1996. The Compensation Committee has reviewed Dr.
+Amelio's performance against the Performance Goals for the fiscal year 1996
+Performance Share Arrangement and, in its judgment, has determined that Dr.
+Amelio has achieved all of the aforementioned Performance Goals.
+ 
+    SECTION 162(M)
+ 
+    The Company intends that long-term incentive compensation paid by the
+Company to Dr. Amelio pursuant to the option and the Performance Share
+Arrangement be deductible by the Company under Section 162(m) of the Internal
+Revenue Code of 1986, as amended.
+ 
+           MEMBERS OF THE COMPENSATION COMMITTEE IN FISCAL YEAR 1996:
+ 
+    Delano E. Lewis,             B. Jurgen Hintz             Katherine M. Hudson
+ 
+    Chairman*
+ 
+COMPENSATION COMMITTEE INTERLOCKS AND INSIDER PARTICIPATION
+ 
+    In fiscal year 1996, the members of the Compensation Committee were, through
+June 1996, Peter O. Crisp, Chairman; B. Jurgen Hintz; and Katherine M. Hudson.
+After June 1996, the members of the Compensation Committee were Delano E. Lewis,
+Chairman; Mr. Hintz; and Ms. Hudson. No person who was an employee of the
+Company in fiscal year 1996 served on the Compensation Committee in fiscal year
+1996. See also "INFORMATION ABOUT APPLE COMPUTER, INC.--DIRECTOR COMPENSATION".
+ 
+- - ------------------------
+ 
+*   Peter O. Crisp was the Chairman of the Compensation Committee until June 5,
+    1996, when he resigned from the Board of Directors.
+ 
+                                       10
+<PAGE>
+                  INFORMATION REGARDING EXECUTIVE COMPENSATION
+ 
+    The following table summarizes compensation information for the last three
+fiscal years for Gilbert F. Amelio, Chairman of the Board and Chief Executive
+Officer, and for Michael Spindler, former President and Chief Executive Officer,
+as well as for the four other most highly compensated executive officers of
+Apple (together, the "Named Officers") based on salary plus bonus for the fiscal
+year ended September 27, 1996.
+ 
+<TABLE>
+<CAPTION>
+                                                  SUMMARY COMPENSATION TABLE
+- - -------------------------------------------------------------------------------------------------------------------------------
+                                                                                            LONG-TERM
+                                                   ANNUAL COMPENSATION                 COMPENSATION AWARDS
+                                        ------------------------------------------  -------------------------
+        NAME AND             FISCAL                                 OTHER ANNUAL     RESTRICTED                   ALL OTHER
+   PRINCIPAL POSITION         YEAR       SALARY($)    BONUS($)    COMPENSATION($)     STOCK($)    OPTIONS(#)   COMPENSATION($)
+- - -------------------------  -----------  -----------  -----------  ----------------  ------------  -----------  ----------------
+<S>                        <C>          <C>          <C>          <C>               <C>           <C>          <C>
+Michael H. Spindler......        1996      557,076     382,500           --              --                       3,721,389(1)
+Former President and             1995      843,335     586,058           --              --          100,000
+Chief Executive Officer*         1994      684,922     249,500           --                          200,000
+ 
+Gilbert F. Amelio........        1996      655,061   2,334,000(2)        --          3,830,580(3)  1,000,000          3,060(4)
+Chairman of the Board            1995           **
+and Chief Executive              1994           **
+Officer
+ 
+Fred D. Anderson.........        1996      252,126   1,275,000           --              --          400,000        141,361(5)
+Executive Vice President         1995           **
+and Chief Financial              1994           **
+Officer
+ 
+Marco Landi..............        1996      526,454     367,438        114,768(6)         --          400,000         54,570(7)
+Executive Vice President         1995      245,712     480,000         80,234(8)         --          120,000         50,000(9)
+and Chief Operating              1994          ***
+Officer
+ 
+John Floisand............        1996      355,342     231,250        120,443(10)        --           30,000        180,893(11)
+Senior Vice President,           1995      302,831     199,544           --              --           55,000         23,799(12)
+Worldwide Sales                  1994      234,866     171,680           --              --          155,000         28,852(13)
+ 
+George M. Scalise........        1996      245,189     767,813           --              --          240,000          4,104(14)
+Executive Vice President         1995           **
+and Chief Administrative         1994           **
+Officer
+</TABLE>
+ 
+- - ------------------------------
+ 
+*   Mr. Spindler resigned as an executive officer effective February 2, 1996.
+ 
+**  Dr. Amelio and Messrs. Anderson and Scalise became executive officers of the
+    Company during fiscal year 1996. Disclosure of their compensation for prior
+    years is not required pursuant to SEC rules.
+ 
+*** Mr. Landi became an executive officer of the Company during fiscal year
+    1995. Disclosure of his compensation for prior years is not required
+    pursuant to SEC rules.
+ 
+ (1) Includes $3,330,000 paid pursuant to a severance agreement with Mr.
+    Spindler (see "ARRANGEMENTS WITH EXECUTIVE OFFICERS-- SEPARATION AGREEMENT
+    WITH MICHAEL H. SPINDLER") and $391,389 in relocation assistance payments,
+    including $191,389 in tax payment assistance.
+ 
+ (2) Consists of a signing bonus, the Component A Bonus and the Component B
+    Bonus for fiscal year 1996, as contemplated by the terms of the employment
+    agreement dated February 2, 1996 between the Company and Dr. Amelio. (See
+    "ARRANGEMENTS WITH EXECUTIVE OFFICERS--EMPLOYMENT AGREEMENT WITH DR.
+    AMELIO".)
+ 
+ (3) Represents the value on February 2, 1996 of 130,960 Performance Shares
+    earned by Dr. Amelio pursuant to the terms of Dr. Amelio's employment
+    agreement. The terms of Dr. Amelio's Performance Share Arrangement are
+    described in the section of this Proxy Statement entitled "PROPOSAL NO. 5:
+    APPROVAL OF DR. AMELIO'S PERFORMANCE SHARE ARRANGEMENT FOR FISCAL YEAR
+    1996". As of the last day of fiscal year 1996, Dr. Amelio held no other
+    Performance Shares or restricted shares. No dividends were paid on the
+    Performance Shares during fiscal year 1996.
+ 
+ (4) Includes $2,285 in matching contributions made by the Company in accordance
+    with the terms of its 401(k) Plan and $775 for a physical examination.
+ 
+ (5) Includes $140,155 in relocation assistance payments, including $56,065 in
+    tax payment assistance, and $1,206 in matching contributions made by the
+    Company in accordance with the terms of its 401(k) Plan.
+ 
+                                       11
+<PAGE>
+ (6) Includes $70,514 in housing allowance and $44,254 in car allowance.
+ 
+ (7) Includes $41,836 in fees paid for service as a director of a nondomestic
+    subsidiary and $12,734 in premiums paid on Mr. Landi's behalf for life,
+    medical and certain disability insurance policies.
+ 
+ (8) Includes $21,939 in tax payment assistance, $38,500 in housing allowance
+    and $19,795 in car allowance.
+ 
+ (9) Includes $50,000 in relocation assistance.
+ 
+(10) Consists of $120,443 in expatriate cost-of-living allowance, including
+    $64,406 in tax payment assistance.
+ 
+(11) Includes $157,224 in relocation assistance payments, including $51,519 in
+    tax payment assistance, $14,167 representing the value of a sales bonus trip
+    and $9,502 in matching contributions made by the Company in accordance with
+    the terms of its 401(k) Plan.
+ 
+(12) Consists of $23,799 representing the value of a sales bonus trip.
+ 
+(13) Consists of $28,852 representing the value of a sales bonus trip.
+ 
+(14) Consists of matching contributions made by the Company in accordance with
+    the terms of its 401(k) Plan.
+ 
+                                       12
+<PAGE>
+OPTION/SAR GRANTS IN LAST FISCAL YEAR
+ 
+    The following table provides information about option grants to the Named
+Officers for the fiscal year ended September 27, 1996. All option grants to the
+Named Officers during fiscal year 1996 were made pursuant to the 1990 Plan.
+ 
+                        SECURITIES UNDERLYING OPTION/SAR
+                           GRANTS IN LAST FISCAL YEAR
+                               INDIVIDUAL GRANTS
+ 
+<TABLE>
+<CAPTION>
+                                                                                           POTENTIAL REALISABLE VALUE
+                                                  % OF TOTAL                               AT ASSUMED ANNUAL RATES OF
+                                                   OPTIONS/                                 STOCK PRICE APPRECIATION
+                                                     SARS                                             FOR
+                                    OPTIONS/      GRANTED TO     EXERCISE OR                     OPTION TERM(1)
+                                      SARS       EMPLOYEES IN    BASE PRICE   EXPIRATION   --------------------------
+NAME                               GRANTED(#)   FISCAL YEAR(2)     ($/SH.)       DATE         5%($)         10%($)
+- - ---------------------------------  -----------  ---------------  -----------  -----------  ------------  ------------
+<S>                                <C>          <C>              <C>          <C>          <C>           <C>
+Gilbert F. Amelio................   1,000,000         10.13%      $   26.25       3/5/06     16,508,484    41,835,740
+ 
+Fred D. Anderson.................     400,000          4.05%      $   24.56       4/1/06      6,178,890    15,658,520
+ 
+John Floisand....................      30,000          0.30%      $   19.88      6/27/06        374,978       950,269
+ 
+Marco Landi......................     400,000          4.05%      $   28.50      11/7/04      7,169,399    18,168,664
+ 
+George M. Scalise................     240,000          2.43%      $   25.88      3/12/06      3,905,436     9,897,141
+ 
+Michael H. Spindler*.............      --             --             --           --            --            --
+</TABLE>
+ 
+- - ------------------------
+ 
+ * Mr. Spindler resigned as an executive officer effective February 2, 1996.
+ 
+(1) Potential gains are net of exercise price, but before taxes associated with
+    exercise. These amounts represent certain assumed rates of appreciation
+    only, based on Securities and Exchange Commission rules, and do not
+    represent the Company's estimate or projection of the price of the Company's
+    stock in the future. Actual gains, if any, on stock option exercises depend
+    upon the actual future performance of Common Stock and the continued
+    employment of the option holders throughout the vesting period. Accordingly,
+    the potential realizable values set forth in this table may not be achieved.
+ 
+(2) Based on options to purchase an aggregate of 9,873,083 shares granted to all
+    employees during fiscal year 1996.
+ 
+(3) All options were granted at an exercise price equal to fair market value
+    based on the closing market value of Common Stock on the Nasdaq National
+    Market on the business day immediately preceding the date of the grant.
+ 
+AGGREGATED OPTION EXERCISES AND OPTIONS HELD BY THE NAMED OFFICERS
+ 
+    The following table provides information about option exercises by the Named
+Officers in the last fiscal year and options held by each of them at fiscal year
+end.
+ 
+                                       13
+<PAGE>
+                        SECURITIES UNDERLYING AGGREGATED
+                    OPTION/SAR EXERCISES IN LAST FISCAL YEAR
+                          AND FY-END OPTION/SAR VALUES
+ 
+<TABLE>
+<CAPTION>
+                                                                                           VALUE OF UNEXERCISED
+                                                              NUMBER OF UNEXERCISED       IN-THE-MONEY OPTIONS/
+                                  SHARES                    OPTIONS/SARS AT FY-END(#)      SARS AT FY-END($)(2)
+                                ACQUIRED ON      VALUE      --------------------------  --------------------------
+NAME                            EXERCISE(#)  REALIZED($)(1) EXERCISABLE  UNEXERCISABLE  EXERCISABLE  UNEXERCISABLE
+- - ------------------------------  -----------  -------------  -----------  -------------  -----------  -------------
+<S>                             <C>          <C>            <C>          <C>            <C>          <C>
+Gilbert F. Amelio.............      --            --            --          1,000,000       --             0
+ 
+Fred D. Anderson..............      --            --            --            400,000       --             0
+ 
+John Floisand.................      --            --           124,334        253,416        0            73,125
+ 
+Marco Landi...................      --            --            40,000        480,000        0             0
+ 
+George M. Scalise.............      --            --            --            260,000       --             0
+ 
+Michael H. Spindler*..........      --            --            --            --            --            --
+</TABLE>
+ 
+- - ------------------------
+ 
+ * Mr. Spindler resigned as an executive officer effective February 2, 1996.
+ 
+(1) Market value of underlying securities (based on the fair market value of
+    Common Stock on the Nasdaq National Market) at the time of exercise, minus
+    the exercise price.
+ 
+(2) Market value of securities underlying in-the-money options at fiscal 1996
+    year end (based on $22.31 per share, the closing price of Common Stock on
+    the Nasdaq National Market on September 27, 1996), minus the exercise price.
+ 
+ARRANGEMENTS WITH EXECUTIVE OFFICERS
+ 
+    The Company has from time to time entered into employment, retention and
+severance arrangements with certain of its executive officers. The Named
+Officers with whom the Company has such agreements, the dates of the agreements
+and a summary of the terms of such agreements are set forth in the following
+paragraphs.
+ 
+    EMPLOYMENT AGREEMENT WITH DR. AMELIO.
+ 
+    On February 2, 1996, the Company engaged Dr. Gilbert F. Amelio as its
+Chairman and Chief Executive Officer. Under the terms of the Amelio Employment
+Agreement, Dr. Amelio is employed for a five-year term at an annual base salary
+of $990,000. The Amelio Employment Agreement provides for the payment to Dr.
+Amelio of a hiring bonus equal to $200,000 and two bonuses defined in the
+agreement as the Component A Bonus and the Component B Bonus. Based upon the
+achievement of performance targets established by the Compensation Committee for
+each fiscal year, the Amelio Employment Agreement provides for the payment to
+Dr. Amelio of the Component A Bonus, an annual performance bonus ranging from
+50% to 300% of his base salary, with a minimum of $324,126 guaranteed for fiscal
+year 1996. For fiscal year 1996, these performance targets were based on
+financial results (including revenue and margin trends in selected markets),
+strategic issues (rationalization of the Company's product portfolio,
+establishment of a long-term platform and channel strategy) and operational
+issues (information systems strategy, organizational changes and restructuring
+of critical business processes). In addition, Dr. Amelio is entitled to receive
+the Component B Bonus, which will equal $1,000,000 for each year during the term
+of the Amelio Employment Agreement.
+ 
+    Pursuant to the Amelio Employment Agreement, the Company has made a loan to
+Dr. Amelio in the amount of $5,000,000, bearing interest at the minimum rate
+required under the Code. Accrued interest plus 20% of the initial principal
+amount of the loan are repayable annually upon each of the first through
+ 
+                                       14
+<PAGE>
+fifth anniversaries of February 2, 1996, or in full within 90 days of
+termination of Dr. Amelio's employment.
+ 
+    The Amelio Employment Agreement further provides that Dr. Amelio is to be
+granted an option (the "Option") covering 1,000,000 shares of Common Stock, and
+that he is to be afforded the opportunity to earn 1,000,000 Performance Shares
+over five years based upon the Company achieving performance objectives
+established by the Compensation Committee. The grant of the Option and the
+Performance Share Arrangement are subject to the approval of the shareholders of
+the Company. The terms of the Option and the Performance Share Arrangement are
+described in the sections of this Proxy Statement entitled, respectively,
+"PROPOSAL NO. 3: APPROVAL OF THE GRANT OF A STOCK OPTION TO DR. AMELIO UNDER THE
+1990 STOCK OPTION PLAN","PROPOSAL NO. 5: APPROVAL OF DR. AMELIO'S PERFORMANCE
+SHARE ARRANGEMENT FOR FISCAL YEAR 1996" and "PROPOSAL NO. 6: APPROVAL OF THE
+SENIOR OFFICERS RESTRICTED PERFORMANCE SHARE PLAN".
+ 
+    If Dr. Amelio's employment with the Company ends in an Involuntary
+Termination (as described below), the Company will be obligated to pay him a
+lump sum severance payment equal to the sum of the base salary payable for the
+remainder of the term of employment and the target amount of the Component A
+Bonus payable for each whole or partial fiscal year of the Company during the
+remaining term. Any severance amounts payable to Dr. Amelio would be reduced by
+the outstanding principal and interest on the aforementioned loan. In addition,
+Dr. Amelio will retain the then-vested portion of the Option. Dr. Amelio's right
+to any Performance Shares will be governed by the provisions of the Senior
+Officers Restricted Performance Share Plan, which is discussed in this Proxy
+Statement under the heading "PROPOSAL NO. 6: APPROVAL OF THE SENIOR OFFICERS
+RESTRICTED PERFORMANCE SHARE PLAN". Special severance provisions apply under the
+Amelio Employment Agreement if the shareholders of the Company do not approve
+the Option and the Performance Share Arrangement and Dr. Amelio's employment
+ends in an Involuntary Termination, or if a Change in Control of the Company
+occurs on or prior to February 2, 1997. In these circumstances, the Amelio
+Employment Agreement provides for a lump sum payment of $10,000,000 in lieu of
+the severance amounts described above, reduced by the outstanding balance on the
+aforementioned loan.
+ 
+    The Amelio Employment Agreement defines "Involuntary Termination" as a
+termination by the Company without Cause or a resignation by Dr. Amelio for Good
+Reason. The Amelio Employment Agreement generally defines "Cause" as including a
+felony conviction, willful disclosure of confidential information or willful and
+continued failure to perform employment duties. "Good Reason" generally includes
+a detrimental reduction in position or responsibilities, the failure of the
+Company to have any successor in interest assume the agreement, a reduction in
+salary or a failure to pay any earned bonus or the failure to grant the Option
+or the Performance Shares (other than by reason of not obtaining shareholder
+approval).
+ 
+    The Amelio Employment Agreement further provides for a tax gross-up payment
+to mitigate the effect of any excise tax imposed under the "golden parachute
+provisions" of the Code.
+ 
+    EMPLOYMENT AGREEMENTS WITH OTHER NAMED OFFICERS.
+ 
+    The Company entered into an employment agreement with Fred D. Anderson
+effective April 1, 1996 (the "Anderson Employment Agreement"), pursuant to which
+Mr. Anderson serves as Executive Vice President and Chief Financial Officer of
+the Company. Mr. Anderson is entitled to an annual base salary of $500,000 and
+is eligible to participate in the Company's Senior Executive Bonus Plan. During
+fiscal year 1996, Mr. Anderson was guaranteed a bonus payout of at least
+$400,000. During fiscal year 1997, his target bonus will be set at 80% of his
+base salary and will thereafter be reviewed annually by the Company. Pursuant to
+the provisions of the Anderson Employment Agreement, the Company paid Mr.
+Anderson the first half of an $800,000 hiring bonus in fiscal year 1996. The
+second half of the hiring bonus will be paid to
+ 
+                                       15
+<PAGE>
+Mr. Anderson in fiscal year 1997. Pursuant to the agreement, Mr. Anderson was
+also granted an option under the 1990 Plan covering 400,000 shares of Common
+Stock.
+ 
+    If the Company terminates Mr. Anderson's employment without Cause (as
+described below) during the one-year period following April 1, 1996, the Company
+will be obligated to pay Mr. Anderson a lump sum severance payment equal to
+$1,300,000. If Mr. Anderson is terminated without Cause at any other time during
+the five-year period following April 1, 1996, he will be entitled to a lump sum
+severance payment equal to the sum of his annual base salary and target bonus.
+"Cause" is defined in the Anderson Employment Agreement in substantially the
+same manner as in the Amelio Employment Agreement.
+ 
+    The Company entered into an employment agreement with George M. Scalise
+effective March 1, 1996, pursuant to which Mr. Scalise serves as the Company's
+Executive Vice President and Chief Administrative Officer (the "Scalise
+Employment Agreement"). Pursuant to the Scalise Employment Agreement, Mr.
+Scalise is entitled to an annual base salary of $420,000 and is eligible to
+participate in the Company's Senior Executive Bonus Plan. During fiscal year
+1997, Mr. Scalise's target bonus will be set at 75% of his base salary, and will
+thereafter be reviewed annually by the Company. Pursuant to the provisions of
+the Scalise Employment Agreement, the Company paid Mr. Scalise the first half of
+a $630,000 hiring bonus in fiscal year 1996. The second half of the hiring bonus
+will be paid to Mr. Scalise in fiscal year 1997. Pursuant to the agreement, Mr.
+Scalise was granted an option covering 240,000 shares of Common Stock under the
+1990 Plan.
+ 
+    If the Company terminates Mr. Scalise's employment without Cause (as
+described below) during the one-year period following March 1, 1996, the Company
+will be obligated to pay Mr. Scalise a lump sum severance payment equal to
+$1,050,000. If Mr. Scalise's employment is terminated without Cause at any other
+time during the five-year period following March 1, 1996, he will be entitled to
+a lump sum severance payment equal to the sum of his annual base salary and
+target bonus. "Cause" is defined in the Scalise Employment Agreement in
+substantially the same manner as in the Amelio Employment Agreement.
+ 
+    The employment agreement between the Company and John Floisand provides for
+a three-year term effective November 1, 1995 to serve as Senior Vice President
+of the Company (the "Floisand Employment Agreement"). Mr. Floisand also has a
+three-year employment agreement effective November 1, 1995 with Apple Japan,
+Inc., a subsidiary of the Company, pursuant to which Mr. Floisand serves as that
+company's Chairman and Chief Executive Officer. The two agreements provide for a
+combined annual base salary of $375,000 and entitle Mr. Floisand to participate
+in the Company's Senior Executive Bonus Plan. In addition, the Company paid Mr.
+Floisand an initial bonus in the amount of $100,000. Mr. Floisand's target bonus
+for fiscal year 1996 is $281,250, and the actual amount of the bonus will be
+based on the overall corporate performance goals identified in the Senior
+Executive Bonus Plan. Thereafter, Mr. Floisand's target bonus will be reviewed
+annually by the Company. Pursuant to the terms of the Floisand Employment
+Agreement, the Company recommended to the Board of Directors that Mr. Floisand
+be granted an option covering 30,000 shares of Common Stock under the 1990 Plan.
+ 
+    The Floisand Employment Agreement provides that the Company will designate
+Mr. Floisand as a participant in the Company's Executive Severance Plan upon
+termination of his employment, provided that he has not been offered another
+position with an affiliate of the Company, he has not resigned and he has not
+been terminated by the Company for Business Reasons (described below). The
+Floisand Employment Agreement defines "Business Reasons" to include (i)
+competing with the Company, (ii) solicitation of the Company's customers, (iii)
+disclosure or misuse of Company secrets or other confidential information, (iv)
+any act of embezzlement, fraud or theft with respect to the Company's property,
+(v) violation of the Company's policies or the terms of the Floisand Employment
+Agreement, (vi) causing injury to the property, reputation or employees of the
+Company, (vii) malfeasance, negligence, misconduct or the non-performance of
+duties and (viii) failure to follow the instructions of the Chief Executive
+Officer of the Company.
+ 
+                                       16
+<PAGE>
+    The Company is presently negotiating the terms of an employment agreement
+with Marco Landi, but as of the date of this Proxy Statement, this agreement has
+not been finalized.
+ 
+    SEPARATION AGREEMENT WITH MICHAEL H. SPINDLER.
+ 
+    Pursuant to the terms of the separation agreement between Michael H.
+Spindler and the Company (the "Spindler Separation Agreement"), effective
+February 2, 1996, Mr. Spindler resigned from his positions as President and
+Chief Executive Officer. Pursuant to the terms of the Spindler Separation
+Agreement, Mr. Spindler received a lump sum payment of $3,712,500 upon his
+termination. In addition, he is entitled to continued health benefits for a
+period of two years after the Termination Date. The Spindler Separation
+Agreement also contemplates additional payments of $50,000 and $150,000 to Mr.
+Spindler in order to extinguish any rights that Mr. Spindler may have under any
+plan or contract for, respectively, the reimbursement of moving expenses and
+purchase price assurance for the sale of his personal residence.
+ 
+    EXECUTIVE SEVERANCE PLAN.
+ 
+    The Company has in effect an Executive Severance Plan, under which it may
+designate an executive officer as a participant in the plan if that executive
+officer is terminated by the Company due to Business Conditions. "Business
+Conditions" is defined as events or conditions that lead to the elimination or
+unavailability of jobs, other than pursuant to an Apple Redeployment Plan or
+Layoff Plan, and not including termination for cause. In general, an executive
+officer who is designated as a participant in the plan and who is terminated due
+to Business Conditions will receive a severance payment of between 4 and 12
+months' pay, depending upon the length of such executive officer's service with
+the Company. A participating executive officer will also receive a portion of
+his or her actual bonus for the then-current fiscal year on a prorated basis. In
+addition, a participating executive officer will receive job placement
+assistance and up to 12 months' paid medical and dental benefits following the
+date that he or she ceases to be an employee of the Company. Under a Supplement
+to the Executive Severance Plan adopted in June 1995, officers who are not
+covered by a Retention Agreement may become eligible to receive certain enhanced
+benefits in the event of a change in control of the Company.
+ 
+    CHANGE IN CONTROL ARRANGEMENTS.
+ 
+    In the event of a "change in control" of Apple, all outstanding options
+under the Company's 1981 Stock Option Plan, 1986 Employee Incentive Stock Option
+Plan, 1987 Executive Long Term Stock Option Plan (the "ELTSOP") and 1990 Plan
+will, unless otherwise determined by the Board of Directors, become exercisable
+in full, and will be cashed out at an amount equal to the difference between the
+applicable "change in control price" and the exercise price. A "change in
+control" under these plans is generally defined as (i) the acquisition by any
+person of 50% or more of the combined voting power of Apple's outstanding
+securities or (ii) the occurrence of a transaction requiring shareholder
+approval and involving the sale of all or substantially all of the assets of the
+Company or the merger of the Company with or into another corporation.
+ 
+    The Company has entered into a retention agreement with certain of the Named
+Officers and certain other executive officers providing for certain cash
+payments in the event of termination of his or her employment following a change
+in control of the Company (the "Retention Agreements"). For purposes of the
+Retention Agreements, a "change in control" is defined as (i) a reorganization,
+merger, consolidation or other corporate transaction in which the holders of
+voting stock of the Company immediately before the corporate transaction will
+not own more than 50% of the voting shares of the continuing or surviving
+corporation immediately after such corporate transaction, (ii) the acquisition
+of 30% or more of the combined voting power of the Company's then-outstanding
+securities, (iii) a change of 50% in the membership of the Board of Directors
+within a two-year period, unless the election or nomination for election by
+shareholders of each new director within such period was approved by the vote of
+at least three-fourths of the directors still in office at the beginning of the
+period, (iv) all or substantially all of the
+ 
+                                       17
+<PAGE>
+assets of the Company are sold, liquidated or distributed, or (v) a "change in
+control" of the Company within the meaning of Section 280G of the Code.
+ 
+    In the event of an Involuntary Termination (as defined in the Retention
+Agreements) of any executive officer who is a party to a Retention Agreement
+within two years following a change in control, such executive officer will
+receive a cash payment equal to the sum of (i) two times his or her annual base
+salary immediately prior to the date of his or her termination or, if greater,
+the highest annualized base salary in effect during the three-year period ending
+on the change in control and (ii) one times his or her target bonus. In
+addition, the executive officer would be eligible to participate in the medical,
+dental, health, life and other fringe benefit plans and arrangements applicable
+to him or her until the second anniversary of his or her date of termination.
+ 
+    The Retention Agreements further provide that, in the event of an
+Involuntary Termination of an executive officer on or following a change in
+control, such executive officer's equity awards granted to him or her under the
+1990 Plan, the ELTSOP and any other equity-based incentive plan or arrangement
+adopted by the Company ("Equity Plans") shall vest and become exercisable. All
+equity awards also shall vest and become exercisable as of the date of a change
+in control as defined in the Equity Plans, regardless of whether the executive
+officer's employment has then terminated. Subject to certain limits on payments,
+the Retention Agreements also require tax gross-up payments to the executive
+officers to mitigate any excise tax imposed on the executive officers under
+Sections 280G and 4999 of the Code in connection with a change in control.
+Executive officers who are not covered by Retention Agreements may be entitled
+to enhanced benefits under the Company's Executive Severance Plan, which is
+discussed above.
+ 
+                 CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+ 
+    The Board has approved an agreement with Dr. Amelio pursuant to which the
+Company utilizes an aircraft owned by Dr. Amelio for purposes of business
+travel. The Company has agreed to pay $1,695 for each hour of use of the
+aircraft, as well as certain other fees and expenses, including pilot and
+copilot fees, parking and landing fees and simulator training and fuel expenses.
+The Company has paid to date approximately $108,000 to Aero Ventures, an entity
+wholly owned by Dr. Amelio, in connection with the use of the aircraft. In
+addition, the Company paid approximately $121,000 to ACM Aviation, Inc., a
+company wholly owned by A. C. Markkula, Jr., for the use of aircraft in
+connection with the transportation of directors to and from meetings of the
+Board during fiscal year 1996.
+ 
+    In connection with a 1990 relocation assistance package provided to Michael
+Dionne, Senior Vice President and General Manager, AppleAssist, the Company
+extended to Mr. Dionne a $400,000 loan for the purpose of making a down payment
+on a residence. The largest aggregate amount of indebtedness outstanding on this
+loan during fiscal year 1996 was $105,230 and, as of the end of fiscal year
+1996, the outstanding loan balance was $65,473. The rate of interest being
+charged to Mr. Dionne by the Company on this loan is 5.5%.
+ 
+    Pursuant to the terms of the Amelio Employment Agreement, the Company
+extended a $5 million loan to Dr. Amelio in February 1996, which is to be repaid
+over a period of 5 years. The largest aggregate amount of indebtedness
+outstanding on this loan during fiscal year 1996 was $5 million. (See
+"ARRANGEMENTS WITH EXECUTIVE OFFICERS--EMPLOYMENT AGREEMENT WITH DR. AMELIO").
+ 
+                             OVERVIEW OF PROPOSALS
+ 
+    This Proxy Statement contains seven proposals requiring shareholder action.
+Proposal 1 requests the election of three directors to Class I of the Company's
+Board. Proposal 7 requests ratification of the Company's auditors.
+ 
+    The remaining five proposals relate to compensatory plans or arrangements
+that the Company has implemented or intends to implement as a means of
+attracting and retaining qualified personnel. Each of
+ 
+                                       18
+<PAGE>
+these proposals is part of a comprehensive approach to compensation that is
+intended to assist the Company in attracting, motivating and retaining
+employees, including key members of management and other key personnel, during a
+time of significant financial and strategic transition.
+ 
+    These compensatory programs are structured so that management incentives are
+tied to short- and long-term goals and objectives that are intended to result in
+enhanced and sustainable long-term value for the Company's shareholders. A key
+element of each of these programs is the opportunity for participants to acquire
+options or shares of Common Stock. Proposals 3 and 5 also implement the
+long-term incentive elements of the Amelio Employment Agreement which were
+negotiated with Dr. Amelio prior to his joining the Company and which reflect
+the level and type of incentive compensation deemed necessary to engage Dr.
+Amelio as the Chief Executive Officer of the Company and to compensate him for
+amounts forfeited or foregone as a result of his resignation from his prior
+employer. Each of the proposals is discussed in more detail in the pages that
+follow.
+ 
+                                 PROPOSAL NO. 1
+ 
+                             ELECTION OF DIRECTORS
+ 
+    The Company's Bylaws provide for a Board of Directors divided into two
+classes, Class I and Class II, with half of the directors in each class or as
+close an approximation to half as possible. In connection with the decision of
+B. Jurgen Hintz in December 1996 not to stand for re-election to the Board, the
+Bylaws have been amended, effective February 5, 1997, to reduce the number of
+directors from nine to seven.* Class I currently consists of four directors who
+are serving two-year terms expiring on the date of this Annual Meeting, three of
+whom are standing for re-election. Class II currently consists of four directors
+who are serving two-year terms expiring in 1998. In each case, a director serves
+for the designated term and until his or her respective successor is elected and
+qualified.
+ 
+    Three directors are to be elected at this Annual Meeting. The Board has
+nominated three of the current Class I directors to be re-elected. Directors
+elected to Class I will serve two-year terms expiring in 1999. Holders of
+proxies solicited by this Proxy Statement will vote the proxies received by them
+as directed on the proxy card or, if no direction is made, for the election of
+the Board of Directors' three nominees below. If any nominee is unable or
+declines to serve as a director at the time of the Annual Meeting, the proxy
+holders will vote for a nominee designated by the present Board of Directors to
+fill the vacancy. It is not presently expected that any nominee will be unable
+or will decline to serve as a director.
+ 
+    The Board's nominees for re-election at this Annual Meeting as Class I
+directors are Gilbert F. Amelio, Gareth C. C. Chang and Katherine M. Hudson.
+ 
+VOTE REQUIRED
+ 
+    The three nominees for Class I directors receiving the highest number of
+affirmative votes of the shares entitled to be voted for them shall be elected
+as directors. Votes withheld from any director are counted for purposes of
+determining the presence or absence of the Quorum, but have no other legal
+effect under California law.
+ 
+RECOMMENDATION
+ 
+    THE BOARD OF DIRECTORS RECOMMENDS THAT SHAREHOLDERS VOTE FOR RE-ELECTION OF
+GILBERT F. AMELIO, GARETH C. C. CHANG AND KATHERINE M. HUDSON TO CLASS I OF THE
+BOARD OF DIRECTORS OF THE COMPANY.
+ 
+- - -------------------
+ 
+*The reduction from nine to seven seats will eliminate a vacancy caused by the
+ resignation from the Board of Joseph A. Graziano in October 1995.
+ 
+                                       19
+<PAGE>
+                                 PROPOSAL NO. 2
+ 
+             APPROVAL OF AMENDMENT TO EMPLOYEE STOCK PURCHASE PLAN
+ 
+    The Employee Stock Purchase Plan (the "Purchase Plan") provides employees
+(including officers) of the Company and its majority-owned subsidiaries with an
+opportunity to purchase through payroll deductions Common Stock at a purchase
+price that is 85% of the lower of the fair market value of Common Stock at the
+beginning or end of an offering period. In December 1996, the Board of Directors
+adopted an amendment to the Purchase Plan to increase the number of shares of
+Common Stock reserved for issuance thereunder by 3,500,000, bringing the total
+number of shares reserved for issuance under the Purchase Plan to 15,000,000
+shares. The proposed share increase will avoid an unanticipated shortfall in the
+number of shares available for the current offering period, which concludes on
+December 27, 1996, with shares to be delivered in early February 1997, and is
+expected to fund the Purchase Plan through fiscal year 1998.
+ 
+PROPOSED AMENDMENT
+ 
+    At the Annual Meeting, the shareholders are being asked to approve the
+amendment to the Purchase Plan adopted by the Board of Directors in December
+1996, increasing the number of shares of Common Stock authorized to be issued
+thereunder from a total of 11,500,000 shares to a total of 15,000,000 shares.
+ 
+VOTE REQUIRED
+ 
+    The affirmative vote of (i) a majority of the Votes Cast and (ii) a majority
+of the Quorum will be required to approve the proposed amendment to the Purchase
+Plan.
+ 
+RECOMMENDATION
+ 
+    THE BOARD OF DIRECTORS OF APPLE HAS UNANIMOUSLY APPROVED THE INCREASE IN THE
+NUMBER OF SHARES RESERVED UNDER THE PURCHASE PLAN AND RECOMMENDS THAT
+SHAREHOLDERS VOTE FOR SUCH INCREASE.
+ 
+DESCRIPTION OF THE PURCHASE PLAN
+ 
+    The following is a summary of the terms of the Purchase Plan. Copies of the
+Purchase Plan are available upon request to the Investor Relations Department of
+the Company. In addition, a copy of the Purchase Plan is filed with the SEC as
+an exhibit to the Company's Form 10-K for fiscal year 1996, which was filed with
+the SEC on December 19, 1996.
+ 
+    PURPOSE.  The purpose of the Purchase Plan is to provide employees
+(including officers) of the Company and its majority-owned subsidiaries with an
+opportunity to purchase Common Stock through payroll deductions.
+ 
+    ADMINISTRATION.  The Purchase Plan may be administered by the Board of
+Directors of the Company or by a committee appointed by the Board and is
+currently being administered by the Compensation Committee. All questions of
+interpretation or application of the Purchase Plan are determined by the
+Compensation Committee, whose decisions are final, conclusive and binding upon
+all participants.
+ 
+    ELIGIBILITY AND PARTICIPATION.  Any employee (including an officer) who is
+employed for at least 20 hours per week and more than five months per calendar
+year by the Company or any of its majority-owned subsidiaries designated from
+time to time by the Board is eligible to participate in the Purchase Plan,
+provided that such employee is so employed on the date his or her participation
+in the plan is effective and subject to limitations imposed by Section 423(b) of
+the Internal Revenue Code and limitations on stock ownership described in the
+Purchase Plan. Eligible employees become participants in the Purchase Plan by
+delivering to the Company's payroll office, prior to the commencement of the
+applicable offering period, a subscription agreement authorizing payroll
+deductions.
+ 
+                                       20
+<PAGE>
+    OFFERING DATES.  The Purchase Plan is generally implemented by one offering
+during each six-month period of the plan. Offering periods normally commence in
+January and July of each year. The Board has the power to alter the duration of
+the offering periods without shareholder approval.
+ 
+    PURCHASE PRICE.  The purchase price at which shares will be sold in an
+offering under the Purchase Plan is 85% of the lower of the fair market value of
+Common Stock (i) on the date of commencement of the six-month offering period or
+(ii) on the last day of the offering period. The fair market value of Common
+Stock on a given date is the mean of the reported bid and asked prices for that
+date or, if Common Stock is listed on an exchange or quoted on the Nasdaq
+National Market, the closing or last sale price on such exchange or quotation
+system for that date.
+ 
+    PAYROLL DEDUCTIONS.  The purchase price of the shares to be acquired under
+the Purchase Plan is accumulated by payroll deductions over the offering period.
+The rate of deductions may not exceed 10% of participant's compensation, and the
+aggregate of all payroll deductions during the offering period may not exceed
+10% of the participant's aggregate compensation for the offering period. A
+participant may discontinue his or her participation in the Purchase Plan or may
+decrease, but not increase, the rate of payroll deductions at any time during
+the offering period by filing with the Company a new authorization for payroll
+deductions.
+ 
+    All payroll deductions made for a participant are credited to his or her
+account under the Purchase Plan and are deposited with the general funds of the
+Company to be used for any corporate purpose. The amount by which an employee's
+payroll deductions exceeds the amount required to purchase the shares subject to
+option will be refunded to the employee with no interest thereon. Amounts
+attributable to fractional share interests are rolled over into the next
+offering period.
+ 
+    GRANT AND EXERCISE OF OPTION.  At the beginning of an offering period, each
+participant is granted an option to purchase up to that number of shares equal
+to the participant's accumulated payroll deductions for the offering period
+divided by 85% of the lower of the fair market value of a share of Common Stock
+at the beginning of the offering period or the end of the offering period;
+provided that the number of shares subject to the option shall not exceed 200%
+of the number of shares determined by dividing 10% of the participant's
+semi-annual compensation as of the beginning of the offering period by 85% of
+the fair market value of Common Stock as of the beginning of such period. The
+maximum number of full shares subject to option which are purchasable with the
+accumulated payroll deductions in the employee's account will be purchased for
+such employee at the applicable purchase price. If, however, at the termination
+of any offering period the total number of shares which would otherwise be
+subject to options granted pursuant to the Purchase Plan exceeds the number of
+shares then available in the Purchase Plan, the Company is to notify the
+participants and may, in its sole discretion, (i) make a pro rata allocation of
+the shares remaining available for option grant in as uniform a manner as
+practicable; (ii) terminate the offering period without issuing any shares; or
+(iii) seek shareholder approval of an increase in the number of shares
+authorized under the Plan such that all options can be exercised in full. The
+Company may delay deciding which of these alternatives to adopt, and may
+accordingly delay issuances of any shares under the Purchase Plan for such time
+as is necessary to obtain shareholder approval of any increase in shares
+authorized under the Plan. Upon making its decision, the Company shall notify
+Participants. Participants may withdraw from the Purchase Plan at any time prior
+to notification by the Company of which alternative it has determined to adopt.
+ 
+    Notwithstanding the foregoing, no employee is permitted to subscribe for
+shares under the Purchase Plan if immediately after the grant of the option the
+employee would own 5% or more of the total combined voting power or value of all
+classes of stock of the Company or of its majority-owned subsidiaries (including
+stock which may be purchased through subscriptions under the Purchase Plan or
+pursuant to any outstanding options), nor is any employee entitled to buy more
+than $25,000 worth of stock (determined based on the fair market value of the
+shares at the time the option is granted) under all employee stock purchase
+plans of the Company or its parent or any subsidiary in any calendar year.
+ 
+                                       21
+<PAGE>
+    WITHDRAWAL.  A participant in the Purchase Plan may terminate his or her
+interest in a given offering in whole, but not in part, by giving written notice
+to the Company of his or her election to withdraw at any time prior to the end
+of the applicable six-month offering period. Such withdrawal automatically
+terminates the participant's interest in that offering, but does not have any
+effect upon such participant's eligibility to participate in subsequent
+offerings under the Purchase Plan.
+ 
+    TERMINATION OF EMPLOYMENT.  Termination of a participant's employment for
+any reason, including retirement or death, or the failure of a participant to
+remain in the continuous employ of the Company for at least 20 hours per week
+during the applicable offering period, cancels his or her participation in the
+Purchase Plan immediately.
+ 
+    CAPITAL CHANGES.  In the event any change is made in the Company's
+capitalization during an offering period, such as a stock split or stock
+dividend on Common Stock, which results in an increase or decrease in the number
+of shares of Common Stock outstanding without receipt of consideration by the
+Company, appropriate adjustment will be made in the purchase price and in the
+number of shares subject to purchase under the Purchase Plan, as well as in the
+number of shares reserved for issuance under the Purchase Plan. The Board may
+also make provision for adjusting the number of shares subject to purchase under
+the Purchase Plan in the event of a merger, reorganization, rights offering or
+other similar increase or decrease in the number of shares of Common Stock
+outstanding.
+ 
+    NONASSIGNABILITY.  No rights or accumulated payroll deductions of an
+employee under the Purchase Plan may be pledged, assigned, transferred or
+otherwise disposed of in any way for any reason other than death. Any attempt to
+do so may be treated by the Company as an election to withdraw from the Purchase
+Plan.
+ 
+    AMENDMENT AND TERMINATION OF THE PLAN.  The Board of Directors of the
+Company may at any time amend or terminate the Purchase Plan, except that
+termination of the plan shall not affect options previously granted thereunder
+nor may any amendment make any change in an option granted prior thereto which
+adversely affects the rights of any participant. Approval of the shareholders of
+the Company is required for amendments to the Purchase Plan only to the extent
+that shareholder approval is required or desirable to comply with either (A)
+Rule 16b-3, promulgated under the 1934 Act ("Rule 16b-3"), as in effect at the
+time of the proposed amendment to the Purchase Plan, (B) the applicable Code
+sections and rules and regulations thereunder governing employee stock purchase
+plans, as in effect at the time of the proposed amendment or (C) other
+applicable laws, rules or regulations.
+ 
+    TAX INFORMATION.  The Purchase Plan and the right of participants to make
+purchases thereunder are intended to qualify as an "employee stock purchase
+plan" under the provisions of Sections 421 and 423 of the Code. Under these
+provisions, participants will not recognize income for federal income tax
+purposes either upon enrollment in the Purchase Plan or upon any purchase of
+stock thereunder. All tax consequences are deferred until a participant sells
+the stock acquired under the Purchase Plan, disposes of such stock by gift or
+dies.
+ 
+    Upon disposition of the shares, the participant will be subject to tax and
+the amount of the tax will depend upon the holding period. If the shares have
+been held by the participant for more than two years after the date of option
+grant and more than one year after exercise of the option, the lesser of (a) the
+excess of the fair market value of the shares at the time of such disposition
+over the option price, or (b) the excess of the fair market value of the shares
+at the time the option was granted over the option price (which option price
+will be computed as of the grant date) will be treated as ordinary income, and
+any further gain will be taxed as long-term capital gain. If the shares are
+disposed of before the expiration of these holding periods, the participant will
+recognize ordinary income for federal income tax purposes in an amount generally
+measured as the excess of the fair market value of the shares on the exercise
+date over the option price, and any further gain or loss will be long-term or
+short-term capital gain or loss, depending on the holding period.
+ 
+                                       22
+<PAGE>
+    The Company is entitled to a deduction for amounts taxed as ordinary income
+to a participant only to the extent that ordinary income must be reported upon
+disposition of shares by the participant before the expiration of the holding
+periods described above.
+ 
+    The foregoing does not purport to be a complete summary of the effect of
+federal income taxation of Purchase Plan transactions upon participants and
+Apple. It also does not discuss the tax consequences of a participant's death or
+the provisions of the income tax laws of any municipality, state or foreign
+country in which a participant may reside.
+ 
+                                 PROPOSAL NO. 3
+ 
+             APPROVAL OF THE GRANT OF A STOCK OPTION TO DR. AMELIO
+                        UNDER THE 1990 STOCK OPTION PLAN
+ 
+    In connection with the engagement of Dr. Amelio as its Chairman and Chief
+Executive Officer, the Company and Dr. Amelio entered into the Amelio Employment
+Agreement as of February 2, 1996. See "ARRANGEMENTS WITH EXECUTIVE
+OFFICERS--EMPLOYMENT AGREEMENT WITH DR. AMELIO". The terms of the Amelio
+Employment Agreement provide, among other things, for the grant to Dr. Amelio of
+an Option covering 1,000,000 shares of Common Stock at an exercise price of
+$26.25 per share, which was the fair market value of a share of Common Stock on
+the day before the date of grant. The Amelio Employment Agreement provides that
+the grant of the Option is conditioned upon subsequent shareholder approval of
+the Option and amendment of the 1990 Plan to permit the Option grant to comply
+with the requirements for performance-based compensation under Section 162(m) of
+the Code. Section 162(m) of the Code limits the amount of compensation paid to
+named executive officers that may be deducted for federal tax purposes in any
+year to $1 million, unless the compensation qualifies as "performance-based"
+compensation. The amendments to the 1990 Plan to comply with Section 162(m) of
+the Code are separately addressed below in PROPOSAL NO. 4: APPROVAL OF AN
+AMENDMENT TO THE 1990 STOCK OPTION PLAN.
+ 
+PROPOSED ACTION
+ 
+    At the Annual Meeting, the shareholders are being asked to approve the grant
+of the Option to Dr. Amelio under the 1990 Plan.
+ 
+VOTE REQUIRED
+ 
+    The affirmative vote of (i) a majority of the Votes Cast and (ii) a majority
+of the Quorum will be required to approve the Option.
+ 
+RECOMMENDATION
+ 
+    THE COMPENSATION COMMITTEE HAS UNANIMOUSLY APPROVED THE OPTION AND
+RECOMMENDS THAT SHAREHOLDERS VOTE FOR THE OPTION.
+ 
+DESCRIPTION OF OPTION GRANT TO DR. AMELIO
+ 
+    The Amelio Employment Agreement provides for the grant of an Option to Dr.
+Amelio covering 1,000,000 shares of Common Stock. The Option is a nonstatutory
+stock option for purposes of the Code. The date of grant of the Option is March
+5, 1996 and the exercise price of the Option is $26.25 per share, which was the
+fair market value of a share of Common Stock on the day before the date of
+grant. Under the terms of the Amelio Employment Agreement, the Option vests
+ratably in annual installments over the five-year term of his employment with
+the Company and will expire on the tenth anniversary of the date of the grant,
+unless the Option terminates earlier in accordance with the provisions of the
+1990 Plan. If Dr. Amelio's employment with the Company terminates for any reason
+(other than death or disability), he will forfeit the unvested portion of the
+Option, and the vested portion will remain exercisable for 90 days
+ 
+                                       23
+<PAGE>
+following the termination of employment. If Dr. Amelio's employment is
+terminated without "cause" or if Dr. Amelio should resign for "good reason" (as
+such terms are defined in the Amelio Employment Agreement) after a change in
+control of the Company, he will also vest in an additional portion of the Option
+determined in accordance with a prorating formula set forth in the Amelio
+Employment Agreement.
+ 
+    The Option grant is conditioned upon shareholder approval of the Option and
+an amendment to the 1990 Plan to permit the Option grant to qualify as
+"performance-based" compensation within the meaning of Section 162(m) of the
+Code. If such shareholder approval is not obtained, the Amelio Employment
+Agreement obligates the Company and Dr. Amelio to negotiate an alternative
+long-term compensation arrangement to be submitted to shareholders for approval.
+ 
+    The terms of the 1990 Plan and the tax consequences of option grants under
+the 1990 Plan (including the Option) are discussed below. See PROPOSAL NO. 4:
+APPROVAL OF AN AMENDMENT TO THE 1990 STOCK OPTION PLAN.
+ 
+                                 PROPOSAL NO. 4
+ 
+             APPROVAL OF AN AMENDMENT TO THE 1990 STOCK OPTION PLAN
+ 
+    On December 4, 1996 the Board of Directors of the Company adopted an
+amendment to the 1990 Plan (the "Amendment") intended to permit income
+recognized in connection with grants of options or stock appreciation rights
+made after September 29, 1995 (including the Option granted to Dr. Amelio) to
+qualify as "performance-based" compensation for purposes of Section 162(m) of
+the Code. The Amendment provides that options and stock appreciation rights
+covering no more than 1,500,000 shares of Common Stock may be granted to an
+eligible person under the 1990 Plan in any fiscal year beginning after September
+29, 1995. The Amendment, which is described in more detail below, also made
+other changes to the 1990 Plan necessary or advisable to permit compliance with
+Section 162(m) of the Code. As noted above, Section 162(m) of the Code limits
+the amount of compensation paid to named executive officers that may be deducted
+for federal tax purposes in any year to $1 million, unless the compensation
+qualifies as "performance-based" compensation.
+ 
+    In addition, the Amendment increased the number of shares of Common Stock
+reserved for issuance under the 1990 Plan by 1,000,000. As of October 20, 1996
+and without giving effect to this proposed increase in shares, a total of
+51,200,000 shares had been reserved for issuance under the 1990 Plan and a total
+of approximately 4,726,392 shares remained available for future grants under the
+1990 Plan.
+ 
+PROPOSED ACTION
+ 
+    At the Annual Meeting, the shareholders are being asked to approve the
+Amendment, thereby limiting the number of options and stock appreciation rights
+that may be granted to an individual in any fiscal year beginning after
+September 29, 1995, making certain other changes necessary or advisable to
+comply with the performance-based compensation provisions of Section 162(m) of
+the Code and increasing the number of shares of Common Stock reserved for
+issuance under the 1990 Plan by 1,000,000 shares. The full text of the Amendment
+appears as Exhibit 1 to this Proxy Statement and the description of the
+Amendment herein is qualified by reference to the text of the amendment.
+ 
+VOTE REQUIRED
+ 
+    The affirmative vote of (i) a majority of the Votes Cast and (ii) a majority
+of the Quorum will be required to approve the Amendment.
+ 
+                                       24
+<PAGE>
+RECOMMENDATION
+ 
+    THE BOARD OF DIRECTORS HAS UNANIMOUSLY APPROVED THE AMENDMENT TO THE 1990
+PLAN AND THE INCREASE OF SHARES RESERVED FOR ISSUANCE UNDER THE PLAN BY
+1,000,000 SHARES AND RECOMMENDS THAT SHAREHOLDERS VOTE FOR THE AMENDMENT AND THE
+INCREASE.
+ 
+DESCRIPTION OF THE 1990 PLAN
+ 
+    The key terms of the 1990 Plan, as proposed to be amended, are outlined
+below. Copies of the 1990 Plan are available upon request to the Investor
+Relations Department of the Company.
+ 
+    GENERAL.  The 1990 Plan authorizes the grant of either incentive stock
+options within the meaning of Section 422 of the Code or nonstatutory stock
+options. All options currently outstanding under the 1990 Plan (including the
+Option) are nonstatutory options. In addition, the 1990 Plan authorizes the
+grant of Stock Appreciation Rights ("SARs") in connection with new options or
+outstanding options, or independently of options. As amended, the 1990 Plan will
+permit the grant of options and SARs covering up to 52,200,000 shares of Common
+Stock, which is an increase of 1,000,000 shares from that previously authorized
+by the shareholders. The Option granted to Dr. Amelio is included in the total
+authorized under the 1990 Plan. The fair market value of a share of Common Stock
+on October 31, 1996 was $23.00.
+ 
+    PURPOSE.  The purpose of the 1990 Plan is to advance the interests of the
+Company and its shareholders and to promote the success of the Company's
+business by attracting and retaining high quality personnel for positions of
+substantial responsibility and providing additional incentive to key employees
+of the Company and its subsidiaries and its affiliated companies.
+ 
+    ADMINISTRATION AND ELIGIBILITY.  The 1990 Plan is administered by the Board
+or by a committee or committees designated by the Board to administer the plan
+(the "Administrator"). The amendment to the 1990 Plan revises the administration
+provisions to require that grants under the 1990 Plan after September 29, 1995
+to officers may be made only by a committee of directors who qualify as "outside
+directors" within the meaning of Section 162(m) of the Code. The 1990 Plan
+provides that options and SARs may be granted thereunder to employees (any of
+whom may also be officers or members of the Board) of the Company and its
+subsidiaries and affiliated companies with respect to which the Company owns at
+least 20% of the total voting power. The Plan authorizes the Administrator to
+select the employees to whom options or SARs will be awarded and determines the
+number of shares to be subject to each option or SAR. In making such
+determination, the Administrator considers the duties and responsibilities of
+the employee, the value of the employee's services, his or her present and
+potential contributions to the success of the Company and other relevant
+factors.
+ 
+    The proposed amendment to the 1990 Plan provides that options and SARs
+covering no more than 1,500,000 shares of Common Stock may be granted to
+officers in any fiscal year beginning after September 29, 1995.
+ 
+    TERMS AND CONDITIONS OF OPTIONS.  The terms and conditions of options
+granted under the 1990 Plan, including the time at which options become
+exercisable and the exercise price, are determined by the Administrator. Each
+option is evidenced by a stock option agreement between the Company and the
+employee granted such option. The exercise price of the shares purchased upon
+exercise of any option may be paid in such form of consideration as the
+Administrator determines, and may vary for each option. The exercise price of an
+option is determined by the Administrator and may not be less than 100% of the
+fair market value of Common Stock at the time the option is granted.
+ 
+    If (i) the optionee's employment terminates for any reason other than death
+or (ii) unless the Administrator otherwise approves, in the case of options
+granted to employees of a subsidiary or an affiliated company, such subsidiary
+or affiliated company ceases to be at least 20% owned by the Company, then
+options may be exercised no later than 90 days after such termination and may be
+exercised only to
+ 
+                                       25
+<PAGE>
+the extent the option was exercisable on the termination date. Special
+provisions apply in the case of death of the optionee.
+ 
+    All options granted under the 1990 Plan expire ten years from the date of
+grant, unless a shorter term is provided in the option agreement. An option is
+nontransferable by the optionee other than by will or the laws of descent or
+distribution or pursuant to a qualified domestic relations order, and is
+exercisable during the optionee's lifetime only by such optionee or permitted
+transferee or, in the event of death, by the optionee's estate or by a person
+who acquires the right to exercise the option by bequest or inheritance.
+ 
+    STOCK APPRECIATION RIGHTS.  The Administrator is authorized to grant SARs in
+connection with all or any part of an option granted under the 1990 Plan, either
+concurrently with the grant of the option or at any time thereafter, and to
+grant SARs independently of options. An SAR granted in connection with an option
+is exercisable only when and to the extent that the underlying option is
+exercisable, and expires no later than the date on which the underlying option
+expires. Independent SARs are exercisable in whole or in part at such times as
+the Administrator specifies in the SAR grant or agreement. An SAR is
+nontransferable by the holder thereof other than by will or the laws of descent
+and distribution or pursuant to a qualified domestic relations order, and is
+exercisable during the holder's lifetime only by such holder or permitted
+transferee or, in the event of death, by the holder's estate or by a person who
+acquires the right to exercise the SAR by bequest or inheritance.
+ 
+    The Company's obligations arising upon the exercise of an SAR may be paid in
+cash or Common Stock, or any combination of the same, as the Administrator may
+determine. Shares issued upon the exercise of an SAR are valued at their fair
+market value as of the date of exercise. When an SAR is exercised, the aggregate
+number of shares of Common Stock available for issuance under the 1990 Plan will
+be reduced by the number of underlying shares of Common Stock as to which the
+SAR is exercised.
+ 
+    ADJUSTMENTS UPON CHANGES IN CAPITALIZATION.  If any change, such as a stock
+split or dividend, is made in the Company's capitalization which results in an
+exchange of Common Stock for a greater or lesser number of shares without
+receipt of consideration, an appropriate adjustment will be made in the exercise
+price of, and the number of shares subject to, all outstanding options and SARs,
+and an appropriate adjustment will be made in the total number of shares
+reserved for issuance under the 1990 Plan.
+ 
+    In the event of a proposed dissolution or liquidation of the Company, each
+option and SAR outstanding under the 1990 Plan will terminate immediately prior
+to the consummation of such proposed action, unless otherwise provided by the
+Administrator. The Administrator may, in the exercise of its sole discretion in
+such instances, declare that any option or SAR shall terminate as of a date
+fixed by the Administrator and give each optionee and SAR holder the right to
+exercise his or her option or SAR as to all or any part of the shares relating
+thereto, including shares as to which the option or SAR would not otherwise be
+vested and exercisable.
+ 
+    CHANGE IN CONTROL OF THE COMPANY.  In the event of a "change in control" of
+the Company (as defined below), all options and SARs outstanding under the 1990
+Plan as of the date on which such change in control occurs will, unless
+otherwise determined by the Administrator, become fully exercisable and the
+value of all outstanding options and SARs will, unless otherwise determined by
+the Administrator, be cashed out. The cash-out price will be the difference
+between the exercise price and the defined "change in control price".
+ 
+    A "change in control" is defined as (i) the acquisition by any person of 50%
+or more of the combined voting power of the Company's outstanding securities, or
+(ii) the occurrence of a transaction requiring shareholder approval and
+involving the sale of all or substantially all the assets of the Company or the
+merger of the Company with or into another corporation. The "change in control
+price" is determined by the Administrator and may be either (x) the highest
+closing price of Common Stock as reported in the public market during the
+60-calendar-day period immediately preceding the date of determination of the
+change in control price or (y) the highest price paid or offered (as determined
+by the Administrator) in any
+ 
+                                       26
+<PAGE>
+bona fide transaction or offer related to the change in control of the Company
+during the 60-calendar-day period preceding the date of determination of the
+change in control price.
+ 
+    In the event of a sale of all or substantially all the assets of the Company
+or the merger of the Company with or into another corporation, in a transaction
+in which options and SARs outstanding under the 1990 Plan are not accelerated
+and cashed out as provided above, each outstanding option and SAR will be
+assumed or an equivalent option or SAR will be substituted by the successor
+corporation in the transaction or by a parent or subsidiary of such successor
+corporation, unless the Administrator determines, in the exercise of its sole
+discretion and in lieu of such assumption or substitution, that the optionee or
+SAR holder shall have the right to exercise the option or SAR as to all of the
+shares subject thereto, including shares as to which the option or SAR would not
+otherwise be exercisable. If the Administrator makes an option or SAR fully
+exercisable in lieu of assumption or substitution in the event of a merger or
+sale of assets, then the Company shall notify the optionee or SAR holder that
+the option or SAR will be fully exercisable for a period of 30 days from the
+date of such notice, and the option or SAR will terminate upon the expiration of
+such period.
+ 
+    INTERPRETATION, AMENDMENT AND TERMINATION OF THE PLAN.  The Administrator
+has the authority to interpret and construe the provisions of the 1990 Plan, and
+to conclusively resolve any issues arising thereunder and, subject to certain
+limitations set forth in the plan document, the Board of Directors has general
+authority to amend or terminate the 1990 Plan.
+ 
+TAX INFORMATION
+ 
+    Incentive stock options under the 1990 Plan are afforded favorable federal
+income tax treatment under the Code. If an option is treated as an incentive
+stock option, the optionee will recognize no income upon grant or exercise of
+the option unless the alternative minimum tax rules apply. Upon an optionee's
+sale of the shares (assuming that the sale occurs at least two years after grant
+of the option and at least one year after exercise of the option), any gain will
+be taxed to the optionee as long-term capital gain. If the optionee disposes of
+the shares prior to the expiration of the above holding periods, then the
+optionee will recognize ordinary income in an amount generally measured as the
+difference between the exercise price and the lower of the fair market value of
+the shares at the exercise date or the sale price of the shares. Any gain or
+loss recognized on such a premature sale of the shares in excess of the amount
+treated as ordinary income will be characterized as capital gain or loss.
+ 
+    All other options granted under the 1990 Plan are nonstatutory stock options
+and will not qualify for any special tax benefits to the optionee. An optionee
+will not recognize any taxable income at the time he or she is granted a
+nonstatutory stock option. However, upon exercise of the nonstatutory stock
+option, the optionee will recognize ordinary income for federal income tax
+purposes in an amount generally measured as the excess of the then fair market
+value of each share over its exercise price. Upon an optionee's resale of such
+shares, any difference between the sale price and the fair market value of such
+shares on the date of exercise will be treated as capital gain or loss and will
+generally qualify for long-term capital gain or loss treatment if the shares
+have been held for more than one year.
+ 
+    Subject to the limits on deductibility of employee remuneration under
+Section 162(m) of the Code, the Company will generally be entitled to a tax
+deduction in the amount that an optionee recognizes as ordinary income with
+respect to an option. Options granted to executive officers in fiscal year 1996
+and thereafter under the 1990 Plan are intended to qualify as performance-based
+compensation for purposes of Section 162(m) of the Code, and the Company will
+generally be entitled to a tax deduction in the amount recognized by such
+officers upon exercise of the options. No tax authority or court has ruled on
+the applicability of Section 162(m) to the 1990 Plan (or to the Option) and any
+final determination of the deductibility of amounts realized upon exercise of an
+option or SAR granted under the 1990 Plan could ultimately be made by the
+Internal Revenue Service or a court having final jurisdiction with respect to
+the matter. The Company retains the right to grant options under the 1990 Plan
+(including the Option) in
+ 
+                                       27
+<PAGE>
+accordance with the terms of the 1990 Plan regardless of any final determination
+as to the applicability of Section 162(m) of the Code to these grants.
+ 
+    The foregoing does not purport to be a complete summary of the federal
+income tax considerations that may be relevant to holders of options or to the
+Company. It also does not reflect provisions of the income tax laws of any
+municipality, state or foreign country in which an optionee may reside, nor does
+it reflect the tax consequences of an optionee's death.
+ 
+PARTICIPATION IN THE 1990 STOCK OPTION PLAN
+ 
+    Option grants for fiscal year 1996 are set forth in the table to this Proxy
+Statement entitled "SECURITIES UNDERLYING OPTION/SAR GRANTS IN LAST FISCAL
+YEAR". Grants under the 1990 Plan are made at the discretion of the
+Administrator and future grants under the 1990 Plan have not yet been
+determined.
+ 
+                                 PROPOSAL NO. 5
+ 
+                      APPROVAL OF DR. AMELIO'S PERFORMANCE
+                     SHARE ARRANGEMENT FOR FISCAL YEAR 1996
+ 
+    The Amelio Employment Agreement contemplates that Dr. Amelio will have the
+opportunity to earn up to 1,000,000 shares of Common Stock (the "Performance
+Shares") over the five-year term of his employment with the Company based upon
+the achievement of performance objectives established by the Compensation
+Committee for each fiscal year of the Company occurring during the term of
+employment. The Performance Share Arrangement with Dr. Amelio is conditioned
+upon the arrangement being approved by the shareholders of the Company at the
+Annual Meeting. Subject to such shareholder approval, the Compensation Committee
+has approved the award to Dr. Amelio of 130,960 Performance Shares for fiscal
+year 1996 based upon the achievement of the performance objectives described
+below for that year. The Performance Share Arrangement for fiscal years of the
+Company after fiscal year 1996 will be part of the proposed Senior Officers
+Restricted Performance Share Plan. See PROPOSAL NO. 6: APPROVAL OF THE SENIOR
+OFFICERS RESTRICTED PERFORMANCE SHARE PLAN. The key terms of the Performance
+Share Arrangement are discussed below.
+ 
+PROPOSED ACTION
+ 
+    At the Annual Meeting, the shareholders are being asked to approve the award
+and issuance to Dr. Amelio of 130,960 Performance Shares for fiscal year 1996
+and the performance goals previously established by the Compensation Committee
+for fiscal year 1996.
+ 
+VOTE REQUIRED
+ 
+    The affirmative vote of (i) a majority of the Votes Cast and (ii) a majority
+of the Quorum will be required to approve the fiscal year 1996 award of
+Performance Shares to Dr. Amelio and the performance goals adopted in connection
+therewith.
+ 
+RECOMMENDATION
+ 
+    THE COMPENSATION COMMITTEE HAS UNANIMOUSLY APPROVED THE FISCAL YEAR 1996
+AWARD OF THE PERFORMANCE SHARES TO DR. AMELIO AND THE PERFORMANCE GOALS ADOPTED
+IN CONNECTION THEREWITH AND RECOMMENDS THAT SHAREHOLDERS VOTE FOR THESE ITEMS.
+ 
+DESCRIPTION OF PERFORMANCE SHARE ARRANGEMENT FOR DR. AMELIO AND THE FISCAL YEAR
+  1996 PERFORMANCE GOALS
+ 
+    GENERAL DESCRIPTION.  The Amelio Employment Agreement contemplates that Dr.
+Amelio will have the opportunity to earn up to 1,000,000 Performance Shares over
+the five-year term of the agreement. The
+ 
+                                       28
+<PAGE>
+Performance Shares for each fiscal year of the term are to be earned based upon
+the achievement of performance goals established for such year by the
+Compensation Committee. As noted above, the Performance Share Arrangement for
+fiscal years of the Company after fiscal year 1996 will be part of the proposed
+Senior Officers Restricted Performance Share Plan.
+ 
+    For fiscal year 1996, Dr. Amelio was eligible to earn a maximum of 130,960
+Performance Shares under the Performance Share Arrangement. At its April 1, 1996
+meeting, the Compensation Committee established the following three goals which
+had to be achieved in order for Dr. Amelio to be eligible to earn the full
+number of Performance Shares for fiscal year 1996: (i) a three-year strategic
+plan (which would serve as the agenda for the Company's sustainable business
+proposition for the future) had to be identified and presented to the Board of
+Directors by the third quarter of fiscal year 1996 and had to begin showing
+results by the fourth quarter of fiscal year 1996; (ii) a profit model for the
+Company had to be identified and presented to the Board of Directors by the
+third quarter of fiscal year 1996 and had to begin showing results by the fourth
+quarter of fiscal year 1996; and (iii) an organizational model had to be
+implemented, communicated and aligned with the corporate strategy and profit
+model by the end of the fourth quarter of fiscal year 1996.
+ 
+    At its November 18, 1996 meeting, the Compensation Committee reviewed the
+Company's performance for fiscal year 1996 and certified that each of these
+three goals set by the Compensation Committee had been achieved. The
+Compensation Committee resolved at that meeting that Dr. Amelio should receive
+the full number of Performance Shares (130,960 shares) payable under the
+Performance Share Arrangement for fiscal year 1996, subject to the approval of
+such payment and the aforementioned performance goals by the shareholders of the
+Company at the Annual Meeting.
+ 
+    As noted above, the Performance Share Arrangement under the Amelio
+Employment Agreement is conditioned upon shareholder approval of the
+arrangement, along with shareholder approval of such additional terms intended
+to permit the Performance Share Arrangement to comply with the
+"performance-based" compensation provisions of Section 162(m) of the Code. If
+such shareholder approval is not obtained, the Amelio Employment Agreement
+obligates the Company and Dr. Amelio to negotiate an alternative long-term
+compensation arrangement to be submitted to shareholders for subsequent
+approval.
+ 
+    SECTION 162(M).  The Performance Share Arrangement for 1996 is intended to
+meet the requirements applicable to "performance-based" compensation under
+Section 162(m) of the Code, and amounts paid under the arrangement are intended
+to be deductible by the Company for federal income tax purposes. No tax
+authority or court has ruled on the applicability of Section 162(m) to these
+amounts and any final determination of the deductibility of these payments could
+ultimately be made by the Internal Revenue Service or a court having final
+jurisdiction with respect to the matter. The Company retains the right to make
+payments in accordance with the terms of the arrangement regardless of any final
+determination as to the applicability of Section 162(m) of the Code to these
+payments.
+ 
+                                 PROPOSAL NO. 6
+ 
+                        APPROVAL OF THE SENIOR OFFICERS
+                       RESTRICTED PERFORMANCE SHARE PLAN
+ 
+    The Compensation Committee has approved, subject to subsequent shareholder
+approval at the Annual Meeting, the Senior Officers Restricted Performance Share
+Plan (the "Performance Share Plan"), pursuant to which executives of the Company
+at the level of Senior Vice President and above and other key employees
+designated from time to time by the Compensation Committee will be eligible to
+earn shares of Common Stock (the "Plan Performance Shares") based upon the
+achievement by the Company of performance targets under one or more performance
+goals established by the Compensation Committee for each fiscal year. If
+approved by the shareholders of the Company, the Performance Share Plan will
+govern the payment to Dr. Amelio of the remainder of the Performance Shares
+contemplated by Amelio
+ 
+                                       29
+<PAGE>
+Employment Agreement for each fiscal year after fiscal year 1996. The key terms
+of the Performance Share Plan are discussed below.
+ 
+PROPOSED ACTION
+ 
+    At the Annual Meeting, the shareholders are being asked to approve the terms
+of the Performance Share Plan, including the participation levels of each of the
+five senior officers of the Company who have been designated as initial plan
+participants, the performance goals authorized for use under the plan, and the
+reservation for issuance of two million shares of Common Stock under the plan.
+ 
+VOTE REQUIRED
+ 
+    The affirmative vote of (i) a majority of the Votes Cast and (ii) a majority
+of the Quorum will be required to approve the Performance Share Plan, including
+the participation levels of each of the senior officers of the Company in the
+plan, the performance goals authorized for use under the plan and the
+reservation for issuance of 2,000,000 shares under the plan.
+ 
+RECOMMENDATION
+ 
+    THE BOARD OF DIRECTORS HAS UNANIMOUSLY APPROVED THE PERFORMANCE SHARE PLAN
+AND THE RESERVATION OF 2,000,000 SHARES FOR ISSUANCE UNDER THE PLAN AND
+RECOMMENDS THAT SHAREHOLDERS VOTE FOR THE PLAN AND THE RESERVATION OF SHARES FOR
+ISSUANCE THEREUNDER.
+ 
+DESCRIPTION OF THE PERFORMANCE SHARE PLAN
+ 
+    At its November 18, 1996 meeting, the Compensation Committee adopted the
+Performance Share Plan, subject to the approval thereof by the shareholders of
+the Company at the Annual Meeting. If approved by the shareholders, the terms of
+the Performance Share Plan will govern the payment of the remaining Performance
+Shares to Dr. Amelio under the Amelio Employment Agreement as well as the
+payment of Plan Performance Shares to other senior officers designated by the
+Compensation Committee as participants in the plan. A copy of the Performance
+Share Plan is attached to this Proxy Statement as Exhibit 2 and the description
+of the Performance Share Plan herein is qualified by reference to the text of
+the Performance Share Plan attached hereto.
+ 
+    PURPOSE.  The Performance Share Plan is intended to provide an incentive for
+plan participants to achieve superior performance and to motivate participants
+toward even higher achievement and business results, to tie the goals of senior
+management to those of the Company and its shareholders, to promote substantial
+levels of stock ownership by senior management and to retain highly qualified
+executive officers. Amounts paid under the Performance Share Plan are also
+intended to qualify as "performance-based" compensation, within the meaning of
+Section 162(m) of the Code, which is deductible by the Company for federal
+income tax purposes.
+ 
+    ADMINISTRATION AND ELIGIBILITY.  Only those executive officers at the level
+of senior vice president or above and such other key employees recommended by
+management and approved by the Compensation Committee are eligible to
+participate in the Plan. The initial participants in the Plan, the maximum
+number of Plan Performance Shares that may be awarded to each such participant
+in any fiscal year, and the maximum number of Plan Performance Shares that may
+be paid to such participant over the term of the Performance Share Plan are as
+follows: Dr. Amelio--200,000 Plan Performance Shares in any fiscal
+year/1,000,000 Plan Performance Shares over the term of the plan; Mr.
+Landi--20,000/100,000; and each of Messrs. Anderson and Scalise and Ms.
+Hancock--16,000/80,000.
+ 
+    PLAN YEAR AND PERFORMANCE GOALS.  Plan Performance Shares will be earned
+under the Performance Share Plan for five fiscal years of the Company,
+commencing with fiscal year 1997. For each fiscal year, the
+ 
+                                       30
+<PAGE>
+Performance Share Plan requires the Compensation Committee to establish
+Company-wide performance targets for that year based upon one or more of the
+following performance targets:
+ 
+    - earnings per share
+ 
+    - share price
+ 
+    - revenue growth
+ 
+    - return on equity
+ 
+    - return on net assets
+ 
+    - timing objectives for delivery of new products
+ 
+    - retention of key employees
+ 
+    The Performance Share Plan generally requires the Compensation Committee to
+establish the targets for the performance goal or goals selected for a given
+fiscal year of the Company within the 90-day period at the start of the fiscal
+year. The Performance Share Plan permits the Compensation Committee to base
+awards on other performance goals not set forth above, but any such other
+performance goals selected by the Compensation Committee must be approved by the
+shareholders of the Company.
+ 
+    LIMITS ON AWARDS.  The Performance Share Plan provides that no more than
+2,000,000 shares of Common Stock may be awarded under the Performance Share Plan
+and no more than 300,000 shares of Common Stock may be awarded to any individual
+participant for any given fiscal year. In addition, the initial participants
+under the Performance Share Plan will not be eligible to receive under the
+Performance Share Plan more than the annual fiscal year and aggregate plan
+limits set forth above. These limits are subject to adjustment in the event of a
+change in the capitalization of the Company affecting Common Stock.
+ 
+    TIMING OF AWARDS; CERTIFICATION OF PERFORMANCE.  At the start of each fiscal
+year, the participants in the Performance Share Plan will receive a conditional
+award of the target number of Plan Performance Shares that they are eligible to
+earn for that year. Share certificates will be issued in the name of each
+participant at the start of the fiscal year, but will be held by the Company,
+and participants will not be entitled to vote the shares or receive dividends or
+other distributions with respect thereto. The Compensation Committee may specify
+that the Plan Performance Shares for a fiscal year will be earned if the
+applicable target is achieved for one goal or for any one of a number of goals.
+The Compensation Committee may also provide that the Plan Performance Shares for
+a fiscal year will be earned only if targets are achieved for more than one
+performance goal. The Compensation Committee may also provide that the Plan
+Performance Shares to be earned for a given fiscal year will vary based upon
+different levels of achievement of the applicable performance targets. At the
+end of each fiscal year, the Performance Share Plan requires the Compensation
+Committee to certify whether or not the performance target or targets for the
+fiscal year have been achieved and to calculate the number of Plan Performance
+Shares earned by each participant for the fiscal year. The Performance Share
+Plan gives the Compensation Committee the discretion to reduce the number of
+Plan Performance Shares payable to a given participant based on individual
+performance factors, but prohibits the Compensation Committee from increasing
+the amount otherwise payable to a participant.
+ 
+    FORM OF PAYMENT.  At the end of each Fiscal Year, participants are entitled
+to receive an actual grant of the Plan Performance Shares earned by them for the
+fiscal year. The Performance Share Plan permits each participant to receive the
+value of up to 50% of the Plan Performance Shares earned by the participant for
+the fiscal year in cash. A participant must elect, within 60 days of being
+notified of his or her participation in the plan, the portion of his or her Plan
+Performance Shares to be paid in cash. The value of the cash component of any
+award is determined by multiplying the number of Plan Performance Shares that
+the participant elects to receive in cash by the value of a share of Common
+Stock on the last day of the applicable fiscal year. Plan Performance Shares
+settled in cash count against the aggregate and individual share limits on
+payments under the Performance Share Plan. The Performance Share Plan requires
+the Company to withhold from awards all amounts that are legally required to be
+withheld for tax purposes.
+ 
+                                       31
+<PAGE>
+Such amounts are to be withheld first from the cash portion of an award and then
+from the shares of Common Stock otherwise deliverable to the participant, unless
+the participant elects to satisfy such withholding obligation from other amounts
+payable to the participant from the Company.
+ 
+    TERMINATION OF EMPLOYMENT; CHANGE IN CONTROL.  If a participant's employment
+with the Company is terminated for cause (as defined in the plan document) or if
+the participant voluntarily resigns, the participant will forfeit all Plan
+Performance Shares for the year in which such termination or resignation occurs.
+If the participant's employment with the Company ends as a result of the
+participant's death, disability or involuntary termination other than for cause,
+the participant (or the participant's estate in the event of death) will be
+eligible to earn a pro rata portion of the target award for the fiscal year in
+which the date of death occurs, subject to the Company's achieving the
+applicable performance targets for the year in which the termination of
+employment occurs.
+ 
+    In the event of a change in control of the Company, the Performance Share
+Plan requires the Compensation Committee to make equitable adjustments to
+preserve the economic value of the plan to eligible participants. If a
+participant's employment is involuntarily terminated in connection with a change
+in control, the participant will receive following such termination of
+employment the maximum number of Plan Performance Shares that the participant is
+eligible to earn for the fiscal year in which the change in control occurs.
+ 
+    AMENDMENT.  Subject to certain limitations set forth in the plan document,
+the Board of Directors may amend or terminate the Performance Share Plan at any
+time.
+ 
+    SECTION 162(M).  Payments under the Performance Share Plan are intended to
+meet the requirements applicable to "performance-based" compensation under
+Section 162(m) of the Code, and amounts paid under the plan are intended to be
+deductible by the Company for federal income tax purposes. No tax authority or
+court has ruled on the applicability of Section 162(m) to these payments and any
+final determination of the deductibility of these payments could ultimately be
+made by the Internal Revenue Service or a court having final jurisdiction with
+respect to the matter. The Company retains the right to make payments in
+accordance with the terms of the plan regardless on any final determination as
+to the applicability of Section 162(m) of the Code to these payments.
+ 
+                                       32
+<PAGE>
+                  NEW PLAN BENEFITS TABLE FOR APPROVAL OF THE
+               SENIOR OFFICERS RESTRICTED PERFORMANCE SHARE PLAN
+ 
+                   MAXIMUM SHARE AWARDS FOR FISCAL YEAR 1997
+ 
+<TABLE>
+<CAPTION>
+                                                                         MAXIMUM SHARE AWARDS
+NAME AND POSITION                                                        FOR FISCAL YEAR 1997
+- - ----------------------------------------------------------------------  ----------------------
+<S>                                                                     <C>
+Gilbert F. Amelio.....................................................           200,000
+  Chairman of the Board and
+  Chief Executive Officer
+ 
+Marco Landi...........................................................            20,000
+  Executive Vice President and
+  Chief Operating Officer
+ 
+Fred D. Anderson......................................................            16,000
+  Executive Vice President and
+  Chief Financial Officer
+ 
+George M. Scalise.....................................................            16,000
+  Executive Vice President and
+  Chief Administrative Officer
+ 
+John Floisand.........................................................            --
+  Senior Vice President,
+  Worldwide Sales
+ 
+Executive Group*......................................................           268,000
+ 
+Non-Executive Director Group..........................................           -0-
+ 
+Non-Executive Officer Employee Group..................................           -0-
+</TABLE>
+ 
+- - ------------------------
+ 
+*At the present time, no additional awards have been granted under the
+ Performance Share Plan.
+ 
+                                 PROPOSAL NO. 7
+ 
+                    RATIFICATION OF APPOINTMENT OF AUDITORS
+ 
+    The Board of Directors has appointed KPMG Peat Marwick LLP ("KPMG Peat
+Marwick"), independent auditors, to audit Apple's consolidated financial
+statements for the fiscal year ending September 26, 1997. The firm of Ernst &
+Young LLP ("Ernst & Young") served as independent auditors for the Company for
+the fiscal year ended September 27, 1996. At the Annual Meeting, the
+shareholders are being asked to ratify the appointment of KPMG Peat Marwick as
+the Company's independent auditors for fiscal year 1997. In the event of a
+negative vote on such ratification, the Board of Directors will reconsider its
+selection.
+ 
+    Representatives of KPMG Peat Marwick and Ernst & Young are expected to be
+present at the Annual Meeting and will have the opportunity to respond to
+appropriate questions and to make a statement if they so desire.
+ 
+    On December 4, 1996, the Audit and Finance Committee of the Company's Board
+of Directors recommended to the full Board of Directors that the Company engage
+the independent certified public accounting firm of KPMG Peat Marwick to audit
+the consolidated financial statements of the Company for the year ending
+September 26, 1997. On December 4, 1996, the Board of Directors adopted the
+Committee's recommendation and approved the proposed engagement of KPMG Peat
+Marwick. Accordingly, the engagement of Ernst & Young as the Company's
+independent auditors was discontinued
+ 
+                                       33
+<PAGE>
+effective upon conclusion of the audit of the Company's financial statements for
+the year ended September 27, 1996.
+ 
+    The reports of Ernst & Young on the Company's consolidated financial
+statements for each of the two fiscal years in the period ended September 27,
+1996 did not contain an adverse opinion or a disclaimer of opinion and were not
+qualified or modified as to uncertainty, audit scope or accounting principles.
+ 
+    In connection with the audits of the Company's consolidated financial
+statements for each of the two fiscal years ended September 27, 1996 and
+September 29, 1995 and the subsequent interim period prior to December 4, 1996,
+there were no disagreements between the Company and Ernst & Young on any matters
+of accounting principles or practices, financial statement disclosure, or audit
+scope and procedures which, if not resolved to the satisfaction of Ernst &
+Young, would have caused Ernst & Young to make reference to the matter in their
+reports.
+ 
+    There were no reportable events (as defined in Regulation S-K Item
+304(a)(1)(v)) during the two fiscal years ended September 29, 1995 and September
+27, 1996 and the subsequent interim period prior to December 4, 1996.
+ 
+    The Company did not consult with KPMG Peat Marwick during the last two
+fiscal years in the period ended September 27, 1996 or the subsequent interim
+period prior to December 4, 1996 on either the application of accounting
+principles or type of opinion KPMG Peat Marwick might issue on the Company's
+financial statements.
+ 
+RECOMMENDATION
+ 
+    THE BOARD OF DIRECTORS RECOMMENDS THAT SHAREHOLDERS VOTE FOR RATIFICATION OF
+THE APPOINTMENT OF KPMG PEAT MARWICK AS THE COMPANY'S INDEPENDENT AUDITORS.
+ 
+                                 OTHER MATTERS
+ 
+    Apple knows of no other matters to be submitted to the shareholders at the
+Annual Meeting. If any other matters properly come before the shareholders at
+the Annual Meeting, it is the intention of the persons named on the enclosed
+proxy card to vote the shares they represent as the Board of Directors may
+recommend.
+ 
+                             SHAREHOLDER PROPOSALS
+ 
+    Shareholders of Apple who intend to present proposals at Apple's next Annual
+Meeting of Shareholders must send such proposals to Apple for receipt no later
+than September 1, 1997 in order for such proposals to be considered for
+inclusion in the proxy statement and form of proxy relating to such meeting.
+ 
+                             THE BOARD OF DIRECTORS
+ 
+Dated: December 26, 1996
+ 
+                                       34
+<PAGE>
+                                                                       EXHIBIT 1
+ 
+                                AMENDMENT TO THE
+                  APPLE COMPUTER, INC. 1990 STOCK OPTION PLAN
+ 
+    WHEREAS, Apple Computer, Inc. (the "COMPANY") sponsors the Apple Computer,
+Inc. 1990 Stock Option Plan (the "PLAN");
+ 
+    WHEREAS, Section 14 of the Plan provides that the Plan may be amended by the
+Board of Directors (the "BOARD") of the Company; and
+ 
+    WHEREAS, the Board has determined that it is in the best interest of the
+Company and its shareholders to amend the Plan, effective as of September 30,
+1995, in the manner contemplated below, subject to the approval of the amendment
+by the shareholders of the Company at the 1997 Annual Meeting of the
+Shareholders of the Company;
+ 
+    NOW, THEREFORE, the Plan is hereby amended as follows:
+ 
+    1.  Section 3 of the Plan is amended by deleting the number "51,200,000" and
+replacing it with the following:
+ 
+        "52,200,000"
+ 
+    2.  Section 3 of the Plan is further amended by adding at the end thereof
+the following:
+ 
+       "Anything in the Plan to the contrary notwithstanding, no Employee may be
+       granted Options and SARs covering in the aggregate more than 1.5 million
+       shares of Common Stock (the "Limit") in any fiscal year beginning after
+       September 29, 1995. Each share underlying a SAR not granted in tandem
+       with an Option shall be applied against the Limit, regardless of the
+       number of shares deliverable or delivered upon exercise of the SAR;
+       provided, however, that shares of Common Stock underlying a tandem grant
+       of Options and SARs shall be counted only once in calculating the Limit.
+       The Limit shall not apply to grants of Options and SARs made prior to
+       September 30, 1995."
+ 
+    3.  Section 4 of the Plan is hereby amended by adding at the end thereof the
+following:
+ 
+       "(d) Anything in the Plan to the contrary notwithstanding, after
+       September 29, 1995, grants of Options and SARs under the Plan to Officers
+       shall be made only by a Committee consisting of at least two directors of
+       the Company who qualify as "outside directors" within the meaning of
+       Section 162(m) of the Code, and such Committee shall exercise all of the
+       authority delegated under the Plan to the Administrator with respect to
+       grants to Officers made on and after that date."
+ 
+    4.  Section 14(a) of the Plan is hereby amended by deleting the words "or
+with Section 422 of the Code" and replacing them with the following:
+ 
+       ", Section 422 of the Code, or, for periods after September 29, 1995,
+       with Section 162(m) of the Code"
+ 
+    5.  This Amendment shall be effective as of September 30, 1995, subject to
+the approval of this Amendment by the shareholders of the Company at the 1997
+Annual Meeting of the Shareholders of the Company. Except as otherwise amended
+hereby, the Plan shall remain in full force and effect.
+<PAGE>
+                                                                       EXHIBIT 2
+ 
+                              APPLE COMPUTER, INC.
+               SENIOR OFFICERS RESTRICTED PERFORMANCE SHARE PLAN
+ 
+1.  PURPOSE
+ 
+        This annual performance-based incentive plan (the "Performance Share
+    Plan" or the "Plan") is designed to reward executive officers of Apple
+    Computer, Inc. and its subsidiaries (the "Company") for achieving
+    performance objectives. The Performance Share Plan is intended to provide an
+    incentive for superior performance and to motivate participating officers
+    toward even higher achievement and business results, to tie their goals and
+    interests to those of the Corporation and its shareholders, to promote the
+    maintenance of substantial stock ownership levels by officers of the
+    Corporation, and to enable the Corporation to attract and retain highly
+    qualified executive officers. The Performance Share Plan is also intended to
+    secure the full deductibility of incentive compensation payable to the
+    Corporation's Chief Executive Officer and the four highest compensated
+    executive officers (collectively the "Covered Employees") whose compensation
+    is required to be reported in the Corporation's proxy statement and all
+    compensation payable hereunder to such persons is intended to qualify as
+    "performance-based compensation" as described in Section 162(m)(4)(C) of the
+    Internal Revenue Code of 1986, as amended (the "Code").
+ 
+2.  ELIGIBILITY AND PARTICIPATION
+ 
+        Only (i) those executive officers of the Corporation at the level of
+    senior vice president or above and (ii) such other key employees of the
+    Company as are recommended by management to and designated by the
+    Compensation Committee shall be eligible to participate in the Performance
+    Share Plan. Prior to or at the time performance objectives are established
+    for a "Performance Period", as defined below, the Compensation Committee
+    (the "Committee") of the Company's Board of Directors (the "Board") will
+    designate in writing which executive officers and other key employees among
+    those who may be eligible to participate in the Plan shall in fact be
+    participants for such Performance Period (the "Participants"). The initial
+    Participants in the Performance Share Plan shall be the individuals holding
+    the positions identified in Appendix A.
+ 
+3.  PLAN YEAR AND PERFORMANCE OBJECTIVES
+ 
+        (A) PLAN YEAR: The fiscal year of the Performance Share Plan (the "Plan
+    Year") shall be the fiscal year beginning on the first day of the Company's
+    fiscal year and ending on the last day of the Company's fiscal year. The
+    performance period (the "Performance Period") with respect to which awards
+    may be payable under their Plan shall be the Plan Year. The initial Plan
+    Year shall commence on September 30, 1996 and end on September 26, 1997.
+ 
+        (B) PERFORMANCE GOAL SETTING PERIOD: Within the first ninety (90) days
+    of each Performance Period the Committee shall establish in writing, with
+    respect to such Performance Period, one or more performance goals, a
+    specific target objective or objectives with respect to such performance
+    goals and an objective formula or method for computing the amount of
+    performance shares payable to each Participant under the Plan if the
+    performance goals are attained. Notwithstanding the foregoing sentence, for
+    any Performance Period, such goals, objectives and compensation formulae or
+    methods must be established within that number of days, beginning on the
+    first day of such Performance Period, which is no more than twenty-five
+    percent (25%) of the total number of days in such Performance Period.
+<PAGE>
+        (C) PERFORMANCE MEASUREMENT: Performance goals shall be based upon one
+    or more of the following business criteria for the Company:
+ 
+       -  earnings per share
+ 
+       -  share price
+ 
+       -  revenue growth
+ 
+       -  return on equity
+ 
+       -  return on net assets
+ 
+       -  timing objectives for delivery of new products
+ 
+       -  retention of key employees
+ 
+       The Committee may adopt other performance goals in its sole and absolute
+       discretion, provided, however, that in the event the Committee determines
+       to adopt performance goals based on criteria other than those stated
+       above, the Committee shall obtain shareholder approval of such criteria.
+       All performance goals adopted by the Committee shall be preestablished,
+       objective performance goals as described in Reg. Sec. 1.162-27(e)(2),
+       promulgated under Section 162(m) of the Code. Measurements of the
+       Company's or a Participant's performance against the performance goals
+       established by the Committee shall be objectively determinable and, to
+       the extent any performance goal is expressed in standard accounting
+       terms, such performance goal shall be determined according to generally
+       accepted accounting principles as in existence on the date on which the
+       performance goals are established and without regard to any changes in
+       such principles after such date.
+ 
+4.  DETERMINATION OF PERFORMANCE SHARE AWARDS
+ 
+        (A) SHARES COVERED BY THE PLAN: Shares awarded under the Performance
+    Share Plan shall be shares of the Company's common stock ("Shares"). The
+    maximum number of Shares that may be awarded under the Plan shall be
+    2,000,000 in the aggregate and, in any single Plan Year, 300,000 to any one
+    individual, subject to adjustment as provided in Section 6(k). Shares that
+    are converted to cash in accordance with Section 5 shall be treated as
+    shares awarded under the Plan for purposes of the aggregate and individual
+    limits in the previous sentence. Any increase in the number of Shares
+    allocated to the Plan must be approved by the Company's shareholders. Any
+    Shares deliverable under the Plan may be made available from authorized but
+    unissued Shares or Shares reacquired by the Company, including Shares
+    purchased in the open market or in private transactions.
+ 
+        (B) GRANTS OF PERFORMANCE SHARES: At the beginning of each Plan Year,
+    each Participant will be granted the target number of Shares (see Appendix
+    A) that can be earned based on performance with respect to that Plan Year
+    (the "Conditional Grant"). At the time the Conditional Grant is made on
+    behalf of a Participant, certificates representing the target number of
+    Shares will be registered in the name of the Participant. During the Plan
+    Year, the certificates representing those Shares will be held by the
+    Company. The Committee may specify that the Conditional Grant for a Plan
+    Year will be earned if the applicable target is achieved for one goal or for
+    any one of a number of goals. The Committee may also provide that the
+    Conditional Grant for a Plan Year will be earned only if targets are
+    achieved for more than one performance goal. The Committee may also provide
+    that the Conditional Grant to be earned for a given Plan Year will vary
+    based upon different levels of achievement of the applicable performance
+    targets.
+ 
+    As soon as practicable after the end of each Performance Period, the
+    Committee shall certify in writing to what extent the Company and the
+    Participants have achieved the performance goal or goals for such
+    Performance Period, including the specific target objective or objectives
+    and the satisfaction
+ 
+                                       2
+<PAGE>
+    of any other material terms of the Performance Share Award and the Committee
+    shall calculate the amount of each Participant's actual award for such
+    Performance Period based upon the performance goals, objectives and
+    computation formulae or methods for such Performance Period (the "Actual
+    Grant"). The Committee shall have no discretion to increase the maximum
+    amount of any Participant's Actual Grant as so determined, but may reduce
+    the amount of or totally eliminate such award, as it determines, in its
+    absolute and sole discretion, in an amount appropriate to reflect the
+    Participant's performance.
+ 
+    No Participant's Actual Grant for any Plan Year shall exceed the number of
+    Shares stated in Appendix A.
+ 
+    Only after the Actual Grant has been awarded to a Participant will he or she
+    have the rights of a shareholder in the Company with respect to any of the
+    Shares covered by the Conditional Grant, including the right to vote the
+    Shares and the right to receive any distributions with respect to such
+    Shares.
+ 
+5.  PAYMENT OF AWARDS
+ 
+        Approved Performance Share Awards shall be payable by the Company to
+    each Participant in Shares, or, at the election of the Participant, fifty
+    percent (50%) in Shares and fifty percent (50%) in cash ("Cash Election"),
+    as soon as reasonably practicable after the last day of the relevant
+    Performance Period (the "vesting date"), provided that the Committee has
+    first certified in writing that the relevant performance goals were
+    achieved. In the event that a Participant makes a Cash Election, the amount
+    of cash to be awarded shall be determined by the Committee as of each
+    vesting date, such that (subject to the performance goals for that
+    Performance Period being fully satisfied), the Participant receives fifty
+    percent of the total value of the Shares earned as of the vesting date in
+    cash and the remainder in Shares, based on the closing price of the
+    Company's common stock on the vesting date. Cash Elections for any
+    Performance Period shall be made on a form provided for the purpose by the
+    Committee within sixty (60) days of the date an employee is notified by the
+    Committee that he or she has been designated as a Participant in the Plan
+    for that Performance Period. Except in the case of an Actual Grant made to a
+    Participant's Beneficiary (as hereinafter defined), a participant is
+    precluded from selling or otherwise disposing of any interest in Actual
+    Grant Shares until such time as the Shares are distributed to the
+    participant.
+ 
+    If a Participant ceases to be employed by the Company prior to the end of
+    any Plan Year, award payment rights will be determined as follows:
+ 
+    A. Involuntary termination by the Company for cause or voluntary termination
+       by a Participant would lead to a Participant's forfeiture of all
+       Performance Share Plan awards for that Plan Year. Termination for cause
+       is defined as follows: conviction of (i) a felony, (ii) embezzlement from
+       the Company or (iii) other business fraud.
+ 
+    B.  Termination on account of death, disability, or involuntary termination
+       not for cause by the Company entitles a Participant, or the Participant's
+       Beneficiary, to a prorated share of the Performance Share Award. Prorated
+       awards are determined based on the number of completed months that the
+       Participant was employed in the Plan Year divided by 12 months and are
+       subject to reduction as provided in Section 4(b). Prorated awards shall
+       be paid at the same time as if the Participant had remained employed
+       until the end of the Plan Year.
+ 
+6.  OTHER TERMS AND CONDITIONS
+ 
+        (A) TERM OF PLAN: The Performance Share Plan shall become effective upon
+    its adoption by the Board, subject to the subsequent approval thereof by the
+    shareholders of the Company in accordance
+ 
+                                       3
+<PAGE>
+    with Section 6(b). It shall continue in effect for a term of five (5) years
+    unless sooner terminated under Section 7 of the Plan.
+ 
+        (B) SHAREHOLDER APPROVAL: No Actual Grants shall be awarded under the
+    Performance Share Plan unless and until the material terms (within the
+    meaning of Section 162(m)(4)(C) of the Code) of the Plan, including the
+    business criteria described in the Plan, are disclosed to the Company's
+    shareholders and are approved by the shareholders by a majority of votes
+    cast in person or by proxy (including abstentions to the extent abstentions
+    are counted as voting under applicable state law).
+ 
+        (C) NO PARTICIPATION RIGHTS: No person shall have any legal claim to be
+    granted an award under the Performance Share Plan and the Committee shall
+    have no obligation to treat Participants uniformly. Participation in the
+    Performance Share Plan in any Plan Year does not entitle any Participant to
+    participate in the Plan in any other Plan Year. The right to receive a
+    targeted number of performance shares in any given year does not entitle a
+    Participant to participate with respect to the same number of Shares in any
+    subsequent year.
+ 
+        (D) NO RIGHTS TO SPECIFIC PROPERTY: Except as may be otherwise required
+    by law, Conditional Grants and Actual Grants under the Performance Share
+    Plan shall not be subject in any manner to anticipation, alienation, sale,
+    transfer, assignment, pledge, encumbrance, charge, garnishment, execution,
+    or levy of any kind, either voluntary or involuntary. No Participant shall
+    have any claim with respect to any specific assets of the Company or to
+    stock certificates registered in the Participant's name prior to the vesting
+    of the shares represented by such certificates.
+ 
+        (E) NO EMPLOYMENT RIGHTS: Neither the Performance Share Plan nor any
+    action taken under the Plan shall confer upon any Participant any right with
+    respect to continuation of employment by the Company (or any subsidiary or
+    affiliated company) or to maintain any Participant's compensation at any
+    level, nor shall it interfere in any way with any Participant's right or the
+    right of the Company (or any subsidiary or affiliated company) to terminate
+    a Participant's employment at any time or for any reason.
+ 
+        (F) OTHER BENEFITS: Performance Share Awards shall not be considered as
+    part of a Participant's salary or used for the calculation of any other pay,
+    allowance, pension or other benefit unless otherwise permitted by other
+    benefit plans provided by the Company or its subsidiaries, or required by
+    law or by contractual obligations of the Company or its subsidiaries.
+ 
+        (G) BENEFICIARY: The term "Beneficiary" shall mean the person or persons
+    designated by a Participant to whom Performance Share Awards are to be paid
+    pursuant to the terms of the Performance Share Plan in the event of the
+    Participant's death. The designation shall be on a form provided by the
+    Committee, executed by the Participant, and delivered to the Committee. A
+    Participant may change his or her Beneficiary designation at any time. If no
+    Beneficiary is designated, the designation is ineffective, or in the event
+    the Beneficiary dies before the balance of the Performance Share Award is
+    paid, the balance shall be paid to the Participant's spouse, or if there is
+    no spouse, in equal shares to the Participant's lineal descendants, or if
+    there is no surviving spouse or lineal descendant, to the Participant's
+    estate.
+ 
+        (H) PERMANENT DISABILITY: For purposes of the Performance Share Plan, a
+    permanent disability shall mean a disability which would qualify a
+    Participant to receive benefits under the Apple Computer, Inc. Long-Term
+    Disability Plan (after satisfying the elimination period thereunder) as now
+    or hereafter in effect.
+ 
+        (I) INCAPACITY OF PARTICIPANT OR BENEFICIARY: If the Committee finds
+    that any Participant or Beneficiary to whom a Performance Share Award is
+    payable under the Performance Share Plan is unable to care for his or her
+    affairs because of illness or accident or is under a legal disability, any
+    Performance Share Award due (unless a prior claim therefore shall have been
+    made by a duly appointed legal representative) at the discretion of the
+    Committee, may be paid to the spouse, child,
+ 
+                                       4
+<PAGE>
+    parent or brother or sister of such Participant or Beneficiary or to any
+    person whom the Committee has determined has incurred expense for such
+    Participant or Beneficiary. Any such payment shall be a complete discharge
+    of the obligations of the Company under provisions of the Performance Share
+    Plan to the extent of such payment.
+ 
+        (J) TAX WITHHOLDING: The Company will withhold from each Actual Grant at
+    the time of payment thereof all applicable state, local and federal
+    withholding taxes, as required by law, as determined by Apple in its sole
+    discretion. Such withholding will be made first from the amount of the
+    Participant's Cash Election, if any, and second from the Participant's
+    Shares, to the extent required. Alternatively, in lieu of withholding from
+    Shares, the Participant may elect to fund the payment of withholding taxes
+    determined by Apple to be due by making payment of the full amount of the
+    withholding taxes to Apple on or before the due date of the withholding
+    taxes.
+ 
+        (K) ADJUSTMENTS DUE TO CHANGES IN CAPITALIZATION
+ 
+    If the outstanding Shares are increased, decreased, or exchanged for a
+    different number of kind of shares or other securities, or if additional
+    Shares or other securities are distributed with respect to such Shares or
+    other securities, through merger, consolidation, sale of all or
+    substantially all of the property of the Company, reorganization,
+    recapitalization, reclassification, stock dividend, stock split, reverse
+    stock split or other distribution with respect to such Shares or other
+    securities, an appropriate and proportionate adjustment my be made in (i)
+    the maximum number and kind of Shares provided for in Section 4(a) of the
+    Plan, (ii) the annual individual maximum grant limit provided for in Section
+    4(a), (iii) the number and kind of Shares subject to each then outstanding
+    Performance Share Award, and (iv) each Participant's target number of Shares
+    as provided in Appendix A.
+ 
+    Adjustments under this Section 6(k) will be made by the Committee, whose
+    determination as to what adjustments will be made and the extent thereof
+    will be final, binding and conclusive on all interested persons. No
+    fractional Share or other interest will be issued under the Plan on account
+    of any of such adjustments
+ 
+        (L) CHANGE IN CONTROL: In the event of a change in control (as defined
+    below) of the Company, the Committee shall make equitable adjustments to the
+    Participant's Performance Shares in a manner intended to preserve their
+    economic value as of the date of the change in control, including
+    modifications to performance measures and performance goals if necessary;
+    provided, however, that if a Participant's employment with the Company is
+    terminated without cause in connection with a change in control, then any
+    other provision of the Plan to the contrary notwithstanding, the Participant
+    shall be entitled to receive the maximum annual number of Performance Shares
+    for the year in which the change-in-control occurs following such
+    termination regardless of whether the Performance Goals are achieved. For
+    purposes of this Plan, change in control is defined as follows:
+ 
+    A. When any "person", as such term is used in Section 13(d) and 14(d) of the
+       Exchange Act (other than the Company, a Subsidiary or a Company employee
+       benefit plan, including any trustee of such plan acting as a trustee) is
+       or becomes the "beneficial owner" (as defined in Rule 13d-3 under the
+       Exchange Act), directly or indirectly, of securities of the Company
+       representing fifty percent (50%) or more of the combined voting power of
+       the Company's then outstanding securities; or
+ 
+    B.  The occurrence of a transaction requiring shareholder approval and
+       involving either the sale of all or substantially all of the assets of
+       the Company or the merger of the Company with or into another entity.
+ 
+        (M) CONDITIONS UPON ISSUANCE OF SHARES: Shares shall not be issued with
+    respect to an Award unless the issuance and delivery of such Shares pursuant
+    thereto shall comply with all relevant provisions of law, including, without
+    limitation, the Securities Act of 1933, as amended, the Exchange Act, the
+    rules and regulations promulgated thereunder, and the requirements of any
+    stock exchange
+ 
+                                       5
+<PAGE>
+    or quotation system upon which the Shares may then be listed or quoted, and
+    shall be further subject to the approval of counsel for the Company with
+    respect to such compliance.
+ 
+    Inability of the Company to obtain authority from any regulatory body having
+    jurisdiction, which authority is deemed by the Company's counsel to be
+    necessary to the lawful issuance of any Shares hereunder, shall relieve the
+    Company of any liability in respect of the non-issuance of such Shares as to
+    which such requisite authority shall not have been obtained.
+ 
+        (N) GOVERNING LAW: The place of administration of the Performance Share
+    Plan shall be in the State of California and the validity, construction,
+    interpretation, administration and effect of the Performance Share Plan and
+    the rules, regulations and rights relating to the Performance Share Plan,
+    shall be determined solely in accordance with the laws of the State of
+    California.
+ 
+7.  ADMINISTRATION
+ 
+        (A) ADMINISTRATOR: The Plan shall be administered by a Committee
+    designated by the Board to administer the Plan, which Committee shall be
+    constituted in such a manner as to permit the Plan and grants and awards
+    thereunder to comply with Rule 16b-3 as it applies to grants to officers and
+    in such a manner as to satisfy the Applicable Laws. All members of the
+    Committee shall be persons who qualify as "outside directors" as defined
+    under Section 162(m) of the Code. Until changed by the Board, the
+    Compensation Committee of the Board shall constitute the Committee
+    hereunder.
+ 
+        (B) POWERS OF THE ADMINISTRATOR: The Committee shall have full power,
+    authority and discretion to administer and interpret the provisions of the
+    Performance Share Plan and to adopt such rules, regulations, agreements,
+    guidelines and instruments for the administration of the Plan and for the
+    conduct of its business as the Committee deems necessary or advisable.
+    Without limitation of the foregoing, subject to the provisions of the Plan
+    and such limitations as are necessary or desirable in order for incentive
+    awards paid to Covered Employees to constitute qualified performance-based
+    compensation under Section 162(m) of the Code, the Committee shall have the
+    authority, in its discretion: (i) to determine the amount of cash to be
+    awarded pursuant to any Cash Election under Section 5 above; (ii) to
+    determine the employees who shall be Participants in the Plan; (iii) to
+    interpret the Plan; (iv) to determine the terms and conditions, not
+    inconsistent with the terms of the Plan, of any Conditional Grant or Actual
+    Grant awarded hereunder (including, but not limited to, any restriction or
+    limitation, or any waiver of forfeiture restrictions regarding any Grant
+    and/or the Shares relating thereto, based in each case on such factors as
+    the Administrator shall determine, in its sole discretion); (v) to approve
+    forms of agreement for use under the Plan; (vi) to prescribe, amend and
+    rescind rules and regulations relating to the Plan; (vii) to modify or amend
+    each Grant (with the consent of the Participant); (viii) to authorize any
+    person to execute on behalf of the Company any instrument required to
+    effectuate any Grant previously granted by the Administrator; and (ix) to
+    make all other determinations deemed necessary or advisable for the
+    administration of the Plan.
+ 
+        (C) EFFECT OF DECISIONS BY THE ADMINISTRATOR: All decisions,
+    determinations and interpretations of the Administrator shall be final and
+    binding on all Participants.
+ 
+8.  AMENDMENT AND TERMINATION
+ 
+        The Board may at any time amend, alter, suspend or terminate the Plan,
+    as it may deem advisable; provided that except as otherwise required by law,
+    any amendment required to conform the Performance Share Plan to the
+    requirements of Section 162(m) of the Code or to conform the Performance
+    Share Plan or any grant made thereunder to the requirements for exemption
+    under Rule 16b-3 promulgated under the Securities Exchange Act of 1934, as
+    amended, or any successor thereto ("Rule 16b-3"), shall be made by the
+    Committee, and provided that, to the extent necessary and desirable to
+    comply with Section 162(m) of the Code (or any other applicable law,
+    regulations or rules), the Company shall obtain shareholder approval of any
+    Plan amendment in such a manner and
+ 
+                                       6
+<PAGE>
+    to such a degree as is required, including, without limitation, any
+    amendment to the class of individuals who are eligible to participate in the
+    Performance Share Plan, to the performance criteria specified in Section 2
+    hereof or to the maximum incentive award payable to any Participant, unless
+    shareholder approval is not required in order for incentive awards paid to
+    Covered Employees to constitute qualified performance-based compensation
+    under Section 162(m) of the Code. Any such amendment, alteration, suspension
+    or termination of the Plan shall not impair the rights of any Plan
+    Participant under any grant theretofore made without his or her consent.
+    Such grants shall remain in full force and effect as if this Plan had not
+    been amended or terminated, except as may otherwise be required by
+    applicable law.
+ 
+                                   APPENDIX A
+ 
+<TABLE>
+<CAPTION>
+                                    MAXIMUM TOTAL      ANNUAL MAXIMUM
+                                       AWARD OF       PERFORMANCE SHARE
+            POSITION              PERFORMANCE SHARES       AWARDS
+- - --------------------------------  ------------------  -----------------
+<S>                               <C>                 <C>
+Chief Executive Officer                 1,000,000           200,000
+ 
+Chief Operating Officer                   100,000            20,000
+ 
+Chief Financial Officer                   100,000            16,000
+ 
+Chief Technology Officer                   80,000            16,000
+ 
+Chief Administrative Officer               80,000            16,000
+</TABLE>
+ 
+                                       7
+<PAGE>
+                             [APPLE COMPUTER LOGO]
+ 
+   [LOGO]
+  PRINTED ON RECYCLED PAPER
+<PAGE>
+
+                            DETACH HERE                       APP 3
+
+                        APPLE COMPUTER, INC.
+     THIS PROXY IS SOLICITED ON BEHALF OF THE BOARD OF DIRECTORS
+ FOR THE ANNUAL MEETING OF SHAREHOLDERS TO BE HELD ON FEBRUARY 5, 1997
+
+          The undersigned shareholder of Apple Computer, Inc., a California 
+     corporation, hereby acknowledges receipt of the Notice of Annual Meeting of
+     Shareholders and Proxy Statement with respect to the Annual Meeting of 
+P    Shareholders of Apple Computer, Inc. to be held at the Flint Center, DeAnza
+R    College, at 21250 Stevens Creek Boulevard, Cupertino, California  95014 on 
+O    Wednesday, February 5, 1997 at 10:00 a.m., and hereby appoints Gilbert F. 
+X    Amelio and George M. Scalise, and each of them, proxies and 
+Y    attorneys-in-fact, each with power of substitution and revocation, and each
+     with all powers that the undersigned would possess if personally present,
+     to vote the Apple Computer, Inc. Common Stock of the undersigned at such 
+     meeting and any postponements or adjournments of such meeting, as set forth
+     below, and in their discretion upon any other business that may properly
+     come before the meeting (and any such postponements or adjournments).
+
+     THIS PROXY WILL BE VOTED AS SPECIFIED OR, IF NO CHOICE IS SPECIFIED, FOR 
+THE ELECTION OF THE NOMINEES, FOR PROPOSALS 2, 3, 4, 5, 6 AND 7 AND AS SAID 
+PROXIES DEEM ADVISABLE ON SUCH OTHER MATTERS AS MAY PROPERLY COME BEFORE THE 
+MEETING AND ANY POSTPONEMENTS OR ADJOURNMENTS THEREOF.
+
+   (IMPORTANT - TO BE SIGNED AND DATED ON REVERSE SIDE)          /SEE REVERSE/
+                                                                    /SIDE/
+
+
+<PAGE>
+                      [Street map denoting location of Annual Meeting]
+<TABLE>
+<CAPTION>
+
+/X/ Please mark
+    votes as in                                                                                                
+    this example.    PLEASE VOTE, SIGN, DATE AND PROMPTLY RETURN THIS CARD.                                  FOR AGAINST ABSTAIN 
+<S>                                                               <C>                                        <C>    <C>    <C>
+                                                                  2.  To approve an amendmen to the
+                                                                      Employee Stock Purchase Plan to        / /    / /    / /
+    1.  Election of three (3) Class I Directors                       increase the number of shares of 
+    Nominees:  Gilbert F. Amelio, Gareth C.C. Chang,                  Common Stock reserved for
+               Katherine M. Hudson                                    issuance thereunder by 3,500,000
+                                                                      shares.
+                                                                                                       
+      FOR                        WITHHELD                         3.  To approve the grant of a stock       
+      ALL                        FROM ALL                             option to Dr. Gilbert F. Amelio       / /    / /    / /
+     NOMINEES                    NOMINEES                             under the 1990 Stock Option Plan,             
+                                                                      as set forth in the Proxy Statement.
+      / /                          / /      MARK HERE
+                                            FOR ADDRESS  /  /     4.  To approve an amendment to the 1990 
+                                            CHANGE AND   /  /         Stock Option Plan, as set forth in   / /     / /    / / 
+    /  /---------------------------------   NOTE BELOW                the Proxy Statement.
+    For all nominees except as noted above                       
+                                                                  5.  To ratify the terms of a Performance 
+                                                                      Share Arrangement for Dr. Gilbert F. / /     / /    / /
+                                                                      Amelio for fiscal year 1996, as set 
+                                                                      forth in his employment agreement           
+                                                                      with the Company.                           
+                                                                                                                   
+                                                                  6.  To approve the Senior Officers             
+                                                                      Restricted Performance Share Plan,                          
+                                                                      including the performance goals       / /    / /    / /     
+                                                                      stated therein, as set forth in the                  
+                                                                      Proxy Statement.
+
+                                                                  7.  To ratify the appointment of KPMG     
+                                                                      Peat Marwick LLP as independent       / /    / /    / /
+                                                                      auditors of the Company for fiscal 
+                                                                      year 1997.                                             
+                                                                   
+                                                                  8.  To transact such other business as may properly come before  
+                                                                      the meeting or any adjournment(s) thereof.
+
+                                                                  This proxy should be signed by the shareholder(s) exactly as his 
+                                                                  or her names(s) appear(s) hereon, dated and returned promptly in
+                                                                  the enclosed envelope.  Persons signing in a fiduciary capacity 
+                                                                  should so indicate.  If shares are held by joint tenants or as
+                                                                  community property, both persons should sign.
+
+
+Signature:______________________________ Date:______________ Signature:______________________ Date:_____________
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,27 @@
+{
+  "ticker": "AAPL",
+  "company_name": "Apple Inc.",
+  "cik": "0000320193",
+  "record": {
+    "accession_number": "0001181431-10-056327",
+    "filing_date": "2010-11-17",
+    "report_date": "2010-11-16",
+    "acceptance_datetime": "2010-11-17T22:27:46.000Z",
+    "act": "34",
+    "form": "8-K",
+    "file_number": "000-10030",
+    "film_number": "101200634",
+    "items": "5.02,5.03,9.01",
+    "size": 105315,
+    "is_xbrl": 0,
+    "is_inline_xbrl": 0,
+    "primary_document": "rrd291195.htm",
+    "primary_doc_description": "5.02 DIRECTOR APPOINTMENT; 5.03 BYLAWS AMENDMENT"
+  },
+  "urls": {
+    "directory_index_json": "https://www.sec.gov/Archives/edgar/data/320193/000118143110056327/index.json",
+    "full_submission_txt": "https://www.sec.gov/Archives/edgar/data/320193/000118143110056327/0001181431-10-056327.txt",
+    "primary_document": "https://www.sec.gov/Archives/edgar/data/320193/000118143110056327/rrd291195.htm"
+  },
+  "synced_at_utc": "2026-03-27T10:54:05.090966+00:00"
+}

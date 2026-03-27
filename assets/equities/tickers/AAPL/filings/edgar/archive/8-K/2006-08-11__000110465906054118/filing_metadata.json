@@ -1,0 +1,27 @@
+{
+  "ticker": "AAPL",
+  "company_name": "Apple Inc.",
+  "cik": "0000320193",
+  "record": {
+    "accession_number": "0001104659-06-054118",
+    "filing_date": "2006-08-11",
+    "report_date": "2006-08-11",
+    "acceptance_datetime": "2006-08-11T20:41:26.000Z",
+    "act": "34",
+    "form": "8-K",
+    "file_number": "000-10030",
+    "film_number": "061025584",
+    "items": "2.02,3.01,9.01",
+    "size": 28764,
+    "is_xbrl": 0,
+    "is_inline_xbrl": 0,
+    "primary_document": "a06-17928_18k.htm",
+    "primary_doc_description": "CURRENT REPORT OF MATERIAL EVENTS OR CORPORATE CHANGES"
+  },
+  "urls": {
+    "directory_index_json": "https://www.sec.gov/Archives/edgar/data/320193/000110465906054118/index.json",
+    "full_submission_txt": "https://www.sec.gov/Archives/edgar/data/320193/000110465906054118/0001104659-06-054118.txt",
+    "primary_document": "https://www.sec.gov/Archives/edgar/data/320193/000110465906054118/a06-17928_18k.htm"
+  },
+  "synced_at_utc": "2026-03-27T10:56:09.106791+00:00"
+}

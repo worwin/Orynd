@@ -1,0 +1,16 @@
+{
+  "ticker": "AAPL",
+  "company_name": "Apple Inc.",
+  "generated_at_utc": "2026-03-27T10:59:51.640233+00:00",
+  "annual_statement_history": {
+    "record_count": 19
+  },
+  "quarterly_statement_history": {
+    "record_count": 18
+  },
+  "thirteen_f_manifest": null,
+  "source_paths": {
+    "manifest": "filings\\edgar\\normalized\\filings_manifest.json",
+    "companyfacts": "filings\\edgar\\raw\\companyfacts\\CIK0000320193_companyfacts.json"
+  }
+}

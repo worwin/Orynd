@@ -1,0 +1,184 @@
+{
+  "ticker": "AAPL",
+  "company_name": "Apple Inc.",
+  "generated_at_utc": "2026-03-27T10:59:51.629164+00:00",
+  "latest_annual_metrics": {
+    "period_end": "2025-09-27",
+    "latest_filed": "2025-10-31",
+    "gross_margin_pct": 46.9052,
+    "operating_margin_pct": 31.9708,
+    "roe_pct": 151.913,
+    "roa_pct": 31.1796,
+    "fcf_margin_pct": 23.7329,
+    "de_ratio": 1.062319,
+    "current_ratio": 0.893293,
+    "share_count_yoy_change_pct": null,
+    "sbc_as_pct_of_ocf": 11.5382,
+    "free_cash_flow": 98767000000
+  },
+  "latest_quarter_snapshot": {
+    "period_end": "2025-12-27",
+    "period_type": "quarterly",
+    "metrics": {
+      "revenue": 143756000000,
+      "gross_profit": 69231000000,
+      "operating_income": 50852000000,
+      "net_income": 42097000000,
+      "operating_cash_flow": 53925000000,
+      "capex": 2373000000,
+      "share_based_compensation": 3594000000,
+      "dividends_paid": 3921000000,
+      "buybacks": 24701000000,
+      "cash_and_equivalents": 45317000000,
+      "current_assets": 158104000000,
+      "total_assets": 379297000000,
+      "current_liabilities": 162367000000,
+      "long_term_debt": 76685000000,
+      "stockholders_equity": 88190000000,
+      "retained_earnings": -2177000000,
+      "diluted_weighted_shares": 14810356000
+    },
+    "sources": {
+      "revenue": {
+        "form": "10-Q",
+        "filed": "2026-01-30",
+        "fy": 2026,
+        "fp": "Q1",
+        "frame": "CY2025Q4",
+        "accn": "0000320193-26-000006"
+      },
+      "gross_profit": {
+        "form": "10-Q",
+        "filed": "2026-01-30",
+        "fy": 2026,
+        "fp": "Q1",
+        "frame": "CY2025Q4",
+        "accn": "0000320193-26-000006"
+      },
+      "operating_income": {
+        "form": "10-Q",
+        "filed": "2026-01-30",
+        "fy": 2026,
+        "fp": "Q1",
+        "frame": "CY2025Q4",
+        "accn": "0000320193-26-000006"
+      },
+      "net_income": {
+        "form": "10-Q",
+        "filed": "2026-01-30",
+        "fy": 2026,
+        "fp": "Q1",
+        "frame": "CY2025Q4",
+        "accn": "0000320193-26-000006"
+      },
+      "operating_cash_flow": {
+        "form": "10-Q",
+        "filed": "2026-01-30",
+        "fy": 2026,
+        "fp": "Q1",
+        "frame": "CY2025Q4",
+        "accn": "0000320193-26-000006"
+      },
+      "capex": {
+        "form": "10-Q",
+        "filed": "2026-01-30",
+        "fy": 2026,
+        "fp": "Q1",
+        "frame": "CY2025Q4",
+        "accn": "0000320193-26-000006"
+      },
+      "share_based_compensation": {
+        "form": "10-Q",
+        "filed": "2026-01-30",
+        "fy": 2026,
+        "fp": "Q1",
+        "frame": "CY2025Q4",
+        "accn": "0000320193-26-000006"
+      },
+      "dividends_paid": {
+        "form": "10-Q",
+        "filed": "2026-01-30",
+        "fy": 2026,
+        "fp": "Q1",
+        "frame": "CY2025Q4",
+        "accn": "0000320193-26-000006"
+      },
+      "buybacks": {
+        "form": "10-Q",
+        "filed": "2026-01-30",
+        "fy": 2026,
+        "fp": "Q1",
+        "frame": "CY2025Q4",
+        "accn": "0000320193-26-000006"
+      },
+      "cash_and_equivalents": {
+        "form": "10-Q",
+        "filed": "2026-01-30",
+        "fy": 2026,
+        "fp": "Q1",
+        "frame": "CY2025Q4I",
+        "accn": "0000320193-26-000006"
+      },
+      "current_assets": {
+        "form": "10-Q",
+        "filed": "2026-01-30",
+        "fy": 2026,
+        "fp": "Q1",
+        "frame": "CY2025Q4I",
+        "accn": "0000320193-26-000006"
+      },
+      "total_assets": {
+        "form": "10-Q",
+        "filed": "2026-01-30",
+        "fy": 2026,
+        "fp": "Q1",
+        "frame": "CY2025Q4I",
+        "accn": "0000320193-26-000006"
+      },
+      "current_liabilities": {
+        "form": "10-Q",
+        "filed": "2026-01-30",
+        "fy": 2026,
+        "fp": "Q1",
+        "frame": "CY2025Q4I",
+        "accn": "0000320193-26-000006"
+      },
+      "long_term_debt": {
+        "form": "10-Q",
+        "filed": "2026-01-30",
+        "fy": 2026,
+        "fp": "Q1",
+        "frame": "CY2025Q4I",
+        "accn": "0000320193-26-000006"
+      },
+      "stockholders_equity": {
+        "form": "10-Q",
+        "filed": "2026-01-30",
+        "fy": 2026,
+        "fp": "Q1",
+        "frame": "CY2025Q4I",
+        "accn": "0000320193-26-000006"
+      },
+      "retained_earnings": {
+        "form": "10-Q",
+        "filed": "2026-01-30",
+        "fy": 2026,
+        "fp": "Q1",
+        "frame": "CY2025Q4I",
+        "accn": "0000320193-26-000006"
+      },
+      "diluted_weighted_shares": {
+        "form": "10-Q",
+        "filed": "2026-01-30",
+        "fy": 2026,
+        "fp": "Q1",
+        "frame": "CY2025Q4",
+        "accn": "0000320193-26-000006"
+      }
+    },
+    "forms_seen": [
+      "10-Q"
+    ],
+    "latest_filed": "2026-01-30"
+  }
+}

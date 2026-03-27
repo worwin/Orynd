@@ -1,0 +1,27 @@
+{
+  "ticker": "AAPL",
+  "company_name": "Apple Inc.",
+  "cik": "0000320193",
+  "record": {
+    "accession_number": "0001193125-20-001450",
+    "filing_date": "2020-01-03",
+    "report_date": "2020-02-26",
+    "acceptance_datetime": "2020-01-03T21:31:07.000Z",
+    "act": "34",
+    "form": "DEF 14A",
+    "file_number": "001-36743",
+    "film_number": "20505940",
+    "items": "",
+    "size": 4865788,
+    "is_xbrl": 0,
+    "is_inline_xbrl": 0,
+    "primary_document": "d799303ddef14a.htm",
+    "primary_doc_description": "DEFINITIVE PROXY STATEMENT"
+  },
+  "urls": {
+    "directory_index_json": "https://www.sec.gov/Archives/edgar/data/320193/000119312520001450/index.json",
+    "full_submission_txt": "https://www.sec.gov/Archives/edgar/data/320193/000119312520001450/0001193125-20-001450.txt",
+    "primary_document": "https://www.sec.gov/Archives/edgar/data/320193/000119312520001450/d799303ddef14a.htm"
+  },
+  "synced_at_utc": "2026-03-27T10:48:46.211209+00:00"
+}

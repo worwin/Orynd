@@ -1,0 +1,27 @@
+{
+  "ticker": "AAPL",
+  "company_name": "Apple Inc.",
+  "cik": "0000320193",
+  "record": {
+    "accession_number": "0001181431-09-012161",
+    "filing_date": "2009-02-27",
+    "report_date": "2009-02-26",
+    "acceptance_datetime": "2009-02-27T21:30:39.000Z",
+    "act": "34",
+    "form": "8-K",
+    "file_number": "000-10030",
+    "film_number": "09643444",
+    "items": "4.01",
+    "size": 17712,
+    "is_xbrl": 0,
+    "is_inline_xbrl": 0,
+    "primary_document": "rrd235666.htm",
+    "primary_doc_description": "FORM 8-K; ITEM 4.01"
+  },
+  "urls": {
+    "directory_index_json": "https://www.sec.gov/Archives/edgar/data/320193/000118143109012161/index.json",
+    "full_submission_txt": "https://www.sec.gov/Archives/edgar/data/320193/000118143109012161/0001181431-09-012161.txt",
+    "primary_document": "https://www.sec.gov/Archives/edgar/data/320193/000118143109012161/rrd235666.htm"
+  },
+  "synced_at_utc": "2026-03-27T10:54:46.778735+00:00"
+}

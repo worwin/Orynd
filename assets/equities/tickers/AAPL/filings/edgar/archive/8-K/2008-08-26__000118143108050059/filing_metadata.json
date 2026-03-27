@@ -1,0 +1,27 @@
+{
+  "ticker": "AAPL",
+  "company_name": "Apple Inc.",
+  "cik": "0000320193",
+  "record": {
+    "accession_number": "0001181431-08-050059",
+    "filing_date": "2008-08-26",
+    "report_date": "2008-08-20",
+    "acceptance_datetime": "2008-08-26T12:48:09.000Z",
+    "act": "34",
+    "form": "8-K",
+    "file_number": "000-10030",
+    "film_number": "081037925",
+    "items": "5.03",
+    "size": 108170,
+    "is_xbrl": 0,
+    "is_inline_xbrl": 0,
+    "primary_document": "rrd216364.htm",
+    "primary_doc_description": "FORM 8-K; AMENDED BYLAWS"
+  },
+  "urls": {
+    "directory_index_json": "https://www.sec.gov/Archives/edgar/data/320193/000118143108050059/index.json",
+    "full_submission_txt": "https://www.sec.gov/Archives/edgar/data/320193/000118143108050059/0001181431-08-050059.txt",
+    "primary_document": "https://www.sec.gov/Archives/edgar/data/320193/000118143108050059/rrd216364.htm"
+  },
+  "synced_at_utc": "2026-03-27T10:55:07.204432+00:00"
+}

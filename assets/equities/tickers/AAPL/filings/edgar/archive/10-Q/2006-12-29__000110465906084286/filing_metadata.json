@@ -1,0 +1,27 @@
+{
+  "ticker": "AAPL",
+  "company_name": "Apple Inc.",
+  "cik": "0000320193",
+  "record": {
+    "accession_number": "0001104659-06-084286",
+    "filing_date": "2006-12-29",
+    "report_date": "2006-07-01",
+    "acceptance_datetime": "2006-12-29T11:01:37.000Z",
+    "act": "34",
+    "form": "10-Q",
+    "file_number": "000-10030",
+    "film_number": "061303993",
+    "items": "",
+    "size": 1714502,
+    "is_xbrl": 0,
+    "is_inline_xbrl": 0,
+    "primary_document": "a06-23473_110q.htm",
+    "primary_doc_description": "QUARTERLY REPORT PURSUANT TO SECTIONS 13 OR 15(D)"
+  },
+  "urls": {
+    "directory_index_json": "https://www.sec.gov/Archives/edgar/data/320193/000110465906084286/index.json",
+    "full_submission_txt": "https://www.sec.gov/Archives/edgar/data/320193/000110465906084286/0001104659-06-084286.txt",
+    "primary_document": "https://www.sec.gov/Archives/edgar/data/320193/000110465906084286/a06-23473_110q.htm"
+  },
+  "synced_at_utc": "2026-03-27T10:56:00.478898+00:00"
+}

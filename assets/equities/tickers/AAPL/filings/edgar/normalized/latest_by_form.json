@@ -1,0 +1,140 @@
+{
+  "ticker": "AAPL",
+  "company_name": "Apple Inc.",
+  "cik": "0000320193",
+  "synced_at_utc": "2026-03-27T10:59:34.336192+00:00",
+  "records": {
+    "8-K": {
+      "ticker": "AAPL",
+      "company_name": "Apple Inc.",
+      "cik": "0000320193",
+      "accession_number": "0001140361-26-006577",
+      "accession_number_compact": "000114036126006577",
+      "form": "8-K",
+      "filing_date": "2026-02-24",
+      "report_date": "2026-02-24",
+      "acceptance_datetime": "2026-02-24T21:55:58.000Z",
+      "primary_document": "ef20060722_8k.htm",
+      "primary_doc_description": "8-K",
+      "items": "5.07,9.01",
+      "is_xbrl": 1,
+      "is_inline_xbrl": 1,
+      "urls": {
+        "directory_index_json": "https://www.sec.gov/Archives/edgar/data/320193/000114036126006577/index.json",
+        "full_submission_txt": "https://www.sec.gov/Archives/edgar/data/320193/000114036126006577/0001140361-26-006577.txt",
+        "primary_document": "https://www.sec.gov/Archives/edgar/data/320193/000114036126006577/ef20060722_8k.htm"
+      },
+      "local_paths": {
+        "filing_dir": "filings\\edgar\\archive\\8-K\\2026-02-24__000114036126006577",
+        "metadata_json": "filings\\edgar\\archive\\8-K\\2026-02-24__000114036126006577\\filing_metadata.json",
+        "directory_index_json": null,
+        "full_submission_txt": "filings\\edgar\\archive\\8-K\\2026-02-24__000114036126006577\\full_submission.txt",
+        "primary_document": null
+      },
+      "download_errors": [],
+      "enrichment_warnings": [
+        "directory_index_json download failed",
+        "primary_document download failed"
+      ]
+    },
+    "10-Q": {
+      "ticker": "AAPL",
+      "company_name": "Apple Inc.",
+      "cik": "0000320193",
+      "accession_number": "0000320193-26-000006",
+      "accession_number_compact": "000032019326000006",
+      "form": "10-Q",
+      "filing_date": "2026-01-30",
+      "report_date": "2025-12-27",
+      "acceptance_datetime": "2026-01-30T11:01:32.000Z",
+      "primary_document": "aapl-20251227.htm",
+      "primary_doc_description": "10-Q",
+      "items": "",
+      "is_xbrl": 1,
+      "is_inline_xbrl": 1,
+      "urls": {
+        "directory_index_json": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000006/index.json",
+        "full_submission_txt": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000006/0000320193-26-000006.txt",
+        "primary_document": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000006/aapl-20251227.htm"
+      },
+      "local_paths": {
+        "filing_dir": "filings\\edgar\\archive\\10-Q\\2026-01-30__000032019326000006",
+        "metadata_json": "filings\\edgar\\archive\\10-Q\\2026-01-30__000032019326000006\\filing_metadata.json",
+        "directory_index_json": null,
+        "full_submission_txt": "filings\\edgar\\archive\\10-Q\\2026-01-30__000032019326000006\\full_submission.txt",
+        "primary_document": null
+      },
+      "download_errors": [],
+      "enrichment_warnings": [
+        "directory_index_json download failed",
+        "primary_document download failed"
+      ]
+    },
+    "DEF 14A": {
+      "ticker": "AAPL",
+      "company_name": "Apple Inc.",
+      "cik": "0000320193",
+      "accession_number": "0001308179-26-000008",
+      "accession_number_compact": "000130817926000008",
+      "form": "DEF 14A",
+      "filing_date": "2026-01-08",
+      "report_date": "2026-02-24",
+      "acceptance_datetime": "2026-01-08T21:31:36.000Z",
+      "primary_document": "aapl014016-def14a.htm",
+      "primary_doc_description": "DEFINITIVE PROXY STATEMENT",
+      "items": "",
+      "is_xbrl": 1,
+      "is_inline_xbrl": 1,
+      "urls": {
+        "directory_index_json": "https://www.sec.gov/Archives/edgar/data/320193/000130817926000008/index.json",
+        "full_submission_txt": "https://www.sec.gov/Archives/edgar/data/320193/000130817926000008/0001308179-26-000008.txt",
+        "primary_document": "https://www.sec.gov/Archives/edgar/data/320193/000130817926000008/aapl014016-def14a.htm"
+      },
+      "local_paths": {
+        "filing_dir": "filings\\edgar\\archive\\DEF_14A\\2026-01-08__000130817926000008",
+        "metadata_json": "filings\\edgar\\archive\\DEF_14A\\2026-01-08__000130817926000008\\filing_metadata.json",
+        "directory_index_json": null,
+        "full_submission_txt": "filings\\edgar\\archive\\DEF_14A\\2026-01-08__000130817926000008\\full_submission.txt",
+        "primary_document": null
+      },
+      "download_errors": [],
+      "enrichment_warnings": [
+        "directory_index_json download failed",
+        "primary_document download failed"
+      ]
+    },
+    "10-K": {
+      "ticker": "AAPL",
+      "company_name": "Apple Inc.",
+      "cik": "0000320193",
+      "accession_number": "0000320193-25-000079",
+      "accession_number_compact": "000032019325000079",
+      "form": "10-K",
+      "filing_date": "2025-10-31",
+      "report_date": "2025-09-27",
+      "acceptance_datetime": "2025-10-31T10:01:26.000Z",
+      "primary_document": "aapl-20250927.htm",
+      "primary_doc_description": "10-K",
+      "items": "",
+      "is_xbrl": 1,
+      "is_inline_xbrl": 1,
+      "urls": {
+        "directory_index_json": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/index.json",
+        "full_submission_txt": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/0000320193-25-000079.txt",
+        "primary_document": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm"
+      },
+      "local_paths": {
+        "filing_dir": "filings\\edgar\\archive\\10-K\\2025-10-31__000032019325000079",
+        "metadata_json": "filings\\edgar\\archive\\10-K\\2025-10-31__000032019325000079\\filing_metadata.json",
+        "directory_index_json": null,
+        "full_submission_txt": "filings\\edgar\\archive\\10-K\\2025-10-31__000032019325000079\\full_submission.txt",
+        "primary_document": null
+      },
+      "download_errors": [],
+      "enrichment_warnings": [
+        "directory_index_json download failed",
+        "primary_document download failed"
+      ]
+    }
+  }
+}

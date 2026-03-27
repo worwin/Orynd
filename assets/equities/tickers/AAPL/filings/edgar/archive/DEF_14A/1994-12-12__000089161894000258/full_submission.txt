@@ -1,0 +1,1124 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ Eymt8skLtAjhuO8LDPuNbrqFFp0jSbS+VHX4Xxudnuh7GjFW8rDjWJPlUHPASVov
+ DxxtZMdxBsGekr+Jc3jn4Q==
+
+<IMS-DOCUMENT>0000891618-94-000258.txt : 19941213
+<IMS-HEADER>0000891618-94-000258.hdr.sgml : 19941213
+ACCESSION NUMBER:		0000891618-94-000258
+CONFORMED SUBMISSION TYPE:	DEF 14A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19950124
+FILED AS OF DATE:		19941212
+SROS:			NONE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			APPLE COMPUTER INC
+		CENTRAL INDEX KEY:			0000320193
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC COMPUTERS [3571]
+		IRS NUMBER:				942404110
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		DEF 14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-10030
+		FILM NUMBER:		94564234
+
+	BUSINESS ADDRESS:	
+		STREET 1:		20525 MARIANI AVE
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+		BUSINESS PHONE:		4089961010
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>DEF 14A
+<SEQUENCE>1
+<DESCRIPTION>NOTICE & PROXY STATEMENT FOR APPLE COMPUTERS
+<TEXT>
+
+<PAGE>   1
+ 
+          PROXY STATEMENT PURSUANT TO SECTION 14(A) OF THE SECURITIES
+                  EXCHANGE ACT OF 1934 (AMENDMENT NO.       )
+ 
+Filed by the Registrant  / /
+Filed by a Party other than the Registrant  /X/
+ 
+Check the appropriate box:
+ 
+/ /  Preliminary Proxy Statement
+/X/  Definitive Proxy Statement
+/ /  Definitive Additional Materials
+/ /  Soliciting Material Pursuant to sec. 240.14a-11(c) or sec. 240.14a-12
+ 
+                              APPLE COMPUTER, INC.
+                (Name of Registrant as Specified in its Charter)
+ 
+                              APPLE COMPUTER, INC.
+                   (Name of Person(s) Filing Proxy Statement)
+ 
+Payment of Filing Fee (Check the appropriate box):
+ 
+/X/  $125 per Exchange Act Rules 0-11(c)(1)(ii), 14a-6(i)(1), or 14a-6(j)(2).
+/ /  $500 per each party to the controversy pursuant to Exchange Act Rule
+     14a-6(i)(3).
+/ /  Fee computed on table below per Exchange Act Rules 14a-6(i)(4) and 0-11.
+ 
+     1) Title of each class of securities to which transaction applies:
+ 
+     2) Aggregate number of securities to which transaction applies:
+ 
+     3) Per unit price or other underlying value of transaction computed
+     pursuant to Exchange Act Rule 0-11:
+ 
+     4) Proposed maximum aggregate value of transaction:
+ 
+     Set forth the amount on which the filing fee is calculated and state how it
+     was determined.
+ 
+/ /  Check box if any part of the fee is offset as provided by Exchange Act Rule
+     0-11(a)(2) and identify the filing for which the offsetting fee was paid
+     previously. Identify the previous filing by registration statement number,
+     or the Form or Schedule and the date of its filing.
+ 
+<PAGE>   2
+ 
+                              APPLE COMPUTER, INC.
+                                     (LOGO)
+ 
+                    NOTICE OF ANNUAL MEETING OF SHAREHOLDERS
+                         TO BE HELD ON JANUARY 24, 1995
+ 
+To Holders of Common Stock of
+  Apple Computer, Inc.:
+ 
+     Notice is hereby given that the Annual Meeting of Shareholders of Apple
+Computer, Inc., a California corporation ("Apple" or the "Company"), will be
+held on Tuesday, January 24, 1995 at 10:00 a.m., local time, at the Town Hall
+Auditorium in the Company's facilities at 4 Infinite Loop, Cupertino, California
+95014, for the following purposes, as more fully described in the accompanying
+Proxy Statement:
+ 
+          1. To elect five directors to Class I of the Board of Directors.
+ 
+          2. To ratify the appointment of Ernst & Young LLP as independent
+     auditors of Apple for the 1995 fiscal year.
+ 
+          3. To transact such other business as may properly come before the
+     meeting or any adjournment(s) thereof.
+ 
+     Only shareholders of record as of the close of business on December 5, 1994
+(the "Record Date") are entitled to receive notice of, to attend and to vote at
+the meeting. Shareholders, including those whose shares are held by a brokerage
+firm or in "street" name, will be asked to verify their shareholder status as of
+the Record Date upon entrance to the Annual Meeting. Accordingly, shareholders
+(or their legal representatives) attending the meeting should bring some form of
+identification to the meeting, such as a stock certificate, dividend check,
+proxy or power of attorney, evidencing such shareholder status as of the Record
+Date and, if applicable, the legal representative's right to represent the
+shareholder at the meeting.
+ 
+     All shareholders are cordially invited to attend the meeting in person.
+However, to ensure that each shareholder's vote is counted at the meeting,
+shareholders are requested to mark, sign, date and return the enclosed proxy
+card as promptly as possible in the envelope provided. Shareholders attending
+the meeting may vote in person even if they have previously returned a proxy
+card.
+ 
+                                          Sincerely,
+ 
+                                          (SIG)
+ 
+                                          EDWARD B. STEAD
+                                          Vice President, General Counsel and
+                                          Secretary
+Cupertino, California
+December 12, 1994
+<PAGE>   3
+ 
+                              APPLE COMPUTER, INC.
+                                1 INFINITE LOOP
+                          CUPERTINO, CALIFORNIA 95014
+ 
+                                PROXY STATEMENT
+ 
+INTRODUCTION
+ 
+     The enclosed Proxy is solicited on behalf of the Board of Directors of
+Apple Computer, Inc., a California corporation ("Apple" or the "Company"), for
+use at Apple's Annual Meeting of Shareholders (the "Annual Meeting") to be held
+on Tuesday, January 24, 1995 at 10:00 a.m., local time, or at any adjournment(s)
+thereof. The purposes of the Annual Meeting are set forth in this Proxy
+Statement and in the accompanying Notice of Annual Meeting of Shareholders. The
+Annual Meeting will be held at the Town Hall Auditorium in the Company's
+facilities at 4 Infinite Loop, Cupertino, California 95014.
+ 
+     The Company's principal executive offices are located at, and the Company's
+complete mailing address is, 1 Infinite Loop, Cupertino, California 95014, and
+its telephone number is (408) 996-1010. Georgeson & Company, Inc., which is
+assisting with the mechanics of the return of the proxies, may be contacted at
+(212) 440-9800.
+ 
+     These proxy solicitation materials were mailed on or about December 12,
+1994 to all shareholders entitled to vote at the Annual Meeting.
+ 
+PROCEDURAL MATTERS
+ 
+     Shareholders of record as of the close of business on December 5, 1994 (the
+"Record Date") are entitled to notice of, to attend and to vote at the Annual
+Meeting. There were 119,878,254 shares of Apple's Common Stock, no par value
+(the "Common Stock"), issued and outstanding on the Record Date. Each share has
+one vote on all matters. For information regarding holders of more than 5% of
+the outstanding Common Stock, see "INFORMATION ABOUT APPLE COMPUTER,
+INC. -- Security Ownership of Certain Beneficial Owners and Management". The
+closing sale price of Apple Common Stock as reported on the Nasdaq National
+Market on the Record Date was 37 3/16 per share.
+ 
+     A shareholder may revoke any proxy given pursuant to this solicitation by
+attending the Annual Meeting and voting in person, or by delivering to Apple's
+Corporate Secretary at the Company's principal executive offices referred to
+above, prior to the Annual Meeting, a written notice of revocation or a duly
+executed proxy bearing a date later than that of the previously submitted proxy.
+ 
+     Apple will bear the cost of this solicitation. Apple has retained the
+services of Georgeson & Company, Inc. to assist in obtaining proxies from
+brokers and nominees of shareholders for the Annual Meeting. The estimated cost
+of such services is $12,500, plus out-of-pocket expenses. If it becomes
+necessary to make a second distribution of proxy cards and reminder notices to
+brokers and nominees of shareholders and/or to shareholders owning 10,000 shares
+or more, there would be additional charges, which could be significant. In
+addition, Apple will reimburse brokerage firms and other persons representing
+beneficial owners of shares for their reasonable expenses in forwarding
+solicitation material to such beneficial owners. Proxies may be solicited by
+certain of the Company's directors, officers and regular employees, without
+additional compensation, personally or by telephone, telecopy or telegram.
+ 
+QUORUM; ABSTENTIONS; BROKER NON-VOTES
+ 
+     The required quorum for the transaction of business at the Annual Meeting
+is a majority of the shares of Common Stock issued and outstanding on the Record
+Date. Shares that are voted "FOR", "AGAINST" or "WITHHELD FROM" a matter are
+treated as being present at the meeting for purposes of establishing a quorum
+and are also treated as shares "represented and voting" at the Annual Meeting
+(the "Votes Cast") with respect to such matter.
+<PAGE>   4
+ 
+     While there is no definitive statutory or case law authority in California
+as to the proper treatment of abstentions, the Company believes that abstentions
+should be counted for purposes of determining both (i) the presence or absence
+of a quorum for the transaction of business and (ii) the total number of Votes
+Cast with respect to a proposal. In the absence of controlling precedent to the
+contrary, the Company intends to treat abstentions in this manner. Accordingly,
+abstentions will have the same effect as a vote against a proposal.
+ 
+     Broker non-votes will be counted for purposes of determining the presence
+or absence of a quorum for the transaction of business, but will not be counted
+for purposes of determining the number of Votes Cast with respect to a proposal.
+ 
+                     INFORMATION ABOUT APPLE COMPUTER, INC.
+ 
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+ 
+     The following tables set forth, as of November 30, 1994 (the "Table Date"),
+certain information with respect to the beneficial ownership of Apple's Common
+Stock. Table A sets forth information concerning all persons known by the
+Company to be the beneficial owners of more than 5% of the outstanding Common
+Stock of the Company. Table B contains information concerning (i) each director
+of the Company; (ii) the Chief Executive Officer and each of the four other
+executive officers of the Company named in the Summary Compensation Table below
+under the heading "INFORMATION REGARDING EXECUTIVE COMPENSATION" (the "Named
+Officers"); and (iii) all directors and executive officers of the Company as a
+group. On the Table Date, 119,877,597 shares of Apple's Common Stock were issued
+and outstanding. Unless otherwise indicated, all persons named as beneficial
+owners of Common Stock have sole voting power and sole investment power with
+respect to the shares indicated as beneficially owned.
+ 
+                   TABLE A: BENEFICIAL OWNERS OF MORE THAN 5%
+ 
+<TABLE>
+<CAPTION>
+                                                                     SHARES OF COMMON STOCK
+                                                                       BENEFICIALLY OWNED
+                                                                    -------------------------
+                                                                     NUMBER OF     PERCENT OF
+                                 NAME                                 SHARES         TOTAL
+    --------------------------------------------------------------  -----------    ----------
+    <S>                                                             <C>            <C>
+    The Capital Group, Inc........................................  11,849,540(1)   9.88%
+      333 South Hope Street
+      Los Angeles, CA 90071
+</TABLE>
+ 
+- ---------------
+ 
+(1) Certain operating subsidiaries of The Capital Group, Inc., exercised
+    investment discretion over various institutional accounts which held as of
+    February 28, 1994, 11,849,540 shares of Apple (10.20% of the outstanding
+    class). Capital Guardian Trust Company, a bank, and one of such operating
+    companies, exercised investment discretion over 5,597,440 of said shares.
+    Capital Research and Management Company and Capital International, Inc.,
+    registered investment advisers, and Capital International Limited, Capital
+    International, S.A. and Capital International K.K., other operating
+    subsidiaries, had investment discretion with respect to 5,435,000 shares,
+    8,000 shares, 291,800 shares, 517,300 shares, and 19,500 shares,
+    respectively, of the above shares. The foregoing is based on the contents of
+    a Schedule 13G dated March 9, 1994 filed with the Securities and Exchange
+    Commission and a letter to the Company from The Capital Group, dated March
+    9, 1994.
+ 
+                                        2
+<PAGE>   5
+ 
+              TABLE B: DIRECTORS, NOMINEES AND EXECUTIVE OFFICERS
+ 
+<TABLE>
+<CAPTION>
+                                                                    SHARES OF COMMON STOCK
+                                                                      BENEFICIALLY OWNED
+                                                                 ----------------------------
+                                                                 NUMBER OF         PERCENT OF
+                              NAME                                SHARES             TOTAL
+    ---------------------------------------------------------    ---------         ----------
+    <S>                                                          <C>               <C>
+    Gilbert F. Amelio........................................          350               *
+    James J. Buckley.........................................       76,740(1)            *
+    Peter O. Crisp...........................................      337,181(2)            *
+    Daniel L. Eilers.........................................       46,465(3)            *
+    Ian Diery................................................       84,295(4)            *
+    Bernard Goldstein........................................       25,500(5)            *
+    Joseph A. Graziano.......................................       95,455(6)            *
+    B. Jurgen Hintz..........................................        3,334(7)            *
+    Katherine M. Hudson......................................          -0-               *
+    Delano E. Lewis..........................................          -0-               *
+    A.C. Markkula, Jr........................................    4,676,330(8)         3.90%
+    Michael H. Spindler......................................      288,357(9)            *
+    All directors and executive officers as a group (19
+      persons)...............................................    5,919,829(10)        4.94%
+</TABLE>
+ 
+- ---------------
+ 
+* Less than 1%.
+ 
+ (1) Includes 70,000 shares subject to outstanding options held by Mr. Buckley
+     that were exercisable at the Table Date or within 60 days of such date.
+ 
+ (2) Includes (i) 1,150 shares held by Mr. Crisp's wife, as to which shares he
+     disclaims beneficial ownership, and (ii) 17,700 shares held in trust for
+     Mr. Crisp's children, as to which shares he also disclaims beneficial
+     ownership.
+ 
+ (3) Includes 46,000 shares subject to outstanding options held by Mr. Eilers
+     that were exercisable at the Table Date or within 60 days of such date, and
+     includes 14 shares held by Mr. Eilers' wife, as to which Mr. Eilers
+     disclaims beneficial ownership.
+ 
+ (4) Includes 81,832 shares subject to outstanding options held by Mr. Diery
+     that were exercisable at the Table Date or within 60 days of such date.
+ 
+ (5) Includes 20,000 shares subject to an outstanding warrant held by Mr.
+     Goldstein that was exercisable at the Table Date or within 60 days of such
+     date.
+ 
+ (6) Includes 95,455 shares subject to outstanding options held by Mr. Graziano
+     that were exercisable at the Table Date or within 60 days of such date.
+ 
+ (7) Includes 3,334 shares subject to an outstanding warrant held by Mr. Hintz
+     that was exercisable at the Table Date or within 60 days of such date.
+ 
+ (8) Includes shares held of record by Armas Clifford Markkula, Jr. and Linda
+     Kathryn Markkula, Trustees of the Restated Arlin Trust dated December 12,
+     1990, which shares are beneficially owned by Mr. Markkula, and as to which
+     shares he exercises shared voting power and shared investment power with
+     his wife.
+ 
+ (9) Includes 288,357 shares subject to outstanding options held by Mr. Spindler
+     that were exercisable at the Table Date or within 60 days of such date.
+ 
+(10) Includes 876,598 shares subject to outstanding options and warrants held by
+     19 executive officers and directors, which options and warrants were
+     exercisable at the Table Date or within 60 days of such date.
+ 
+COMPLIANCE WITH SECTION 16(A) OF THE SECURITIES EXCHANGE ACT OF 1934
+ 
+     Section 16(a) of the Securities Exchange Act of 1934, as amended, requires
+the Company's officers and directors, and persons who own more than ten percent
+of a registered class of the Company's equity securities, to file reports of
+securities ownership and changes in such ownership with the Securities and
+Exchange
+ 
+                                        3
+<PAGE>   6
+ 
+Commission (the "SEC"). Officers, directors and greater than ten-percent
+shareholders also are required by rules promulgated by the SEC to furnish the
+Company with copies of all Section 16(a) forms they file.
+ 
+     Based solely upon a review of the copies of such forms furnished to the
+Company, or written representations that no Form 5s were required, the Company
+believes that, during the fiscal year ended September 30, 1994, its officers,
+directors and greater than ten-percent beneficial owners complied with all
+applicable Section 16(a) filing requirements except that, based on information
+received by the Company, (i) one director, Mr. Peter Crisp, was one month late
+in reporting a transaction with respect to three sales of 1,000 shares each held
+in trusts for which a relative was a beneficiary, in which shares Mr. Crisp
+disclaims any beneficial interest, and (ii) a former director and Chief
+Executive Officer, Mr. John Sculley, was eleven months late in reporting certain
+transactions that occurred after he resigned as a director and officer of the
+Company but before his Section 16 reporting obligation ceased.
+ 
+CHANGE OF CONTROL ARRANGEMENTS
+ 
+     In the event of a "change in control" of Apple, all outstanding options
+under the Company's 1981 Stock Option Plan, 1986 Employee Incentive Stock Option
+Plan, 1987 Executive Long Term Stock Option Plan and 1990 Stock Option Plan
+will, unless otherwise determined by the Board of Directors, become exercisable
+in full, and will be cashed out at the applicable "change in control price".
+Under the 1993 Restricted Stock Plan, unvested shares pursuant to a previously
+granted award will become fully vested in the event of a "change in control" of
+Apple. A "change in control" under these plans is defined as the (i) acquisition
+by any person of 50% or more of the outstanding shares of Apple or (ii) the
+occurrence of a transaction requiring shareholder approval and involving the
+sale of all or substantially all the assets of Apple or the merger of Apple with
+or into another corporation.
+ 
+DIRECTORS
+ 
+     The name of, principal occupation of, and certain additional information
+about each of the five nominees and the four current directors with unexpired
+terms are set forth below.
+ 
+<TABLE>
+<CAPTION>
+                                                                                          DIRECTOR
+                      NAME                       POSITION WITH THE COMPANY        AGE      SINCE
+    -----------------------------------------  ------------------------------     ---     --------
+    <S>                                        <C>                                <C>     <C>
+    Class I Directors nominated for election or re-election at this Annual Meeting to serve a
+    two-year term expiring in 1997:
+    Gilbert F. Amelio........................  Director                           51        1994
+    Joseph A. Graziano.......................  Executive Vice President
+                                               and Chief Financial   Officer      51        1993
+    B. Jurgen Hintz..........................  Director                           52        1994
+    Katherine Hudson.........................  Director                           47        1994
+    Michael H. Spindler......................  President and
+                                               Chief Executive Officer            51        1991
+    Class II Directors whose two-year term does not expire until the next Annual Meeting:
+    Peter O. Crisp...........................  Director                           62        1980
+    Bernard Goldstein........................  Director                           64        1991
+    Delano E. Lewis..........................  Director                           56        1994
+    A.C. Markkula, Jr. ......................  Chairman of the Board              52        1977
+</TABLE>
+ 
+     Gilbert F. Amelio was appointed by the Board of Directors as a Class I
+director in November 1994. Dr. Amelio has been the President and Chief Executive
+Officer of National Semiconductor Corporation, a leading manufacturer of
+semiconductors, since 1991. Earlier, he served as president of Rockwell
+Communications System, a subsidiary of Rockwell International. He is currently a
+director of Chiron Corporation, the National Association of Manufacturers, the
+Electronics Industry Association, and the Semiconductor Industry Association.
+ 
+     Peter O. Crisp has been a General Partner of Venrock Associates (a venture
+capital limited partnership) since 1969. He is also a director of American
+Superconductor Corporation, Echelon Corporation, Evans &
+ 
+                                        4
+<PAGE>   7
+ 
+Sutherland Computer Corporation, Long Island Lighting Company, Thermedics, Inc.,
+Thermo Electron Corporation, Thermo Power Corporation, ThermoTrex Corporation
+and the U.S. Trust Corporation.
+ 
+     Bernard Goldstein has been a Managing Director of Broadview Associates,
+L.P. (an investment banking firm) since 1979. He is also a director of Franklin
+Electronic Publishers, Inc., SPSS, Inc., and Sungard Data Systems, Inc.
+ 
+     Joseph A. Graziano was appointed by the Board of Directors as a Class I
+director in October 1993. He has served as Executive Vice President of Apple
+since November 1990 and as Chief Financial Officer since June 1989. He served as
+Senior Vice President of Apple from June 1989 to November 1990 and as Chief
+Financial Officer of Sun Microsystems, Inc. (a workstation manufacturer) from
+June 1987 to June 1989. He is also a director of IntelliCorp, Inc. and
+StrataCom, Inc.
+ 
+     B. Jurgen Hintz was appointed by the Board of Directors as a Class I
+director in January 1994. Since 1991, he has served as Chief Executive Officer
+and as a director of Carnaud Metalbox, S.A., a French holding company with
+interests in the packaging industry. He is also a director of Carnaud Metalbox
+Asia Limited, and of Inchcape plc, which is engaged in international motor sales
+and related services. Mr. Hintz was previously Executive Vice President of the
+Procter & Gamble Corporation.
+ 
+     Katherine M. Hudson was appointed by the Board of Directors as a Class I
+director in May 1994. She has been the President and Chief Executive Officer of
+W. H. Brady Co., a manufacturer of coated products and industrial identification
+products, since January 1994. Prior to assuming her position at W. H. Brady Co.,
+she was Vice President and General Manager, Professional Printing & Publishing
+Imaging, of Eastman Kodak Company.
+ 
+     Delano E. Lewis was appointed by the Board of Directors as a Class I
+director in November 1994. He has served as President and Chief Operating
+Officer of the National Public Radio Corporation since January 1994. From 1988
+to 1994 he was President of the C&P Telephone Company, a subsidiary of Bell
+Atlantic. He is currently a director of GEICO, the Colgate-Palmolive Company,
+the Chase Manhattan Bank, and BET Holdings.
+ 
+     A.C. Markkula, Jr. has served as the Chairman of the Board of Apple since
+October 1993. He is also Chairman of the Board of ACM Aviation, Inc. (a
+fixed-base operation at San Jose International Airport) and has served in that
+role since 1980. He has been Vice Chairman of the Board of Echelon Corporation
+since 1989. In the past he served as Chairman of the Board, President and Chief
+Executive Officer of Echelon Corporation from 1988 to 1989; Vice Chairman of the
+Board of Apple from 1981 to 1993; President and Chief Executive Officer of Apple
+from 1981 to 1983; and Chairman of the Board of Apple from 1977 to 1981.
+ 
+     Michael H. Spindler has served as Chief Executive Officer of Apple since
+June 1993 and as President since November 1990. He served as Chief Operating
+Officer of Apple from January 1990 to June 1993; Executive Vice President of
+Apple from January 1990 to November 1990; Senior Vice President of Apple from
+February 1989 to January 1990; President of Apple Europe from August 1988 to
+January 1990; Senior Vice President of Apple Europe from April 1988 to August
+1988; Senior Vice President of Apple International from January 1988 to April
+1988; and Senior Vice President of Apple International Sales and Marketing from
+November 1986 to January 1988. Mr. Spindler currently serves as a director of
+Bertelsmann AG and of Vidamed, Inc.
+ 
+BOARD MEETINGS AND COMMITTEES
+ 
+     The Board of Directors of Apple met a total of eight times during the
+fiscal year ended September 30, 1994. Apple's Board of Directors has standing
+audit, nominating and compensation committees.
+ 
+     The Audit Committee of the Board of Directors consists of directors Crisp,
+Goldstein, Hintz, Hudson and Markkula, none of whom is an employee of the
+Company. It met four times during the last fiscal year. This Committee is
+primarily responsible for reviewing the services performed by Apple's
+independent auditors and internal audit department, and evaluating Apple's
+accounting policies and its system of internal controls.
+ 
+                                        5
+<PAGE>   8
+ 
+     The Compensation Committee of the Board of Directors consists of directors
+Crisp, Goldstein, Hintz, Hudson and Markkula. It met four times during the last
+fiscal year. This Committee is primarily responsible for reviewing and
+recommending compensation to be paid to officers of the Company. See "REPORT OF
+THE COMPENSATION COMMITTEE AND THE STOCK OPTION COMMITTEE OF THE BOARD OF
+DIRECTORS ON EXECUTIVE COMPENSATION".
+ 
+     The Nominating Committee of the Board of Directors consists of directors
+Crisp, Goldstein, Hintz, Hudson and Markkula. It met eight times during the last
+fiscal year. This Committee is primarily responsible for reviewing and
+recommending qualified candidates for election as directors to the Board of
+Directors. The Committee periodically reviews the size and makeup of the Board
+and makes appropriate recommendations to the Board based on perceived need,
+position description and candidate profile. In January and May 1994, the
+Committee recommended B. Jurgen Hintz and Katherine M. Hudson, respectively, for
+appointment as Class I Directors to fill vacancies. In November 1994, the
+Committee recommended Gilbert F. Amelio and Delano E. Lewis for appointment as
+Class I and Class II Directors, respectively, to fill vacancies. The Committee
+also recommended that the Board nominate Messrs. Graziano and Spindler for
+re-election as Class I Directors at this Annual Meeting. The Committee will
+consider nominees recommended by management, shareholders and others, and such
+recommendations may be delivered in writing to the attention of the Nominating
+Committee in care of the Corporate Secretary at the Company's principal
+executive offices.
+ 
+     The Stock Option Committee of the Board of Directors consists of directors
+Crisp, Hudson and Markkula. It met five times and took action by written consent
+five times during the last fiscal year. It is primarily responsible for
+administering Apple's 1981 Stock Option Plan, 1986 Employee Incentive Stock
+Option Plan, 1987 Executive Long Term Stock Option Plan (the "ELTSOP"), 1990
+Stock Option Plan (the "1990 Plan"), Employee Stock Purchase Plan and 1993
+Restricted Stock Plan.
+ 
+     During the last fiscal year, no director attended fewer than 75% of the
+aggregate of all meetings of the Board of Directors and the committees, if any,
+upon which such director served and which were held during the period of time
+that such person served on the Board or such committee, except that Ms. Hudson
+did not attend meetings of the Board and committees occurring on September 20,
+1994 due to a commitment existing prior to her appointment as director.
+ 
+DIRECTOR COMPENSATION
+ 
+     Directors who are not employees of the Company are paid a retainer of
+$7,000 per quarter and a fee of $1,000 per Board meeting attended. No additional
+fees are paid for committee meetings. The Company also reimburses non-employee
+directors for travel and other incidental expenses incurred in attending
+meetings of the Board. In addition, A.C. Markkula, Jr. received $2,119.72 in the
+form of health insurance benefits during fiscal 1994.
+ 
+     In fiscal 1991, the Company granted to Bernard Goldstein, a director of
+Apple, a five-year warrant to acquire up to 20,000 shares of Apple Common Stock
+at a per share price of $53.75, the fair market value of the Common Stock on the
+date of grant of the warrant. In fiscal 1994, the Company granted to each of
+Bernard Goldstein, B. Jurgen Hintz and Katherine M. Hudson, a warrant to acquire
+up to 10,000 shares of Apple Common Stock at a per share price of $29, $29 and
+$22 11/16, respectively, the fair market value of the Common Stock on the date
+of grant of the warrant. Each of these warrants vests over three years, based
+upon continued service as a director of the Company, and each of them expires 12
+months after termination of service as a director or five years after the date
+of grant, whichever is earlier.
+ 
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+ 
+     During fiscal 1990, the Company provided to Ian Diery, then Senior Vice
+President and President, Apple Pacific, a loan of $250,000, bearing interest at
+8.85% per annum, with interest only due and payable in four annual installments
+of $22,125 each, with a balloon payment of principal and accrued unpaid interest
+due on December 1, 1994. Effective November 1, 1993, the interest rate on this
+loan was adjusted to 5.5%, and the due date for the balloon payment was extended
+to December 1, 1996. The loan was made to assist Mr. Diery in the purchase of a
+personal residence. The maximum principal amount of the loan outstanding during
+fiscal 1994, and the amount outstanding at the end of fiscal 1994, was $250,000.
+ 
+                                        6
+<PAGE>   9
+ 
+     Apple has from time to time entered into employment arrangements with
+certain of its executive officers. The Named Officers with which the Company has
+such agreements, the dates of the agreements and a summary of the terms of such
+agreements are set forth in the following paragraphs:
+ 
+     In April 1991, the Company entered into an agreement with Michael H.
+Spindler, then President and Chief Operating Officer, providing that, in the
+event of the termination of Mr. Spindler's employment with the Company for any
+reason other than termination for cause, the Company would purchase Mr.
+Spindler's house at a pre-arranged price of $2,850,000 (the "Payment"). Mr.
+Spindler purchased such house in May 1990 for a price of $3,000,000. The amount
+of the Payment was determined by appraisal. In the alternative, the Company may,
+in the event of such termination of employment, elect to act on Mr. Spindler's
+behalf with respect to any sale or conveyance of the house to any third party.
+If the Company sells Mr. Spindler's house on his behalf in a transaction in
+which the proceeds of such sale are less than the Payment, Apple agrees to pay
+the amount of such shortfall to Mr. Spindler in addition to the sale proceeds.
+If the Company sells Mr. Spindler's house on his behalf in a transaction in
+which the proceeds of such sale are greater than the Payment, the Company agrees
+to pay to Mr. Spindler, upon the consummation of such sale, the Payment plus an
+amount equal to the lesser of (i) the excess of the amount of the proceeds of
+such sale over the amount of the Payment, or (ii) $150,000. Mr. Spindler's
+agreement also provides that, in the event of the termination of Mr. Spindler's
+employment for any reason other than for cause, and in accordance with the
+Company's relocation policy, the Company will pay the reasonable costs of moving
+Mr. Spindler, his immediate family and his household goods to France.
+ 
+     The Company has in effect an Executive Severance Plan, under which it may
+designate an executive officer as a participant in the plan if that executive
+officer is terminated by Apple due to Business Conditions. "Business Conditions"
+are defined as events or conditions that lead to the elimination or
+unavailability of jobs, other than pursuant to an Apple Redeployment Plan or
+Layoff Plan, and not including termination for cause. In general, an executive
+officer who is designated as a participant in the plan and who is terminated due
+to Business Conditions will receive a severance payment of between 4 and 12
+months of pay, depending upon the length of such executive officer's service
+with the Company. A participating executive officer will also receive a portion
+of his or her target bonus for the then current fiscal year, on a prorated
+basis. In addition, a participating executive officer will receive job placement
+assistance and up to 12 months of paid medical and dental benefits following the
+date that he or she ceases to be an employee of the Company.
+ 
+     See also "Compensation Committee Interlocks and Insider Participation".
+ 
+                                        7
+<PAGE>   10
+ 
+COMPANY STOCK PERFORMANCE
+ 
+     The following graph shows a five-year comparison of cumulative total
+shareholder return, calculated on a dividend reinvested basis, for Apple, the
+S&P 500 Composite Index (the "S&P 500") and the S&P Computer Index (the
+"Industry Index"). The graph assumes $100 was invested in each of the Company's
+Common Stock, the S&P 500 and the Industry Index on September 29, 1989 (the last
+trading day of Apple's fiscal year 1989). Data points on the graph are annual.
+Note that historic stock price performance is not necessarily indicative of
+future stock price performance.
+ 
+                            CUMULATIVE TOTAL RETURN
+           BASED ON REINVESTMENT OF $100 BEGINNING SEPTEMBER 29, 1989
+ 
+<TABLE>
+<CAPTION>
+                                                                    S&P 500
+      MEASUREMENT PERIOD          APPLE COM-                     COMPUTER IN-
+    (FISCAL YEAR COVERED)         PUTER INC.        S&P 500           DEX
+<S>                              <C>             <C>             <C>
+SEP-89                                     100             100             100
+SEP-90                                      66              91              89
+SEP-91                                     114             119              98
+SEP-92                                     105             132              82
+SEP-93                                      55             149              54
+SEP-94                                      80             155              80
+</TABLE>
+ 
+                                        8
+<PAGE>   11
+ 
+REPORT OF THE COMPENSATION COMMITTEE AND THE STOCK OPTION COMMITTEE OF THE BOARD
+                     OF DIRECTORS ON EXECUTIVE COMPENSATION
+ 
+     The Compensation Committee believes that compensation of the Company's
+executive officers should be based on the general principles that the Company
+must:
+ 
+          - motivate executive officers to strive for and achieve outstanding
+            corporate performance in an increasingly competitive marketplace;
+ 
+          - attract highly-qualified key management personnel; and
+ 
+          - reward superior performance toward corporate and individual
+            performance objectives with aggressive compensation levels.
+ 
+     These principles were applied in fiscal year 1994 to decisions concerning
+executive compensation (including compensation of the Named Officers). In fiscal
+year 1994, executive officer compensation had two primary elements: cash
+compensation (divided into a base salary component and a bonus component) and
+equity-based compensation. These elements are discussed in more detail below.
+The cash compensation component of executive officers' compensation was
+determined by the Compensation Committee of the Board; the equity-based portion
+was determined by the Stock Option Committee of the Board.
+ 
+CASH COMPENSATION
+ 
+  Determination of Base Salary
+ 
+     In July 1993, executive officers' base salaries were reduced by 5% to
+reflect business conditions within the Company. Base salaries for executive
+officers in fiscal year 1994 were frozen at the same level as base salaries were
+at the end of fiscal year 1993. This pay freeze was in effect until October
+1994.
+ 
+  Determination of Bonus Payout Amounts
+ 
+     For fiscal year 1994, the Board of Directors adopted a performance-based
+bonus plan (the "1994 Bonus Plan") in which executive officers were measured
+solely on Company performance targets. Major emphasis in the 1994 Bonus Plan was
+placed on Pretax Operating Profit (PTOP) and Return on Net Assets (RONA)
+targets. Bonus plans differing slightly in the method of bonus calculation were
+in effect for each fiscal year since fiscal 1981; however, in previous years
+individual performance or divisional performance was included as a component of
+the overall calculation for some executive officers.
+ 
+     The purpose of the 1994 Bonus Plan was to focus the efforts of senior
+management toward predetermined specific goals and objectives that are of
+critical importance to the success of the Company. More particularly, the 1994
+Bonus Plan was intended to:
+ 
+          - encourage participants to achieve outstanding results toward Company
+            objectives by measuring executive officers solely on the basis of
+            achievement of Company performance targets;
+ 
+          - strengthen the ability of the Company to attract and retain high
+            caliber, key management personnel; and
+ 
+          - provide a leveraged compensation program based on performance
+            towards Company objectives, with superior performance resulting in
+            aggressive compensation levels.
+ 
+     Under the 1994 Bonus Plan, bonus targets for executive officers were set
+individually, based on the pay level to which a particular officer was assigned.
+The target bonus established for all participants was based on Company
+performance measurements.
+ 
+     Target payouts (less deductions and withholding) were set based on Company
+performance goals. The formula for determining bonuses was to use the weighted
+average percentage of actual achievement versus plan targets for PTOP and RONA
+for the second half of the fiscal year and to apply this percentage to six (6)
+month individual bonus targets. This resulted in all executive officers
+receiving 34.9% of their annual bonus target as a bonus payment.
+ 
+                                        9
+<PAGE>   12
+ 
+     For a small percentage of executive officers, a relatively modest special
+recognition bonus was paid in addition to the six month formula-based bonus
+payment. The basis of this special recognition bonus was to recognize these
+executive officers for extraordinary individual performance that produced
+consistently outstanding individual results throughout the entire fiscal year.
+ 
+     Under the 1994 Bonus Plan, no bonuses would have been awarded if there was
+no corporate operating profit or if there was a corporate operating loss.
+However, if Apple had reported no operating profit for fiscal year 1994, bonus
+awards might still have been made on a case-by-case basis upon recommendation of
+the Chief Executive Officer, with the consensus of the Compensation Committee.
+ 
+EQUITY-BASED COMPENSATION
+ 
+     Equity-based compensation of executive officers was determined primarily by
+the Stock Option Committee of the Board, upon consideration of recommendations
+made by the executive officers' direct managers and, in some cases, reviewed by
+other management and the Compensation Committee. In fiscal year 1994, executive
+officers of the Company were eligible to receive grants of stock options under
+two employee stock option plans administered by the Stock Option Committee: the
+ELTSOP and the 1990 Plan. In addition, executive officers were eligible to
+participate in the Company's Employee Stock Purchase Plan.
+ 
+     The stated goal of the ELTSOP is to attract and retain, on a long-term
+basis, key executives of the Company through significant proprietary incentives
+based on the success of the Company. Executive officers at or above the level of
+Senior Vice President were eligible to participate in this plan. All options
+granted under the ELTSOP are intended to be nonstatutory stock options (as
+opposed to "incentive stock options") within the meaning of the Internal Revenue
+Code of 1986, as amended. The exercise price of any options granted under the
+ELTSOP is determined by the Stock Option Committee and must be at least 75% of
+the fair market value of Apple's Common Stock on the date the option is granted.
+All options granted under the ELTSOP to date have had exercise prices equal to
+100% of the fair market value of the underlying Common Stock on the date of the
+grant. Generally, options granted under the ELTSOP do not vest or become
+exercisable until 18 months after the date of grant of the option. Thereafter,
+options generally vest cumulatively in increasing amounts on an annual basis
+over a period of seven more years (increasing from 8% in the first year of
+vesting to 18.2% in the last year of vesting), such that the option is fully
+vested and exercisable eight and one-half years after the date of grant, subject
+to earlier termination of the option upon termination of employment, and subject
+to automatic acceleration of vesting upon death or disability of the optionee or
+a change in control of Apple. All options granted under the ELTSOP expire ten
+years from the date of grant, unless previously terminated or unless a shorter
+term is provided in the option agreement.
+ 
+     The 1990 Plan is designed to attract and retain high quality personnel for
+positions of substantial responsibility, to provide additional incentive to
+employees of the Company, and to promote the success of the Company's business.
+Options are granted under the 1990 Plan at an exercise price equal to fair
+market value of the Company's Common Stock on the business day immediately
+preceding the date of the grant, and, in general, vest in increments over a
+period of three years after the date of grant of the option, subject to earlier
+termination of the option upon termination of employment and subject to
+automatic acceleration of vesting upon death of the optionee or a change in
+control of Apple. All options granted under the 1990 Plan expire ten years from
+the date of grant, unless previously terminated or unless a shorter term is
+provided in the option agreement.
+ 
+     Recommendations for grants of options to individual executive officers were
+made based upon a market analysis of grants made to officers at similar levels
+of responsibility by other companies in the computer and high technology
+industry that the Company uses generally as comparables to determine
+compensation levels in the Company, and also in comparison to certain other
+companies in the software industry. The Company determined stock option awards
+for its executive officers based on a comparison of what officers in comparable
+positions at competing hardware and software companies receive in terms of the
+face value of the options at the time of grant, expressed as an annualized award
+size as a multiple of base salary.
+ 
+     The Stock Option Committee awarded options to executive officers under the
+ELTSOP and the 1990 Plan in accordance with the goals of the respective plans,
+and upon a review of each officer's individual
+ 
+                                       10
+<PAGE>   13
+ 
+performance goals, achievements, and long-term potential to the Company. During
+fiscal year 1994, the Stock Option Committee awarded grants to two executive
+officers, one of whom was a Named Officer, under the ELTSOP. In fiscal year
+1994, eight executive officers of the Company, two of whom were Named Officers,
+received option grants under the 1990 Plan.
+ 
+COMPENSATION OF THE CHIEF EXECUTIVE OFFICER
+ 
+     Compensation for the Company's Chief Executive Officer, Michael H.
+Spindler, during fiscal year 1994 was determined using the same criteria
+described above for executive officers generally. As with other executive
+officers, Mr. Spindler's base salary was frozen at the reduced pre-fiscal year
+level and his bonus was based on the same 34.9% payout.
+ 
+     Mr. Spindler received a grant of 200,000 shares under the ELTSOP in fiscal
+year 1994, but did not receive any grant of shares under the 1990 Plan in fiscal
+year 1994.
+ 
+           MEMBERS OF THE COMPENSATION COMMITTEE IN FISCAL YEAR 1994:
+ 
+<TABLE>
+<S>                                <C>                            <C>
+Peter O. Crisp, Chairman           Bernard Goldstein              B. Jurgen Hintz
+Katherine M. Hudson                A.C. Markkula, Jr.
+</TABLE>
+ 
+           MEMBERS OF THE STOCK OPTION COMMITTEE IN FISCAL YEAR 1994:
+ 
+<TABLE>
+    <S>                             <C>                             <C>
+    A.C. Markkula, Jr.,             Peter O. Crisp                  Katherine M. Hudson
+      Chairman
+</TABLE>
+ 
+COMPENSATION COMMITTEE INTERLOCKS AND INSIDER PARTICIPATION
+ 
+     The members of the Compensation Committee in fiscal year 1994 were Peter O.
+Crisp, Chairman of the Committee; Bernard Goldstein; B. Jurgen Hintz; Katherine
+M. Hudson; and A.C. Markkula, Jr. No person who was an employee of the Company
+in fiscal year 1994 served on the Compensation Committee in fiscal year 1994.
+Mr. Markkula, currently Chairman of the Board of the Company and a member of the
+Compensation Committee, served as Apple's President and Chief Executive Officer
+from 1981 to 1983.
+ 
+     See also "INFORMATION ABOUT APPLE COMPUTER, INC. -- Director Compensation".
+ 
+                                       11
+<PAGE>   14
+ 
+                  INFORMATION REGARDING EXECUTIVE COMPENSATION
+ 
+     The following table summarizes compensation information for the last three
+fiscal years for Michael Spindler, President and Chief Executive Officer, as
+well as for the five other most highly compensated executive officers of Apple
+(together, the "Named Officers") based on salary plus bonus for the fiscal year
+ended September 30, 1994.
+ 
+                           SUMMARY COMPENSATION TABLE
+ 
+<TABLE>
+<CAPTION>
+                                                                                             LONG-TERM
+                                         ANNUAL COMPENSATION                            COMPENSATION AWARDS
+                       -------------------------------------------------------   ---------------------------------
+ NAME AND PRINCIPAL                                             OTHER ANNUAL                        ALL OTHER
+      POSITION         FISCAL YEAR   SALARY ($)   BONUS ($)   COMPENSATION ($)   OPTIONS (#)   COMPENSATION ($)(1)
+- ---------------------  -----------   ----------   ---------   ----------------   -----------   -------------------
+<S>                    <C>           <C>          <C>         <C>                <C>           <C>
+Michael H.                 1994        684,922     249,500              --         200,000               --
+  Spindler...........      1993        696,847     302,240              --              --               --
+  President and Chief      1992        588,257     538,580               *         100,000                *
+  Executive Officer
+Ian Diery............      1994        467,436     136,680                         130,000            3,807
+  Executive Vice           1993        476,859     193,434              --          75,000            3,505
+  President and            1992        408,987     368,532               *         250,000                *
+  General Manager,                                                       *
+  Personal Computer
+  Division
+ 
+Joseph A. Graziano...      1994        410,231     104,230              --              --            4,400
+  Executive Vice           1993        418,289     159,160              --              --            4,663
+  President and            1992        363,763     324,284               *              --                *
+  Chief Financial
+  Officer
+ 
+James J. Buckley.....      1994**      253,704     239,800         269,829(2)       65,000            4,079
+  Senior Vice
+  President
+  and President,
+  Apple USA
+ 
+Daniel L. Eilers.....      1994**      301,744     169,250              --              --            4,639
+  Senior Vice
+  President;
+  President
+  and Chief
+  Executive Officer,
+  Claris Corporation
+</TABLE>
+ 
+- ---------------
+ * Disclosure of amounts in these columns for fiscal year 1992 is not required
+   pursuant to the SEC's transition rules.
+ 
+** Messrs. Buckley and Eilers became executive officers of the Company during
+   fiscal year 1994. Disclosure of their compensation for prior years is not
+   required pursuant to SEC rules.
+ 
+(1) Amounts shown under "All Other Compensation" constitute matching
+    contributions made by the Company in accordance with the terms of the
+    Company's 401(k) Plan.
+ 
+(2) This amount consists of reimbursement of relocation expenses.
+ 
+OPTION/SAR GRANTS IN LAST FISCAL YEAR
+ 
+     The following table provides information about option grants to the Named
+Officers for the fiscal year ended September 30, 1994. All options granted to
+the Named Officers during fiscal year 1994 were granted pursuant to the 1990
+Plan, except the award of options to Michael Spindler, which was made pursuant
+to the ELTSOP. For a description of the material terms of options granted under
+the ELTSOP, see "REPORT OF THE COMPENSATION COMMITTEE AND THE STOCK OPTION
+COMMITTEE OF THE BOARD OF DIRECTORS ON EXECUTIVE COMPENSATION -- Equity-Based
+Compensation".
+ 
+                                       12
+<PAGE>   15
+ 
+                        SECURITIES UNDERLYING OPTION/SAR
+                           GRANTS IN LAST FISCAL YEAR
+ 
+<TABLE>
+<CAPTION>
+                                                INDIVIDUAL GRANTS                        POTENTIAL REALIZABLE
+                           -----------------------------------------------------------     VALUE AT ASSUMED
+                                              % OF TOTAL                                ANNUAL RATES OF STOCK
+                                             OPTIONS/SARS                               PRICE APPRECIATION OF
+                                              GRANTED TO       EXERCISE OR                  OPTION TERM(1)
+                           OPTIONS/SARS      EMPLOYEES IN      BASE PRICE    EXPIRATION ----------------------
+          NAME             GRANTED (#)     FISCAL YEAR (2)     ($/SH.)(3)      DATE       5% ($)     10% ($)
+- -------------------------  ------------   ------------------   -----------   ---------  ----------  ----------
+<S>                        <C>            <C>                  <C>           <C>        <C>         <C>
+Michael H. Spindler......     200,000            4.25%            24.00       10/13/03   3,018,694   7,649,964
+Ian Diery................      40,000            0.85%            23.75       10/12/03     597,450   1,514,055
+                               90,000            1.91%            29.50       12/20/03   1,669,715   4,231,386
+Joseph A. Graziano.......      --             --                   --           --          --          --
+James J. Buckley.........      15,000            0.32%            23.75       10/12/03     224,044     567,771
+                               30,000            0.64%            29.50       12/20/03     556,572   1,410,462
+                               20,000            0.43%            33.875      01/26/04     426,076   1,079,761
+Daniel L. Eilers.........      --             --                   --           --          --          --
+</TABLE>
+ 
+- ---------------
+(1) Potential gains are net of exercise price, but before taxes associated with
+    exercise. These amounts represent certain assumed rates of appreciation
+    only, based on Securities and Exchange Commission rules, and do not
+    represent the Company's estimate or projection of the price of the Company's
+    stock in the future. Actual gains, if any, on stock option exercises depend
+    upon the actual future performance of the Company's Common Stock and the
+    continued employment of the option holders throughout the vesting period.
+    Accordingly, the potential realizable values set forth in this table may not
+    be achieved.
+ 
+(2) Based on options to purchase an aggregate of 4,705,429 shares granted to all
+    employees during fiscal year 1994.
+ 
+(3) All options were granted at an exercise price equal to fair market value
+    based on the closing market value of the Company's Common Stock on the
+    business day immediately preceding the date of the grant.
+ 
+AGGREGATED OPTION EXERCISES AND OPTIONS HELD BY THE NAMED OFFICERS
+ 
+     The following table provides information about option exercises by the
+Named Officers in the last fiscal year and options held by each of them at
+fiscal year end.
+ 
+                        SECURITIES UNDERLYING AGGREGATED
+                    OPTION/SAR EXERCISES IN LAST FISCAL YEAR
+                          AND FY-END OPTION/SAR VALUES
+ 
+<TABLE>
+<CAPTION>
+                                                                                            VALUE OF UNEXERCISED
+                                                               NUMBER OF UNEXERCISED            IN-THE-MONEY
+                                                                   OPTIONS/SARS                 OPTIONS/SARS
+                             SHARES                                AT FY-END (#)              AT FY-END ($)(2)
+                          ACQUIRED ON         VALUE         ---------------------------   -------------------------
+          NAME            EXERCISE (#)   REALIZED ($)(1)    EXERCISABLE   UNEXERCISABLE   EXERCISABLE UNEXERCISABLE
+- ------------------------  ------------   ----------------   -----------   -------------   ----------  -------------
+<S>                       <C>            <C>                <C>           <C>             <C>         <C>
+Michael H. Spindler.....    --              --                388,357        330,851       1,806,663    2,071,741
+Ian Diery...............    --              --                131,832        356,500         341,245      405,001
+Joseph A. Graziano......    --              --                121,055        163,389         408,561      551,438
+James J. Buckley........    --              --                 70,000         74,000         401,313      267,727
+Daniel L. Eilers........    --              --                 46,000             --              --           --
+</TABLE>
+ 
+- ---------------
+ 
+(1) Market value of underlying securities (based on the fair market value of the
+    Company's Common Stock on the Nasdaq National Market) at the time of
+    exercise, minus the exercise price.
+ 
+(2) Market value of securities underlying in-the-money options at fiscal 1994
+    year end (based on $33 11/16 per share, the closing price of the Company's
+    Common Stock on the Nasdaq National Market on September 30, 1994), minus the
+    exercise price.
+ 
+                                       13
+<PAGE>   16
+ 
+                                 PROPOSAL NO. 1
+ 
+                             ELECTION OF DIRECTORS
+ 
+     The Company's Bylaws provide for a Board of Directors with nine members,
+five in Class I and four in Class II. Class I currently consists of five
+directors who are serving two-year terms expiring on the date of this Annual
+Meeting, each of whom is standing for re-election. Class II currently consists
+of four directors who are serving two-year terms expiring in 1996. In each case,
+a director serves for the designated term and until his or her respective
+successor is elected and qualified.
+ 
+     Five directors are to be elected at this Annual Meeting. The Board has
+nominated the five current members of the Board constituting Class I to be
+re-elected. Directors elected to Class I will serve two-year terms expiring in
+1997. Holders of proxies solicited by this Proxy Statement will vote the proxies
+received by them as directed on the proxy card or, if no direction is made, for
+the election of the Board of Directors' five nominees below. If any nominee is
+unable or declines to serve as a director at the time of the Annual Meeting, the
+proxy holders will vote for a nominee designated by the present Board of
+Directors to fill the vacancy. It is not presently expected that any nominee
+will be unable or will decline to serve as a director.
+ 
+     The Board's nominees for re-election at this Annual Meeting as Class I
+directors are Gilbert F. Amelio, Joseph A. Graziano, B. Jurgen Hintz, Katherine
+M. Hudson and Michael H. Spindler.
+ 
+VOTE REQUIRED
+ 
+     The five nominees for Class I directors receiving the highest number of
+affirmative votes of the shares entitled to be voted for them shall be elected
+as directors. Votes withheld from any director are counted for purposes of
+determining the presence or absence of a quorum, but have no other legal effect
+under California law.
+ 
+RECOMMENDATION
+ 
+     THE BOARD OF DIRECTORS RECOMMENDS THAT SHAREHOLDERS VOTE FOR RE-ELECTION OF
+GILBERT F. AMELIO, JOSEPH A. GRAZIANO, B. JURGEN HINTZ, KATHERINE M. HUDSON AND
+MICHAEL H. SPINDLER TO CLASS I OF THE BOARD OF DIRECTORS OF THE COMPANY.
+ 
+                                 PROPOSAL NO. 2
+ 
+                    RATIFICATION OF APPOINTMENT OF AUDITORS
+ 
+     The Board of Directors has appointed Ernst & Young LLP, independent
+auditors, to audit Apple's consolidated financial statements for the fiscal year
+ending September 29, 1995. At the Annual Meeting, the shareholders are being
+asked to ratify the appointment of Ernst & Young LLP as the Company's
+independent auditors for fiscal year 1995. In the event of a negative vote on
+such ratification, the Board of Directors will reconsider its selection.
+ 
+     Ernst & Young LLP or its predecessor has audited Apple's consolidated
+financial statements since the fiscal period ended September 30, 1977.
+Representatives of Ernst & Young LLP are expected to be present at the Annual
+Meeting and will have the opportunity to respond to appropriate questions and to
+make a statement if they desire.
+ 
+RECOMMENDATION
+ 
+     THE BOARD OF DIRECTORS RECOMMENDS THAT SHAREHOLDERS VOTE FOR RATIFICATION
+OF THE APPOINTMENT OF ERNST & YOUNG LLP AS THE COMPANY'S INDEPENDENT AUDITORS.
+ 
+                                       14
+<PAGE>   17
+ 
+                                 OTHER MATTERS
+ 
+     Apple knows of no other matters to be submitted to the shareholders at the
+Annual Meeting. If any other matters properly come before the shareholders at
+the Annual Meeting, it is the intention of the persons named on the enclosed
+proxy card to vote the shares they represent as the Board of Directors may
+recommend.
+ 
+                             SHAREHOLDER PROPOSALS
+ 
+     Shareholders of Apple who intend to present proposals at Apple's next
+Annual Meeting of Shareholders must send such proposals to Apple for receipt no
+later than August 12, 1995 in order for such proposals to be considered for
+inclusion in the proxy statement and form of proxy relating to such meeting.
+ 
+                                          THE BOARD OF DIRECTORS
+ 
+Dated: December 12, 1994
+ 
+                                       15
+<PAGE>   18
+ 
+                       (LOGO)        APPLE COMPUTER, INC.
+ 
+(LOGO)printed on recycled paper
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

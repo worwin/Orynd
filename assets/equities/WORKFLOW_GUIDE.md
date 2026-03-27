@@ -13,8 +13,17 @@ It has:
 You do not usually run every task manually in order unless you want maximum control.
 
 There are two normal ways to use the system:
+- raw filing sync plus review
 - full workflow
 - targeted task
+
+## New filing ingestion layer
+Before filing review, you can now sync raw SEC artifacts directly into the ticker workspace.
+
+Use:
+- `Run assets/equities/tasks/00_pull_edgar_filings.md for AAPL`
+- `Pull EDGAR filings for AAPL`
+- `Sync 10-K and 10-Q filings for MSFT`
 
 ## Full workflow
 Use this when you want the whole company updated from research through decision and report.
@@ -26,12 +35,16 @@ Say:
 
 What that means operationally:
 1. review company profile files
-2. review filings
-3. refresh analysis files
-4. run Buffett entry/exit decision
-5. run critic review
-6. update position
-7. generate final report
+2. sync raw SEC filings if needed
+3. extract normalized EDGAR facts if needed
+4. build the filing review pack if needed
+5. prepare engine inputs if needed
+6. review filings
+7. refresh analysis files
+8. run Buffett entry/exit decision
+9. run critic review
+10. update position
+11. generate final report
 
 ## Targeted task mode
 Use this when only one part of the workflow needs to change.
@@ -60,6 +73,36 @@ Use when:
 You can say:
 - `Create a company workspace for JPM`
 
+### Task 00
+`00_pull_edgar_filings.md`
+
+Use when:
+- you want to ingest primary SEC artifacts into the ticker workspace
+- you want long filing history, not just one latest filing summary
+- you want raw data available before running the filing review
+
+### Task 00A
+`00A_extract_edgar_facts.md`
+
+Use when:
+- you want statement-level JSON extracted from stored SEC artifacts
+- you want Buffett-ready metrics before analysis and decision work
+- you want `13F-HR` submission text parsed into holdings JSON
+
+### Task 00B
+`00B_build_filing_review_pack.md`
+
+Use when:
+- you want readable `10-K`, `10-Q`, `8-K`, and proxy review files built from stored SEC data
+- you want accounting notes refreshed from the extracted filing history
+
+### Task 00C
+`00C_prepare_engine_inputs.md`
+
+Use when:
+- you want filing-derived data packaged for Buffett scoring or later prediction work
+- you want analysis files grounded in the extracted SEC history
+
 ### Task 03
 `03_populate_company_profile.md`
 
@@ -73,6 +116,7 @@ Use when:
 Use when:
 - a new 10-K, 10-Q, 8-K, or proxy is out
 - you want the primary-source evidence refreshed
+- the raw EDGAR sync has already been run or you are about to run it
 
 ### Task 05
 `05_build_long_term_analysis.md`
@@ -112,40 +156,51 @@ Important:
 Use when:
 - you want the final decision memo for the stock
 
-## Do I say “run task 0-9”?
+## Do I say `run task 0-9`?
 Not exactly.
 
 The cleanest options are:
+- `Run assets/equities/tasks/00_pull_edgar_filings.md for AAPL`
+- `Run assets/equities/tasks/00A_extract_edgar_facts.md for AAPL`
+- `Run assets/equities/tasks/00B_build_filing_review_pack.md for AAPL`
+- `Run assets/equities/tasks/00C_prepare_engine_inputs.md for AAPL`
 - `Run assets/equities/tasks/update_company.md for AAPL`
 - `Run the full equity workflow for AAPL`
 - `Run task 04 for AAPL`
 - `Run task 06 for AAPL`
 
-There is no `00` task right now.
-The current numbered task set is `01` through `09`.
+The current numbered task set is `00` through `09`.
 
 ## Recommended normal workflow
 
 ### First time covering a stock
 1. Run task `02`
-2. Run task `03`
-3. Run task `04`
-4. Run task `05`
-5. Run task `06`
-6. Run task `07`
-7. Run task `08`
-8. Run task `09`
+2. Run task `00`
+3. Run task `00A`
+4. Run task `00B`
+5. Run task `00C`
+6. Run task `03`
+7. Run task `04`
+8. Run task `05`
+9. Run task `06`
+10. Run task `07`
+11. Run task `08`
+12. Run task `09`
 
 ### Existing covered stock, normal refresh
 1. Run `update_company.md`
 
 ### Earnings or filing refresh
-1. Run task `04`
-2. Run task `05`
-3. Run task `06`
-4. Run task `07`
-5. Run task `08` if needed
-6. Run task `09`
+1. Run task `00`
+2. Run task `00A`
+3. Run task `00B`
+4. Run task `00C`
+5. Run task `04`
+6. Run task `05`
+7. Run task `06`
+8. Run task `07`
+9. Run task `08` if needed
+10. Run task `09`
 
 ### Holdings-only change
 1. Run task `08`
@@ -192,3 +247,4 @@ If you are unsure what to ask for, use:
 - `Run the full equity workflow for <TICKER>`
 
 That is the safest default.
+

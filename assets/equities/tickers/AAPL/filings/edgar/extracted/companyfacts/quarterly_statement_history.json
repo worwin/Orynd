@@ -1,0 +1,2670 @@
+{
+  "period_type": "quarterly",
+  "record_count": 18,
+  "records": [
+    {
+      "period_end": "2008-12-27",
+      "period_type": "quarterly",
+      "metrics": {
+        "gross_profit": 4507000000,
+        "operating_income": 3101000000,
+        "net_income": 2255000000,
+        "operating_cash_flow": 3938000000,
+        "share_based_compensation": 170000000,
+        "cash_and_equivalents": 7236000000,
+        "diluted_weighted_shares": 901494000
+      },
+      "sources": {
+        "gross_profit": {
+          "form": "10-Q",
+          "filed": "2010-01-25",
+          "fy": 2010,
+          "fp": "Q1",
+          "frame": null,
+          "accn": "0001193125-10-012085"
+        },
+        "operating_income": {
+          "form": "10-Q",
+          "filed": "2010-01-25",
+          "fy": 2010,
+          "fp": "Q1",
+          "frame": "CY2008Q4",
+          "accn": "0001193125-10-012085"
+        },
+        "net_income": {
+          "form": "10-Q",
+          "filed": "2010-01-25",
+          "fy": 2010,
+          "fp": "Q1",
+          "frame": null,
+          "accn": "0001193125-10-012085"
+        },
+        "operating_cash_flow": {
+          "form": "10-Q",
+          "filed": "2010-01-25",
+          "fy": 2010,
+          "fp": "Q1",
+          "frame": "CY2008Q4",
+          "accn": "0001193125-10-012085"
+        },
+        "share_based_compensation": {
+          "form": "10-Q",
+          "filed": "2010-01-25",
+          "fy": 2010,
+          "fp": "Q1",
+          "frame": "CY2008Q4",
+          "accn": "0001193125-10-012085"
+        },
+        "cash_and_equivalents": {
+          "form": "10-Q",
+          "filed": "2010-01-25",
+          "fy": 2010,
+          "fp": "Q1",
+          "frame": "CY2008Q4I",
+          "accn": "0001193125-10-012085"
+        },
+        "diluted_weighted_shares": {
+          "form": "10-Q",
+          "filed": "2010-01-25",
+          "fy": 2010,
+          "fp": "Q1",
+          "frame": "CY2008Q4",
+          "accn": "0001193125-10-012085"
+        }
+      },
+      "forms_seen": [
+        "10-Q"
+      ],
+      "latest_filed": "2010-01-25"
+    },
+    {
+      "period_end": "2009-12-26",
+      "period_type": "quarterly",
+      "metrics": {
+        "gross_profit": 6411000000,
+        "operating_income": 4725000000,
+        "net_income": 3378000000,
+        "operating_cash_flow": 5781000000,
+        "share_based_compensation": 205000000,
+        "cash_and_equivalents": 7609000000,
+        "current_assets": 33332000000,
+        "total_assets": 53926000000,
+        "current_liabilities": 13097000000,
+        "stockholders_equity": 35768000000,
+        "retained_earnings": 26695000000,
+        "diluted_weighted_shares": 919783000
+      },
+      "sources": {
+        "gross_profit": {
+          "form": "10-Q",
+          "filed": "2011-01-19",
+          "fy": 2011,
+          "fp": "Q1",
+          "frame": null,
+          "accn": "0001193125-11-010144"
+        },
+        "operating_income": {
+          "form": "10-Q",
+          "filed": "2011-01-19",
+          "fy": 2011,
+          "fp": "Q1",
+          "frame": "CY2009Q4",
+          "accn": "0001193125-11-010144"
+        },
+        "net_income": {
+          "form": "10-Q",
+          "filed": "2011-01-19",
+          "fy": 2011,
+          "fp": "Q1",
+          "frame": null,
+          "accn": "0001193125-11-010144"
+        },
+        "operating_cash_flow": {
+          "form": "10-Q",
+          "filed": "2011-01-19",
+          "fy": 2011,
+          "fp": "Q1",
+          "frame": "CY2009Q4",
+          "accn": "0001193125-11-010144"
+        },
+        "share_based_compensation": {
+          "form": "10-Q",
+          "filed": "2011-01-19",
+          "fy": 2011,
+          "fp": "Q1",
+          "frame": "CY2009Q4",
+          "accn": "0001193125-11-010144"
+        },
+        "cash_and_equivalents": {
+          "form": "10-Q",
+          "filed": "2011-01-19",
+          "fy": 2011,
+          "fp": "Q1",
+          "frame": "CY2009Q4I",
+          "accn": "0001193125-11-010144"
+        },
+        "current_assets": {
+          "form": "10-Q",
+          "filed": "2010-01-25",
+          "fy": 2010,
+          "fp": "Q1",
+          "frame": "CY2009Q4I",
+          "accn": "0001193125-10-012085"
+        },
+        "total_assets": {
+          "form": "10-Q",
+          "filed": "2010-01-25",
+          "fy": 2010,
+          "fp": "Q1",
+          "frame": "CY2009Q4I",
+          "accn": "0001193125-10-012085"
+        },
+        "current_liabilities": {
+          "form": "10-Q",
+          "filed": "2010-01-25",
+          "fy": 2010,
+          "fp": "Q1",
+          "frame": "CY2009Q4I",
+          "accn": "0001193125-10-012085"
+        },
+        "stockholders_equity": {
+          "form": "10-Q",
+          "filed": "2010-01-25",
+          "fy": 2010,
+          "fp": "Q1",
+          "frame": "CY2009Q4I",
+          "accn": "0001193125-10-012085"
+        },
+        "retained_earnings": {
+          "form": "10-Q",
+          "filed": "2010-01-25",
+          "fy": 2010,
+          "fp": "Q1",
+          "frame": "CY2009Q4I",
+          "accn": "0001193125-10-012085"
+        },
+        "diluted_weighted_shares": {
+          "form": "10-Q",
+          "filed": "2011-01-19",
+          "fy": 2011,
+          "fp": "Q1",
+          "frame": "CY2009Q4",
+          "accn": "0001193125-11-010144"
+        }
+      },
+      "forms_seen": [
+        "10-Q"
+      ],
+      "latest_filed": "2011-01-19"
+    },
+    {
+      "period_end": "2010-12-25",
+      "period_type": "quarterly",
+      "metrics": {
+        "gross_profit": 10298000000,
+        "operating_income": 7827000000,
+        "net_income": 6004000000,
+        "operating_cash_flow": 9773000000,
+        "share_based_compensation": 299000000,
+        "cash_and_equivalents": 10734000000,
+        "current_assets": 43927000000,
+        "total_assets": 86742000000,
+        "current_liabilities": 23795000000,
+        "stockholders_equity": 54666000000,
+        "retained_earnings": 43050000000,
+        "diluted_weighted_shares": 933154000
+      },
+      "sources": {
+        "gross_profit": {
+          "form": "10-Q",
+          "filed": "2012-01-25",
+          "fy": 2012,
+          "fp": "Q1",
+          "frame": null,
+          "accn": "0001193125-12-023398"
+        },
+        "operating_income": {
+          "form": "10-Q",
+          "filed": "2012-01-25",
+          "fy": 2012,
+          "fp": "Q1",
+          "frame": "CY2010Q4",
+          "accn": "0001193125-12-023398"
+        },
+        "net_income": {
+          "form": "10-Q",
+          "filed": "2012-01-25",
+          "fy": 2012,
+          "fp": "Q1",
+          "frame": null,
+          "accn": "0001193125-12-023398"
+        },
+        "operating_cash_flow": {
+          "form": "10-Q",
+          "filed": "2012-01-25",
+          "fy": 2012,
+          "fp": "Q1",
+          "frame": "CY2010Q4",
+          "accn": "0001193125-12-023398"
+        },
+        "share_based_compensation": {
+          "form": "10-Q",
+          "filed": "2012-01-25",
+          "fy": 2012,
+          "fp": "Q1",
+          "frame": "CY2010Q4",
+          "accn": "0001193125-12-023398"
+        },
+        "cash_and_equivalents": {
+          "form": "10-Q",
+          "filed": "2012-01-25",
+          "fy": 2012,
+          "fp": "Q1",
+          "frame": "CY2010Q4I",
+          "accn": "0001193125-12-023398"
+        },
+        "current_assets": {
+          "form": "10-Q",
+          "filed": "2011-01-19",
+          "fy": 2011,
+          "fp": "Q1",
+          "frame": "CY2010Q4I",
+          "accn": "0001193125-11-010144"
+        },
+        "total_assets": {
+          "form": "10-Q",
+          "filed": "2011-01-19",
+          "fy": 2011,
+          "fp": "Q1",
+          "frame": "CY2010Q4I",
+          "accn": "0001193125-11-010144"
+        },
+        "current_liabilities": {
+          "form": "10-Q",
+          "filed": "2011-01-19",
+          "fy": 2011,
+          "fp": "Q1",
+          "frame": "CY2010Q4I",
+          "accn": "0001193125-11-010144"
+        },
+        "stockholders_equity": {
+          "form": "10-Q",
+          "filed": "2011-01-19",
+          "fy": 2011,
+          "fp": "Q1",
+          "frame": "CY2010Q4I",
+          "accn": "0001193125-11-010144"
+        },
+        "retained_earnings": {
+          "form": "10-Q",
+          "filed": "2011-01-19",
+          "fy": 2011,
+          "fp": "Q1",
+          "frame": "CY2010Q4I",
+          "accn": "0001193125-11-010144"
+        },
+        "diluted_weighted_shares": {
+          "form": "10-Q",
+          "filed": "2012-01-25",
+          "fy": 2012,
+          "fp": "Q1",
+          "frame": "CY2010Q4",
+          "accn": "0001193125-12-023398"
+        }
+      },
+      "forms_seen": [
+        "10-Q"
+      ],
+      "latest_filed": "2012-01-25"
+    },
+    {
+      "period_end": "2011-12-31",
+      "period_type": "quarterly",
+      "metrics": {
+        "gross_profit": 20703000000,
+        "operating_income": 17340000000,
+        "net_income": 13064000000,
+        "operating_cash_flow": 17554000000,
+        "share_based_compensation": 420000000,
+        "dividends_paid": 0,
+        "buybacks": 0,
+        "cash_and_equivalents": 10310000000,
+        "current_assets": 54771000000,
+        "total_assets": 138681000000,
+        "current_liabilities": 34607000000,
+        "stockholders_equity": 90054000000,
+        "retained_earnings": 75709000000,
+        "diluted_weighted_shares": 941572000
+      },
+      "sources": {
+        "gross_profit": {
+          "form": "10-Q",
+          "filed": "2013-01-24",
+          "fy": 2013,
+          "fp": "Q1",
+          "frame": null,
+          "accn": "0001193125-13-022339"
+        },
+        "operating_income": {
+          "form": "10-Q",
+          "filed": "2013-01-24",
+          "fy": 2013,
+          "fp": "Q1",
+          "frame": "CY2011Q4",
+          "accn": "0001193125-13-022339"
+        },
+        "net_income": {
+          "form": "10-Q",
+          "filed": "2013-01-24",
+          "fy": 2013,
+          "fp": "Q1",
+          "frame": null,
+          "accn": "0001193125-13-022339"
+        },
+        "operating_cash_flow": {
+          "form": "10-Q",
+          "filed": "2013-01-24",
+          "fy": 2013,
+          "fp": "Q1",
+          "frame": "CY2011Q4",
+          "accn": "0001193125-13-022339"
+        },
+        "share_based_compensation": {
+          "form": "10-Q",
+          "filed": "2013-01-24",
+          "fy": 2013,
+          "fp": "Q1",
+          "frame": "CY2011Q4",
+          "accn": "0001193125-13-022339"
+        },
+        "dividends_paid": {
+          "form": "10-Q",
+          "filed": "2013-07-24",
+          "fy": 2013,
+          "fp": "Q3",
+          "frame": "CY2011Q4",
+          "accn": "0001193125-13-300670"
+        },
+        "buybacks": {
+          "form": "10-Q",
+          "filed": "2013-01-24",
+          "fy": 2013,
+          "fp": "Q1",
+          "frame": "CY2011Q4",
+          "accn": "0001193125-13-022339"
+        },
+        "cash_and_equivalents": {
+          "form": "10-Q",
+          "filed": "2013-01-24",
+          "fy": 2013,
+          "fp": "Q1",
+          "frame": "CY2011Q4I",
+          "accn": "0001193125-13-022339"
+        },
+        "current_assets": {
+          "form": "10-Q",
+          "filed": "2012-01-25",
+          "fy": 2012,
+          "fp": "Q1",
+          "frame": "CY2011Q4I",
+          "accn": "0001193125-12-023398"
+        },
+        "total_assets": {
+          "form": "10-Q",
+          "filed": "2012-01-25",
+          "fy": 2012,
+          "fp": "Q1",
+          "frame": "CY2011Q4I",
+          "accn": "0001193125-12-023398"
+        },
+        "current_liabilities": {
+          "form": "10-Q",
+          "filed": "2012-01-25",
+          "fy": 2012,
+          "fp": "Q1",
+          "frame": "CY2011Q4I",
+          "accn": "0001193125-12-023398"
+        },
+        "stockholders_equity": {
+          "form": "10-Q",
+          "filed": "2012-01-25",
+          "fy": 2012,
+          "fp": "Q1",
+          "frame": "CY2011Q4I",
+          "accn": "0001193125-12-023398"
+        },
+        "retained_earnings": {
+          "form": "10-Q",
+          "filed": "2012-01-25",
+          "fy": 2012,
+          "fp": "Q1",
+          "frame": "CY2011Q4I",
+          "accn": "0001193125-12-023398"
+        },
+        "diluted_weighted_shares": {
+          "form": "10-Q",
+          "filed": "2013-01-24",
+          "fy": 2013,
+          "fp": "Q1",
+          "frame": "CY2011Q4",
+          "accn": "0001193125-13-022339"
+        }
+      },
+      "forms_seen": [
+        "10-Q"
+      ],
+      "latest_filed": "2013-07-24"
+    },
+    {
+      "period_end": "2012-12-29",
+      "period_type": "quarterly",
+      "metrics": {
+        "gross_profit": 21060000000,
+        "operating_income": 17210000000,
+        "net_income": 13078000000,
+        "operating_cash_flow": 23426000000,
+        "share_based_compensation": 545000000,
+        "dividends_paid": 2486000000,
+        "buybacks": 1950000000,
+        "cash_and_equivalents": 16154000000,
+        "current_assets": 72348000000,
+        "total_assets": 196088000000,
+        "current_liabilities": 46879000000,
+        "stockholders_equity": 127346000000,
+        "retained_earnings": 109567000000,
+        "diluted_weighted_shares": 947217000
+      },
+      "sources": {
+        "gross_profit": {
+          "form": "10-Q",
+          "filed": "2014-01-28",
+          "fy": 2014,
+          "fp": "Q1",
+          "frame": null,
+          "accn": "0001193125-14-024487"
+        },
+        "operating_income": {
+          "form": "10-Q",
+          "filed": "2014-01-28",
+          "fy": 2014,
+          "fp": "Q1",
+          "frame": "CY2012Q4",
+          "accn": "0001193125-14-024487"
+        },
+        "net_income": {
+          "form": "10-Q",
+          "filed": "2014-01-28",
+          "fy": 2014,
+          "fp": "Q1",
+          "frame": null,
+          "accn": "0001193125-14-024487"
+        },
+        "operating_cash_flow": {
+          "form": "10-Q",
+          "filed": "2014-01-28",
+          "fy": 2014,
+          "fp": "Q1",
+          "frame": "CY2012Q4",
+          "accn": "0001193125-14-024487"
+        },
+        "share_based_compensation": {
+          "form": "10-Q",
+          "filed": "2014-01-28",
+          "fy": 2014,
+          "fp": "Q1",
+          "frame": "CY2012Q4",
+          "accn": "0001193125-14-024487"
+        },
+        "dividends_paid": {
+          "form": "10-Q",
+          "filed": "2014-07-23",
+          "fy": 2014,
+          "fp": "Q3",
+          "frame": null,
+          "accn": "0001193125-14-277160"
+        },
+        "buybacks": {
+          "form": "10-Q",
+          "filed": "2014-01-28",
+          "fy": 2014,
+          "fp": "Q1",
+          "frame": "CY2012Q4",
+          "accn": "0001193125-14-024487"
+        },
+        "cash_and_equivalents": {
+          "form": "10-Q",
+          "filed": "2014-01-28",
+          "fy": 2014,
+          "fp": "Q1",
+          "frame": "CY2012Q4I",
+          "accn": "0001193125-14-024487"
+        },
+        "current_assets": {
+          "form": "10-Q",
+          "filed": "2013-01-24",
+          "fy": 2013,
+          "fp": "Q1",
+          "frame": "CY2012Q4I",
+          "accn": "0001193125-13-022339"
+        },
+        "total_assets": {
+          "form": "10-Q",
+          "filed": "2013-01-24",
+          "fy": 2013,
+          "fp": "Q1",
+          "frame": "CY2012Q4I",
+          "accn": "0001193125-13-022339"
+        },
+        "current_liabilities": {
+          "form": "10-Q",
+          "filed": "2013-01-24",
+          "fy": 2013,
+          "fp": "Q1",
+          "frame": "CY2012Q4I",
+          "accn": "0001193125-13-022339"
+        },
+        "stockholders_equity": {
+          "form": "10-Q",
+          "filed": "2013-01-24",
+          "fy": 2013,
+          "fp": "Q1",
+          "frame": "CY2012Q4I",
+          "accn": "0001193125-13-022339"
+        },
+        "retained_earnings": {
+          "form": "10-Q",
+          "filed": "2013-01-24",
+          "fy": 2013,
+          "fp": "Q1",
+          "frame": "CY2012Q4I",
+          "accn": "0001193125-13-022339"
+        },
+        "diluted_weighted_shares": {
+          "form": "10-Q",
+          "filed": "2014-01-28",
+          "fy": 2014,
+          "fp": "Q1",
+          "frame": "CY2012Q4",
+          "accn": "0001193125-14-024487"
+        }
+      },
+      "forms_seen": [
+        "10-Q"
+      ],
+      "latest_filed": "2014-07-23"
+    },
+    {
+      "period_end": "2013-12-28",
+      "period_type": "quarterly",
+      "metrics": {
+        "gross_profit": 21846000000,
+        "operating_income": 17463000000,
+        "net_income": 13072000000,
+        "operating_cash_flow": 22670000000,
+        "capex": 1985000000,
+        "share_based_compensation": 681000000,
+        "dividends_paid": 2739000000,
+        "buybacks": 5029000000,
+        "cash_and_equivalents": 14077000000,
+        "current_assets": 80347000000,
+        "total_assets": 225184000000,
+        "current_liabilities": 53769000000,
+        "stockholders_equity": 129684000000,
+        "retained_earnings": 109431000000,
+        "diluted_weighted_shares": 6310161000
+      },
+      "sources": {
+        "gross_profit": {
+          "form": "10-Q",
+          "filed": "2015-01-28",
+          "fy": 2015,
+          "fp": "Q1",
+          "frame": null,
+          "accn": "0001193125-15-023697"
+        },
+        "operating_income": {
+          "form": "10-Q",
+          "filed": "2015-01-28",
+          "fy": 2015,
+          "fp": "Q1",
+          "frame": "CY2013Q4",
+          "accn": "0001193125-15-023697"
+        },
+        "net_income": {
+          "form": "10-Q",
+          "filed": "2015-01-28",
+          "fy": 2015,
+          "fp": "Q1",
+          "frame": null,
+          "accn": "0001193125-15-023697"
+        },
+        "operating_cash_flow": {
+          "form": "10-Q",
+          "filed": "2014-01-28",
+          "fy": 2014,
+          "fp": "Q1",
+          "frame": "CY2013Q4",
+          "accn": "0001193125-14-024487"
+        },
+        "capex": {
+          "form": "10-Q",
+          "filed": "2015-01-28",
+          "fy": 2015,
+          "fp": "Q1",
+          "frame": "CY2013Q4",
+          "accn": "0001193125-15-023697"
+        },
+        "share_based_compensation": {
+          "form": "10-Q",
+          "filed": "2015-01-28",
+          "fy": 2015,
+          "fp": "Q1",
+          "frame": "CY2013Q4",
+          "accn": "0001193125-15-023697"
+        },
+        "dividends_paid": {
+          "form": "10-Q",
+          "filed": "2015-07-22",
+          "fy": 2015,
+          "fp": "Q3",
+          "frame": null,
+          "accn": "0001193125-15-259935"
+        },
+        "buybacks": {
+          "form": "10-Q",
+          "filed": "2015-01-28",
+          "fy": 2015,
+          "fp": "Q1",
+          "frame": "CY2013Q4",
+          "accn": "0001193125-15-023697"
+        },
+        "cash_and_equivalents": {
+          "form": "10-Q",
+          "filed": "2015-01-28",
+          "fy": 2015,
+          "fp": "Q1",
+          "frame": "CY2013Q4I",
+          "accn": "0001193125-15-023697"
+        },
+        "current_assets": {
+          "form": "10-Q",
+          "filed": "2014-01-28",
+          "fy": 2014,
+          "fp": "Q1",
+          "frame": "CY2013Q4I",
+          "accn": "0001193125-14-024487"
+        },
+        "total_assets": {
+          "form": "10-Q",
+          "filed": "2014-01-28",
+          "fy": 2014,
+          "fp": "Q1",
+          "frame": "CY2013Q4I",
+          "accn": "0001193125-14-024487"
+        },
+        "current_liabilities": {
+          "form": "10-Q",
+          "filed": "2014-01-28",
+          "fy": 2014,
+          "fp": "Q1",
+          "frame": "CY2013Q4I",
+          "accn": "0001193125-14-024487"
+        },
+        "stockholders_equity": {
+          "form": "10-Q",
+          "filed": "2014-01-28",
+          "fy": 2014,
+          "fp": "Q1",
+          "frame": "CY2013Q4I",
+          "accn": "0001193125-14-024487"
+        },
+        "retained_earnings": {
+          "form": "10-Q",
+          "filed": "2014-01-28",
+          "fy": 2014,
+          "fp": "Q1",
+          "frame": "CY2013Q4I",
+          "accn": "0001193125-14-024487"
+        },
+        "diluted_weighted_shares": {
+          "form": "10-Q",
+          "filed": "2015-01-28",
+          "fy": 2015,
+          "fp": "Q1",
+          "frame": "CY2013Q4",
+          "accn": "0001193125-15-023697"
+        }
+      },
+      "forms_seen": [
+        "10-Q"
+      ],
+      "latest_filed": "2015-07-22"
+    },
+    {
+      "period_end": "2014-12-27",
+      "period_type": "quarterly",
+      "metrics": {
+        "gross_profit": 29741000000,
+        "operating_income": 24246000000,
+        "net_income": 18024000000,
+        "capex": 3217000000,
+        "share_based_compensation": 888000000,
+        "dividends_paid": 2750000000,
+        "buybacks": 5030000000,
+        "cash_and_equivalents": 19478000000,
+        "current_assets": 83403000000,
+        "total_assets": 261894000000,
+        "current_liabilities": 73611000000,
+        "stockholders_equity": 123328000000,
+        "retained_earnings": 97178000000,
+        "diluted_weighted_shares": 5881803000
+      },
+      "sources": {
+        "gross_profit": {
+          "form": "10-Q",
+          "filed": "2016-01-27",
+          "fy": 2016,
+          "fp": "Q1",
+          "frame": null,
+          "accn": "0001193125-16-439878"
+        },
+        "operating_income": {
+          "form": "10-Q",
+          "filed": "2016-01-27",
+          "fy": 2016,
+          "fp": "Q1",
+          "frame": "CY2014Q4",
+          "accn": "0001193125-16-439878"
+        },
+        "net_income": {
+          "form": "10-Q",
+          "filed": "2016-01-27",
+          "fy": 2016,
+          "fp": "Q1",
+          "frame": null,
+          "accn": "0001193125-16-439878"
+        },
+        "capex": {
+          "form": "10-Q",
+          "filed": "2016-01-27",
+          "fy": 2016,
+          "fp": "Q1",
+          "frame": "CY2014Q4",
+          "accn": "0001193125-16-439878"
+        },
+        "share_based_compensation": {
+          "form": "10-Q",
+          "filed": "2016-01-27",
+          "fy": 2016,
+          "fp": "Q1",
+          "frame": "CY2014Q4",
+          "accn": "0001193125-16-439878"
+        },
+        "dividends_paid": {
+          "form": "10-Q",
+          "filed": "2016-07-27",
+          "fy": 2016,
+          "fp": "Q3",
+          "frame": null,
+          "accn": "0001628280-16-017809"
+        },
+        "buybacks": {
+          "form": "10-Q",
+          "filed": "2016-01-27",
+          "fy": 2016,
+          "fp": "Q1",
+          "frame": "CY2014Q4",
+          "accn": "0001193125-16-439878"
+        },
+        "cash_and_equivalents": {
+          "form": "10-Q",
+          "filed": "2016-01-27",
+          "fy": 2016,
+          "fp": "Q1",
+          "frame": "CY2014Q4I",
+          "accn": "0001193125-16-439878"
+        },
+        "current_assets": {
+          "form": "10-Q",
+          "filed": "2015-01-28",
+          "fy": 2015,
+          "fp": "Q1",
+          "frame": "CY2014Q4I",
+          "accn": "0001193125-15-023697"
+        },
+        "total_assets": {
+          "form": "10-Q",
+          "filed": "2015-01-28",
+          "fy": 2015,
+          "fp": "Q1",
+          "frame": "CY2014Q4I",
+          "accn": "0001193125-15-023697"
+        },
+        "current_liabilities": {
+          "form": "10-Q",
+          "filed": "2015-01-28",
+          "fy": 2015,
+          "fp": "Q1",
+          "frame": "CY2014Q4I",
+          "accn": "0001193125-15-023697"
+        },
+        "stockholders_equity": {
+          "form": "10-Q",
+          "filed": "2015-01-28",
+          "fy": 2015,
+          "fp": "Q1",
+          "frame": "CY2014Q4I",
+          "accn": "0001193125-15-023697"
+        },
+        "retained_earnings": {
+          "form": "10-Q",
+          "filed": "2015-01-28",
+          "fy": 2015,
+          "fp": "Q1",
+          "frame": "CY2014Q4I",
+          "accn": "0001193125-15-023697"
+        },
+        "diluted_weighted_shares": {
+          "form": "10-Q",
+          "filed": "2016-01-27",
+          "fy": 2016,
+          "fp": "Q1",
+          "frame": "CY2014Q4",
+          "accn": "0001193125-16-439878"
+        }
+      },
+      "forms_seen": [
+        "10-Q"
+      ],
+      "latest_filed": "2016-07-27"
+    },
+    {
+      "period_end": "2015-12-26",
+      "period_type": "quarterly",
+      "metrics": {
+        "gross_profit": 30423000000,
+        "operating_income": 24171000000,
+        "net_income": 18361000000,
+        "capex": 3612000000,
+        "share_based_compensation": 1078000000,
+        "dividends_paid": 2898000000,
+        "buybacks": 6863000000,
+        "cash_and_equivalents": 16689000000,
+        "current_assets": 76219000000,
+        "total_assets": 293284000000,
+        "current_liabilities": 76092000000,
+        "long_term_debt": 53204000000,
+        "stockholders_equity": 128267000000,
+        "retained_earnings": 101494000000,
+        "diluted_weighted_shares": 5594127000
+      },
+      "sources": {
+        "gross_profit": {
+          "form": "10-Q",
+          "filed": "2017-02-01",
+          "fy": 2017,
+          "fp": "Q1",
+          "frame": null,
+          "accn": "0001628280-17-000717"
+        },
+        "operating_income": {
+          "form": "10-Q",
+          "filed": "2017-02-01",
+          "fy": 2017,
+          "fp": "Q1",
+          "frame": "CY2015Q4",
+          "accn": "0001628280-17-000717"
+        },
+        "net_income": {
+          "form": "10-Q",
+          "filed": "2017-02-01",
+          "fy": 2017,
+          "fp": "Q1",
+          "frame": null,
+          "accn": "0001628280-17-000717"
+        },
+        "capex": {
+          "form": "10-Q",
+          "filed": "2017-02-01",
+          "fy": 2017,
+          "fp": "Q1",
+          "frame": "CY2015Q4",
+          "accn": "0001628280-17-000717"
+        },
+        "share_based_compensation": {
+          "form": "10-Q",
+          "filed": "2017-02-01",
+          "fy": 2017,
+          "fp": "Q1",
+          "frame": "CY2015Q4",
+          "accn": "0001628280-17-000717"
+        },
+        "dividends_paid": {
+          "form": "10-Q",
+          "filed": "2017-05-03",
+          "fy": 2017,
+          "fp": "Q2",
+          "frame": "CY2015Q4",
+          "accn": "0001628280-17-004790"
+        },
+        "buybacks": {
+          "form": "10-Q",
+          "filed": "2017-02-01",
+          "fy": 2017,
+          "fp": "Q1",
+          "frame": "CY2015Q4",
+          "accn": "0001628280-17-000717"
+        },
+        "cash_and_equivalents": {
+          "form": "10-Q",
+          "filed": "2017-02-01",
+          "fy": 2017,
+          "fp": "Q1",
+          "frame": "CY2015Q4I",
+          "accn": "0001628280-17-000717"
+        },
+        "current_assets": {
+          "form": "10-Q",
+          "filed": "2016-01-27",
+          "fy": 2016,
+          "fp": "Q1",
+          "frame": "CY2015Q4I",
+          "accn": "0001193125-16-439878"
+        },
+        "total_assets": {
+          "form": "10-Q",
+          "filed": "2016-01-27",
+          "fy": 2016,
+          "fp": "Q1",
+          "frame": "CY2015Q4I",
+          "accn": "0001193125-16-439878"
+        },
+        "current_liabilities": {
+          "form": "10-Q",
+          "filed": "2016-01-27",
+          "fy": 2016,
+          "fp": "Q1",
+          "frame": "CY2015Q4I",
+          "accn": "0001193125-16-439878"
+        },
+        "long_term_debt": {
+          "form": "10-Q",
+          "filed": "2016-01-27",
+          "fy": 2016,
+          "fp": "Q1",
+          "frame": "CY2015Q4I",
+          "accn": "0001193125-16-439878"
+        },
+        "stockholders_equity": {
+          "form": "10-Q",
+          "filed": "2016-01-27",
+          "fy": 2016,
+          "fp": "Q1",
+          "frame": "CY2015Q4I",
+          "accn": "0001193125-16-439878"
+        },
+        "retained_earnings": {
+          "form": "10-Q",
+          "filed": "2016-01-27",
+          "fy": 2016,
+          "fp": "Q1",
+          "frame": "CY2015Q4I",
+          "accn": "0001193125-16-439878"
+        },
+        "diluted_weighted_shares": {
+          "form": "10-Q",
+          "filed": "2017-02-01",
+          "fy": 2017,
+          "fp": "Q1",
+          "frame": "CY2015Q4",
+          "accn": "0001628280-17-000717"
+        }
+      },
+      "forms_seen": [
+        "10-Q"
+      ],
+      "latest_filed": "2017-05-03"
+    },
+    {
+      "period_end": "2016-12-31",
+      "period_type": "quarterly",
+      "metrics": {
+        "gross_profit": 30176000000,
+        "operating_income": 23359000000,
+        "net_income": 17891000000,
+        "operating_cash_flow": 27234000000,
+        "capex": 3334000000,
+        "share_based_compensation": 1256000000,
+        "dividends_paid": 3130000000,
+        "buybacks": 10851000000,
+        "cash_and_equivalents": 16371000000,
+        "current_assets": 103332000000,
+        "total_assets": 331141000000,
+        "current_liabilities": 84130000000,
+        "long_term_debt": 73557000000,
+        "stockholders_equity": 132390000000,
+        "retained_earnings": 100001000000,
+        "diluted_weighted_shares": 5327995000
+      },
+      "sources": {
+        "gross_profit": {
+          "form": "10-Q",
+          "filed": "2018-02-02",
+          "fy": 2018,
+          "fp": "Q1",
+          "frame": null,
+          "accn": "0000320193-18-000007"
+        },
+        "operating_income": {
+          "form": "10-Q",
+          "filed": "2018-02-02",
+          "fy": 2018,
+          "fp": "Q1",
+          "frame": "CY2016Q4",
+          "accn": "0000320193-18-000007"
+        },
+        "net_income": {
+          "form": "10-Q",
+          "filed": "2018-02-02",
+          "fy": 2018,
+          "fp": "Q1",
+          "frame": null,
+          "accn": "0000320193-18-000007"
+        },
+        "operating_cash_flow": {
+          "form": "10-Q",
+          "filed": "2018-02-02",
+          "fy": 2018,
+          "fp": "Q1",
+          "frame": "CY2016Q4",
+          "accn": "0000320193-18-000007"
+        },
+        "capex": {
+          "form": "10-Q",
+          "filed": "2018-02-02",
+          "fy": 2018,
+          "fp": "Q1",
+          "frame": "CY2016Q4",
+          "accn": "0000320193-18-000007"
+        },
+        "share_based_compensation": {
+          "form": "10-Q",
+          "filed": "2018-02-02",
+          "fy": 2018,
+          "fp": "Q1",
+          "frame": "CY2016Q4",
+          "accn": "0000320193-18-000007"
+        },
+        "dividends_paid": {
+          "form": "10-Q",
+          "filed": "2018-02-02",
+          "fy": 2018,
+          "fp": "Q1",
+          "frame": "CY2016Q4",
+          "accn": "0000320193-18-000007"
+        },
+        "buybacks": {
+          "form": "10-Q",
+          "filed": "2018-02-02",
+          "fy": 2018,
+          "fp": "Q1",
+          "frame": "CY2016Q4",
+          "accn": "0000320193-18-000007"
+        },
+        "cash_and_equivalents": {
+          "form": "10-Q",
+          "filed": "2018-02-02",
+          "fy": 2018,
+          "fp": "Q1",
+          "frame": "CY2016Q4I",
+          "accn": "0000320193-18-000007"
+        },
+        "current_assets": {
+          "form": "10-Q",
+          "filed": "2017-02-01",
+          "fy": 2017,
+          "fp": "Q1",
+          "frame": "CY2016Q4I",
+          "accn": "0001628280-17-000717"
+        },
+        "total_assets": {
+          "form": "10-Q",
+          "filed": "2017-02-01",
+          "fy": 2017,
+          "fp": "Q1",
+          "frame": "CY2016Q4I",
+          "accn": "0001628280-17-000717"
+        },
+        "current_liabilities": {
+          "form": "10-Q",
+          "filed": "2017-02-01",
+          "fy": 2017,
+          "fp": "Q1",
+          "frame": "CY2016Q4I",
+          "accn": "0001628280-17-000717"
+        },
+        "long_term_debt": {
+          "form": "10-Q",
+          "filed": "2017-02-01",
+          "fy": 2017,
+          "fp": "Q1",
+          "frame": "CY2016Q4I",
+          "accn": "0001628280-17-000717"
+        },
+        "stockholders_equity": {
+          "form": "10-Q",
+          "filed": "2017-02-01",
+          "fy": 2017,
+          "fp": "Q1",
+          "frame": "CY2016Q4I",
+          "accn": "0001628280-17-000717"
+        },
+        "retained_earnings": {
+          "form": "10-Q",
+          "filed": "2017-02-01",
+          "fy": 2017,
+          "fp": "Q1",
+          "frame": "CY2016Q4I",
+          "accn": "0001628280-17-000717"
+        },
+        "diluted_weighted_shares": {
+          "form": "10-Q",
+          "filed": "2018-02-02",
+          "fy": 2018,
+          "fp": "Q1",
+          "frame": "CY2016Q4",
+          "accn": "0000320193-18-000007"
+        }
+      },
+      "forms_seen": [
+        "10-Q"
+      ],
+      "latest_filed": "2018-02-02"
+    },
+    {
+      "period_end": "2017-12-30",
+      "period_type": "quarterly",
+      "metrics": {
+        "revenue": 88293000000,
+        "gross_profit": 33912000000,
+        "operating_income": 26274000000,
+        "net_income": 20065000000,
+        "operating_cash_flow": 28293000000,
+        "capex": 2810000000,
+        "share_based_compensation": 1296000000,
+        "dividends_paid": 3339000000,
+        "buybacks": 10095000000,
+        "cash_and_equivalents": 27491000000,
+        "current_assets": 143810000000,
+        "total_assets": 406794000000,
+        "current_liabilities": 115788000000,
+        "long_term_debt": 103922000000,
+        "stockholders_equity": 140199000000,
+        "retained_earnings": 104593000000,
+        "diluted_weighted_shares": 5157787000
+      },
+      "sources": {
+        "revenue": {
+          "form": "10-Q",
+          "filed": "2019-01-30",
+          "fy": 2019,
+          "fp": "Q1",
+          "frame": null,
+          "accn": "0000320193-19-000010"
+        },
+        "gross_profit": {
+          "form": "10-Q",
+          "filed": "2019-01-30",
+          "fy": 2019,
+          "fp": "Q1",
+          "frame": null,
+          "accn": "0000320193-19-000010"
+        },
+        "operating_income": {
+          "form": "10-Q",
+          "filed": "2019-01-30",
+          "fy": 2019,
+          "fp": "Q1",
+          "frame": "CY2017Q4",
+          "accn": "0000320193-19-000010"
+        },
+        "net_income": {
+          "form": "10-Q",
+          "filed": "2019-01-30",
+          "fy": 2019,
+          "fp": "Q1",
+          "frame": null,
+          "accn": "0000320193-19-000010"
+        },
+        "operating_cash_flow": {
+          "form": "10-Q",
+          "filed": "2019-01-30",
+          "fy": 2019,
+          "fp": "Q1",
+          "frame": "CY2017Q4",
+          "accn": "0000320193-19-000010"
+        },
+        "capex": {
+          "form": "10-Q",
+          "filed": "2019-01-30",
+          "fy": 2019,
+          "fp": "Q1",
+          "frame": "CY2017Q4",
+          "accn": "0000320193-19-000010"
+        },
+        "share_based_compensation": {
+          "form": "10-Q",
+          "filed": "2019-01-30",
+          "fy": 2019,
+          "fp": "Q1",
+          "frame": "CY2017Q4",
+          "accn": "0000320193-19-000010"
+        },
+        "dividends_paid": {
+          "form": "10-Q",
+          "filed": "2019-01-30",
+          "fy": 2019,
+          "fp": "Q1",
+          "frame": "CY2017Q4",
+          "accn": "0000320193-19-000010"
+        },
+        "buybacks": {
+          "form": "10-Q",
+          "filed": "2019-01-30",
+          "fy": 2019,
+          "fp": "Q1",
+          "frame": "CY2017Q4",
+          "accn": "0000320193-19-000010"
+        },
+        "cash_and_equivalents": {
+          "form": "10-Q",
+          "filed": "2019-01-30",
+          "fy": 2019,
+          "fp": "Q1",
+          "frame": "CY2017Q4I",
+          "accn": "0000320193-19-000010"
+        },
+        "current_assets": {
+          "form": "10-Q",
+          "filed": "2018-02-02",
+          "fy": 2018,
+          "fp": "Q1",
+          "frame": "CY2017Q4I",
+          "accn": "0000320193-18-000007"
+        },
+        "total_assets": {
+          "form": "10-Q",
+          "filed": "2018-02-02",
+          "fy": 2018,
+          "fp": "Q1",
+          "frame": "CY2017Q4I",
+          "accn": "0000320193-18-000007"
+        },
+        "current_liabilities": {
+          "form": "10-Q",
+          "filed": "2018-02-02",
+          "fy": 2018,
+          "fp": "Q1",
+          "frame": "CY2017Q4I",
+          "accn": "0000320193-18-000007"
+        },
+        "long_term_debt": {
+          "form": "10-Q",
+          "filed": "2018-02-02",
+          "fy": 2018,
+          "fp": "Q1",
+          "frame": "CY2017Q4I",
+          "accn": "0000320193-18-000007"
+        },
+        "stockholders_equity": {
+          "form": "10-Q",
+          "filed": "2019-05-01",
+          "fy": 2019,
+          "fp": "Q2",
+          "frame": "CY2017Q4I",
+          "accn": "0000320193-19-000066"
+        },
+        "retained_earnings": {
+          "form": "10-Q",
+          "filed": "2018-02-02",
+          "fy": 2018,
+          "fp": "Q1",
+          "frame": "CY2017Q4I",
+          "accn": "0000320193-18-000007"
+        },
+        "diluted_weighted_shares": {
+          "form": "10-Q",
+          "filed": "2019-01-30",
+          "fy": 2019,
+          "fp": "Q1",
+          "frame": "CY2017Q4",
+          "accn": "0000320193-19-000010"
+        }
+      },
+      "forms_seen": [
+        "10-Q"
+      ],
+      "latest_filed": "2019-05-01"
+    },
+    {
+      "period_end": "2018-12-29",
+      "period_type": "quarterly",
+      "metrics": {
+        "revenue": 84310000000,
+        "gross_profit": 32031000000,
+        "operating_income": 23346000000,
+        "net_income": 19965000000,
+        "operating_cash_flow": 26690000000,
+        "capex": 3355000000,
+        "share_based_compensation": 1559000000,
+        "dividends_paid": 3568000000,
+        "buybacks": 8796000000,
+        "cash_and_equivalents": 44771000000,
+        "current_assets": 140828000000,
+        "total_assets": 373719000000,
+        "current_liabilities": 108283000000,
+        "long_term_debt": 92989000000,
+        "stockholders_equity": 117892000000,
+        "retained_earnings": 80510000000,
+        "diluted_weighted_shares": 4773252000
+      },
+      "sources": {
+        "revenue": {
+          "form": "10-Q",
+          "filed": "2020-01-29",
+          "fy": 2020,
+          "fp": "Q1",
+          "frame": null,
+          "accn": "0000320193-20-000010"
+        },
+        "gross_profit": {
+          "form": "10-Q",
+          "filed": "2020-01-29",
+          "fy": 2020,
+          "fp": "Q1",
+          "frame": null,
+          "accn": "0000320193-20-000010"
+        },
+        "operating_income": {
+          "form": "10-Q",
+          "filed": "2020-01-29",
+          "fy": 2020,
+          "fp": "Q1",
+          "frame": "CY2018Q4",
+          "accn": "0000320193-20-000010"
+        },
+        "net_income": {
+          "form": "10-Q",
+          "filed": "2020-01-29",
+          "fy": 2020,
+          "fp": "Q1",
+          "frame": null,
+          "accn": "0000320193-20-000010"
+        },
+        "operating_cash_flow": {
+          "form": "10-Q",
+          "filed": "2020-01-29",
+          "fy": 2020,
+          "fp": "Q1",
+          "frame": "CY2018Q4",
+          "accn": "0000320193-20-000010"
+        },
+        "capex": {
+          "form": "10-Q",
+          "filed": "2020-01-29",
+          "fy": 2020,
+          "fp": "Q1",
+          "frame": "CY2018Q4",
+          "accn": "0000320193-20-000010"
+        },
+        "share_based_compensation": {
+          "form": "10-Q",
+          "filed": "2020-01-29",
+          "fy": 2020,
+          "fp": "Q1",
+          "frame": "CY2018Q4",
+          "accn": "0000320193-20-000010"
+        },
+        "dividends_paid": {
+          "form": "10-Q",
+          "filed": "2020-01-29",
+          "fy": 2020,
+          "fp": "Q1",
+          "frame": "CY2018Q4",
+          "accn": "0000320193-20-000010"
+        },
+        "buybacks": {
+          "form": "10-Q",
+          "filed": "2020-01-29",
+          "fy": 2020,
+          "fp": "Q1",
+          "frame": "CY2018Q4",
+          "accn": "0000320193-20-000010"
+        },
+        "cash_and_equivalents": {
+          "form": "10-Q",
+          "filed": "2019-01-30",
+          "fy": 2019,
+          "fp": "Q1",
+          "frame": "CY2018Q4I",
+          "accn": "0000320193-19-000010"
+        },
+        "current_assets": {
+          "form": "10-Q",
+          "filed": "2019-01-30",
+          "fy": 2019,
+          "fp": "Q1",
+          "frame": "CY2018Q4I",
+          "accn": "0000320193-19-000010"
+        },
+        "total_assets": {
+          "form": "10-Q",
+          "filed": "2019-01-30",
+          "fy": 2019,
+          "fp": "Q1",
+          "frame": "CY2018Q4I",
+          "accn": "0000320193-19-000010"
+        },
+        "current_liabilities": {
+          "form": "10-Q",
+          "filed": "2019-01-30",
+          "fy": 2019,
+          "fp": "Q1",
+          "frame": "CY2018Q4I",
+          "accn": "0000320193-19-000010"
+        },
+        "long_term_debt": {
+          "form": "10-Q",
+          "filed": "2019-01-30",
+          "fy": 2019,
+          "fp": "Q1",
+          "frame": "CY2018Q4I",
+          "accn": "0000320193-19-000010"
+        },
+        "stockholders_equity": {
+          "form": "10-Q",
+          "filed": "2020-05-01",
+          "fy": 2020,
+          "fp": "Q2",
+          "frame": "CY2018Q4I",
+          "accn": "0000320193-20-000052"
+        },
+        "retained_earnings": {
+          "form": "10-Q",
+          "filed": "2019-01-30",
+          "fy": 2019,
+          "fp": "Q1",
+          "frame": "CY2018Q4I",
+          "accn": "0000320193-19-000010"
+        },
+        "diluted_weighted_shares": {
+          "form": "10-Q",
+          "filed": "2020-01-29",
+          "fy": 2020,
+          "fp": "Q1",
+          "frame": "CY2018Q4",
+          "accn": "0000320193-20-000010"
+        }
+      },
+      "forms_seen": [
+        "10-Q"
+      ],
+      "latest_filed": "2020-05-01"
+    },
+    {
+      "period_end": "2019-12-28",
+      "period_type": "quarterly",
+      "metrics": {
+        "revenue": 91819000000,
+        "gross_profit": 35217000000,
+        "operating_income": 25569000000,
+        "net_income": 22236000000,
+        "operating_cash_flow": 30516000000,
+        "capex": 2107000000,
+        "share_based_compensation": 1710000000,
+        "dividends_paid": 3539000000,
+        "buybacks": 20706000000,
+        "cash_and_equivalents": 39771000000,
+        "current_assets": 163231000000,
+        "total_assets": 340618000000,
+        "current_liabilities": 102161000000,
+        "long_term_debt": 93078000000,
+        "stockholders_equity": 89531000000,
+        "retained_earnings": 43977000000,
+        "diluted_weighted_shares": 17818417000
+      },
+      "sources": {
+        "revenue": {
+          "form": "10-Q",
+          "filed": "2021-01-28",
+          "fy": 2021,
+          "fp": "Q1",
+          "frame": "CY2019Q4",
+          "accn": "0000320193-21-000010"
+        },
+        "gross_profit": {
+          "form": "10-Q",
+          "filed": "2021-01-28",
+          "fy": 2021,
+          "fp": "Q1",
+          "frame": "CY2019Q4",
+          "accn": "0000320193-21-000010"
+        },
+        "operating_income": {
+          "form": "10-Q",
+          "filed": "2021-01-28",
+          "fy": 2021,
+          "fp": "Q1",
+          "frame": "CY2019Q4",
+          "accn": "0000320193-21-000010"
+        },
+        "net_income": {
+          "form": "10-Q",
+          "filed": "2021-01-28",
+          "fy": 2021,
+          "fp": "Q1",
+          "frame": "CY2019Q4",
+          "accn": "0000320193-21-000010"
+        },
+        "operating_cash_flow": {
+          "form": "10-Q",
+          "filed": "2021-01-28",
+          "fy": 2021,
+          "fp": "Q1",
+          "frame": "CY2019Q4",
+          "accn": "0000320193-21-000010"
+        },
+        "capex": {
+          "form": "10-Q",
+          "filed": "2021-01-28",
+          "fy": 2021,
+          "fp": "Q1",
+          "frame": "CY2019Q4",
+          "accn": "0000320193-21-000010"
+        },
+        "share_based_compensation": {
+          "form": "10-Q",
+          "filed": "2021-01-28",
+          "fy": 2021,
+          "fp": "Q1",
+          "frame": "CY2019Q4",
+          "accn": "0000320193-21-000010"
+        },
+        "dividends_paid": {
+          "form": "10-Q",
+          "filed": "2021-01-28",
+          "fy": 2021,
+          "fp": "Q1",
+          "frame": "CY2019Q4",
+          "accn": "0000320193-21-000010"
+        },
+        "buybacks": {
+          "form": "10-Q",
+          "filed": "2021-01-28",
+          "fy": 2021,
+          "fp": "Q1",
+          "frame": "CY2019Q4",
+          "accn": "0000320193-21-000010"
+        },
+        "cash_and_equivalents": {
+          "form": "10-Q",
+          "filed": "2020-01-29",
+          "fy": 2020,
+          "fp": "Q1",
+          "frame": "CY2019Q4I",
+          "accn": "0000320193-20-000010"
+        },
+        "current_assets": {
+          "form": "10-Q",
+          "filed": "2020-01-29",
+          "fy": 2020,
+          "fp": "Q1",
+          "frame": "CY2019Q4I",
+          "accn": "0000320193-20-000010"
+        },
+        "total_assets": {
+          "form": "10-Q",
+          "filed": "2020-01-29",
+          "fy": 2020,
+          "fp": "Q1",
+          "frame": "CY2019Q4I",
+          "accn": "0000320193-20-000010"
+        },
+        "current_liabilities": {
+          "form": "10-Q",
+          "filed": "2020-01-29",
+          "fy": 2020,
+          "fp": "Q1",
+          "frame": "CY2019Q4I",
+          "accn": "0000320193-20-000010"
+        },
+        "long_term_debt": {
+          "form": "10-Q",
+          "filed": "2020-01-29",
+          "fy": 2020,
+          "fp": "Q1",
+          "frame": "CY2019Q4I",
+          "accn": "0000320193-20-000010"
+        },
+        "stockholders_equity": {
+          "form": "10-Q",
+          "filed": "2021-04-29",
+          "fy": 2021,
+          "fp": "Q2",
+          "frame": "CY2019Q4I",
+          "accn": "0000320193-21-000056"
+        },
+        "retained_earnings": {
+          "form": "10-Q",
+          "filed": "2020-01-29",
+          "fy": 2020,
+          "fp": "Q1",
+          "frame": "CY2019Q4I",
+          "accn": "0000320193-20-000010"
+        },
+        "diluted_weighted_shares": {
+          "form": "10-Q",
+          "filed": "2021-01-28",
+          "fy": 2021,
+          "fp": "Q1",
+          "frame": "CY2019Q4",
+          "accn": "0000320193-21-000010"
+        }
+      },
+      "forms_seen": [
+        "10-Q"
+      ],
+      "latest_filed": "2021-04-29"
+    },
+    {
+      "period_end": "2020-12-26",
+      "period_type": "quarterly",
+      "metrics": {
+        "revenue": 111439000000,
+        "gross_profit": 44328000000,
+        "operating_income": 33534000000,
+        "net_income": 28755000000,
+        "operating_cash_flow": 38763000000,
+        "capex": 3500000000,
+        "share_based_compensation": 2020000000,
+        "dividends_paid": 3613000000,
+        "buybacks": 24775000000,
+        "cash_and_equivalents": 36010000000,
+        "current_assets": 154106000000,
+        "total_assets": 354054000000,
+        "current_liabilities": 132507000000,
+        "long_term_debt": 99281000000,
+        "stockholders_equity": 66224000000,
+        "retained_earnings": 14301000000,
+        "diluted_weighted_shares": 17113688000
+      },
+      "sources": {
+        "revenue": {
+          "form": "10-Q",
+          "filed": "2022-01-28",
+          "fy": 2022,
+          "fp": "Q1",
+          "frame": "CY2020Q4",
+          "accn": "0000320193-22-000007"
+        },
+        "gross_profit": {
+          "form": "10-Q",
+          "filed": "2022-01-28",
+          "fy": 2022,
+          "fp": "Q1",
+          "frame": "CY2020Q4",
+          "accn": "0000320193-22-000007"
+        },
+        "operating_income": {
+          "form": "10-Q",
+          "filed": "2022-01-28",
+          "fy": 2022,
+          "fp": "Q1",
+          "frame": "CY2020Q4",
+          "accn": "0000320193-22-000007"
+        },
+        "net_income": {
+          "form": "10-Q",
+          "filed": "2022-01-28",
+          "fy": 2022,
+          "fp": "Q1",
+          "frame": "CY2020Q4",
+          "accn": "0000320193-22-000007"
+        },
+        "operating_cash_flow": {
+          "form": "10-Q",
+          "filed": "2022-01-28",
+          "fy": 2022,
+          "fp": "Q1",
+          "frame": "CY2020Q4",
+          "accn": "0000320193-22-000007"
+        },
+        "capex": {
+          "form": "10-Q",
+          "filed": "2022-01-28",
+          "fy": 2022,
+          "fp": "Q1",
+          "frame": "CY2020Q4",
+          "accn": "0000320193-22-000007"
+        },
+        "share_based_compensation": {
+          "form": "10-Q",
+          "filed": "2022-01-28",
+          "fy": 2022,
+          "fp": "Q1",
+          "frame": "CY2020Q4",
+          "accn": "0000320193-22-000007"
+        },
+        "dividends_paid": {
+          "form": "10-Q",
+          "filed": "2022-01-28",
+          "fy": 2022,
+          "fp": "Q1",
+          "frame": "CY2020Q4",
+          "accn": "0000320193-22-000007"
+        },
+        "buybacks": {
+          "form": "10-Q",
+          "filed": "2022-01-28",
+          "fy": 2022,
+          "fp": "Q1",
+          "frame": "CY2020Q4",
+          "accn": "0000320193-22-000007"
+        },
+        "cash_and_equivalents": {
+          "form": "10-Q",
+          "filed": "2021-01-28",
+          "fy": 2021,
+          "fp": "Q1",
+          "frame": "CY2020Q4I",
+          "accn": "0000320193-21-000010"
+        },
+        "current_assets": {
+          "form": "10-Q",
+          "filed": "2021-01-28",
+          "fy": 2021,
+          "fp": "Q1",
+          "frame": "CY2020Q4I",
+          "accn": "0000320193-21-000010"
+        },
+        "total_assets": {
+          "form": "10-Q",
+          "filed": "2021-01-28",
+          "fy": 2021,
+          "fp": "Q1",
+          "frame": "CY2020Q4I",
+          "accn": "0000320193-21-000010"
+        },
+        "current_liabilities": {
+          "form": "10-Q",
+          "filed": "2021-01-28",
+          "fy": 2021,
+          "fp": "Q1",
+          "frame": "CY2020Q4I",
+          "accn": "0000320193-21-000010"
+        },
+        "long_term_debt": {
+          "form": "10-Q",
+          "filed": "2021-01-28",
+          "fy": 2021,
+          "fp": "Q1",
+          "frame": "CY2020Q4I",
+          "accn": "0000320193-21-000010"
+        },
+        "stockholders_equity": {
+          "form": "10-Q",
+          "filed": "2022-04-29",
+          "fy": 2022,
+          "fp": "Q2",
+          "frame": "CY2020Q4I",
+          "accn": "0000320193-22-000059"
+        },
+        "retained_earnings": {
+          "form": "10-Q",
+          "filed": "2021-01-28",
+          "fy": 2021,
+          "fp": "Q1",
+          "frame": "CY2020Q4I",
+          "accn": "0000320193-21-000010"
+        },
+        "diluted_weighted_shares": {
+          "form": "10-Q",
+          "filed": "2022-01-28",
+          "fy": 2022,
+          "fp": "Q1",
+          "frame": "CY2020Q4",
+          "accn": "0000320193-22-000007"
+        }
+      },
+      "forms_seen": [
+        "10-Q"
+      ],
+      "latest_filed": "2022-04-29"
+    },
+    {
+      "period_end": "2021-12-25",
+      "period_type": "quarterly",
+      "metrics": {
+        "revenue": 123945000000,
+        "gross_profit": 54243000000,
+        "operating_income": 41488000000,
+        "net_income": 34630000000,
+        "operating_cash_flow": 46966000000,
+        "capex": 2803000000,
+        "share_based_compensation": 2265000000,
+        "dividends_paid": 3732000000,
+        "buybacks": 20478000000,
+        "cash_and_equivalents": 37119000000,
+        "current_assets": 153154000000,
+        "total_assets": 381191000000,
+        "current_liabilities": 147574000000,
+        "long_term_debt": 106629000000,
+        "stockholders_equity": 71932000000,
+        "retained_earnings": 14435000000,
+        "diluted_weighted_shares": 16519291000
+      },
+      "sources": {
+        "revenue": {
+          "form": "10-Q",
+          "filed": "2023-02-03",
+          "fy": 2023,
+          "fp": "Q1",
+          "frame": "CY2021Q4",
+          "accn": "0000320193-23-000006"
+        },
+        "gross_profit": {
+          "form": "10-Q",
+          "filed": "2023-02-03",
+          "fy": 2023,
+          "fp": "Q1",
+          "frame": "CY2021Q4",
+          "accn": "0000320193-23-000006"
+        },
+        "operating_income": {
+          "form": "10-Q",
+          "filed": "2023-02-03",
+          "fy": 2023,
+          "fp": "Q1",
+          "frame": "CY2021Q4",
+          "accn": "0000320193-23-000006"
+        },
+        "net_income": {
+          "form": "10-Q",
+          "filed": "2023-02-03",
+          "fy": 2023,
+          "fp": "Q1",
+          "frame": "CY2021Q4",
+          "accn": "0000320193-23-000006"
+        },
+        "operating_cash_flow": {
+          "form": "10-Q",
+          "filed": "2023-02-03",
+          "fy": 2023,
+          "fp": "Q1",
+          "frame": "CY2021Q4",
+          "accn": "0000320193-23-000006"
+        },
+        "capex": {
+          "form": "10-Q",
+          "filed": "2023-02-03",
+          "fy": 2023,
+          "fp": "Q1",
+          "frame": "CY2021Q4",
+          "accn": "0000320193-23-000006"
+        },
+        "share_based_compensation": {
+          "form": "10-Q",
+          "filed": "2023-02-03",
+          "fy": 2023,
+          "fp": "Q1",
+          "frame": "CY2021Q4",
+          "accn": "0000320193-23-000006"
+        },
+        "dividends_paid": {
+          "form": "10-Q",
+          "filed": "2023-02-03",
+          "fy": 2023,
+          "fp": "Q1",
+          "frame": "CY2021Q4",
+          "accn": "0000320193-23-000006"
+        },
+        "buybacks": {
+          "form": "10-Q",
+          "filed": "2023-02-03",
+          "fy": 2023,
+          "fp": "Q1",
+          "frame": "CY2021Q4",
+          "accn": "0000320193-23-000006"
+        },
+        "cash_and_equivalents": {
+          "form": "10-Q",
+          "filed": "2022-01-28",
+          "fy": 2022,
+          "fp": "Q1",
+          "frame": "CY2021Q4I",
+          "accn": "0000320193-22-000007"
+        },
+        "current_assets": {
+          "form": "10-Q",
+          "filed": "2022-01-28",
+          "fy": 2022,
+          "fp": "Q1",
+          "frame": "CY2021Q4I",
+          "accn": "0000320193-22-000007"
+        },
+        "total_assets": {
+          "form": "10-Q",
+          "filed": "2022-01-28",
+          "fy": 2022,
+          "fp": "Q1",
+          "frame": "CY2021Q4I",
+          "accn": "0000320193-22-000007"
+        },
+        "current_liabilities": {
+          "form": "10-Q",
+          "filed": "2022-01-28",
+          "fy": 2022,
+          "fp": "Q1",
+          "frame": "CY2021Q4I",
+          "accn": "0000320193-22-000007"
+        },
+        "long_term_debt": {
+          "form": "10-Q",
+          "filed": "2022-01-28",
+          "fy": 2022,
+          "fp": "Q1",
+          "frame": "CY2021Q4I",
+          "accn": "0000320193-22-000007"
+        },
+        "stockholders_equity": {
+          "form": "10-Q",
+          "filed": "2023-05-05",
+          "fy": 2023,
+          "fp": "Q2",
+          "frame": "CY2021Q4I",
+          "accn": "0000320193-23-000064"
+        },
+        "retained_earnings": {
+          "form": "10-Q",
+          "filed": "2022-01-28",
+          "fy": 2022,
+          "fp": "Q1",
+          "frame": "CY2021Q4I",
+          "accn": "0000320193-22-000007"
+        },
+        "diluted_weighted_shares": {
+          "form": "10-Q",
+          "filed": "2023-02-03",
+          "fy": 2023,
+          "fp": "Q1",
+          "frame": "CY2021Q4",
+          "accn": "0000320193-23-000006"
+        }
+      },
+      "forms_seen": [
+        "10-Q"
+      ],
+      "latest_filed": "2023-05-05"
+    },
+    {
+      "period_end": "2022-12-31",
+      "period_type": "quarterly",
+      "metrics": {
+        "revenue": 117154000000,
+        "gross_profit": 50332000000,
+        "operating_income": 36016000000,
+        "net_income": 29998000000,
+        "operating_cash_flow": 34005000000,
+        "capex": 3787000000,
+        "share_based_compensation": 2905000000,
+        "dividends_paid": 3768000000,
+        "buybacks": 19475000000,
+        "cash_and_equivalents": 20535000000,
+        "current_assets": 128777000000,
+        "total_assets": 346747000000,
+        "current_liabilities": 137286000000,
+        "long_term_debt": 99627000000,
+        "stockholders_equity": 56727000000,
+        "retained_earnings": 3240000000,
+        "diluted_weighted_shares": 15955718000
+      },
+      "sources": {
+        "revenue": {
+          "form": "10-Q",
+          "filed": "2024-02-02",
+          "fy": 2024,
+          "fp": "Q1",
+          "frame": "CY2022Q4",
+          "accn": "0000320193-24-000006"
+        },
+        "gross_profit": {
+          "form": "10-Q",
+          "filed": "2024-02-02",
+          "fy": 2024,
+          "fp": "Q1",
+          "frame": "CY2022Q4",
+          "accn": "0000320193-24-000006"
+        },
+        "operating_income": {
+          "form": "10-Q",
+          "filed": "2024-02-02",
+          "fy": 2024,
+          "fp": "Q1",
+          "frame": "CY2022Q4",
+          "accn": "0000320193-24-000006"
+        },
+        "net_income": {
+          "form": "10-Q",
+          "filed": "2024-02-02",
+          "fy": 2024,
+          "fp": "Q1",
+          "frame": "CY2022Q4",
+          "accn": "0000320193-24-000006"
+        },
+        "operating_cash_flow": {
+          "form": "10-Q",
+          "filed": "2024-02-02",
+          "fy": 2024,
+          "fp": "Q1",
+          "frame": "CY2022Q4",
+          "accn": "0000320193-24-000006"
+        },
+        "capex": {
+          "form": "10-Q",
+          "filed": "2024-02-02",
+          "fy": 2024,
+          "fp": "Q1",
+          "frame": "CY2022Q4",
+          "accn": "0000320193-24-000006"
+        },
+        "share_based_compensation": {
+          "form": "10-Q",
+          "filed": "2024-02-02",
+          "fy": 2024,
+          "fp": "Q1",
+          "frame": "CY2022Q4",
+          "accn": "0000320193-24-000006"
+        },
+        "dividends_paid": {
+          "form": "10-Q",
+          "filed": "2024-02-02",
+          "fy": 2024,
+          "fp": "Q1",
+          "frame": "CY2022Q4",
+          "accn": "0000320193-24-000006"
+        },
+        "buybacks": {
+          "form": "10-Q",
+          "filed": "2024-02-02",
+          "fy": 2024,
+          "fp": "Q1",
+          "frame": "CY2022Q4",
+          "accn": "0000320193-24-000006"
+        },
+        "cash_and_equivalents": {
+          "form": "10-Q",
+          "filed": "2023-02-03",
+          "fy": 2023,
+          "fp": "Q1",
+          "frame": "CY2022Q4I",
+          "accn": "0000320193-23-000006"
+        },
+        "current_assets": {
+          "form": "10-Q",
+          "filed": "2023-02-03",
+          "fy": 2023,
+          "fp": "Q1",
+          "frame": "CY2022Q4I",
+          "accn": "0000320193-23-000006"
+        },
+        "total_assets": {
+          "form": "10-Q",
+          "filed": "2023-02-03",
+          "fy": 2023,
+          "fp": "Q1",
+          "frame": "CY2022Q4I",
+          "accn": "0000320193-23-000006"
+        },
+        "current_liabilities": {
+          "form": "10-Q",
+          "filed": "2023-02-03",
+          "fy": 2023,
+          "fp": "Q1",
+          "frame": "CY2022Q4I",
+          "accn": "0000320193-23-000006"
+        },
+        "long_term_debt": {
+          "form": "10-Q",
+          "filed": "2023-02-03",
+          "fy": 2023,
+          "fp": "Q1",
+          "frame": "CY2022Q4I",
+          "accn": "0000320193-23-000006"
+        },
+        "stockholders_equity": {
+          "form": "10-Q",
+          "filed": "2024-05-03",
+          "fy": 2024,
+          "fp": "Q2",
+          "frame": "CY2022Q4I",
+          "accn": "0000320193-24-000069"
+        },
+        "retained_earnings": {
+          "form": "10-Q",
+          "filed": "2023-02-03",
+          "fy": 2023,
+          "fp": "Q1",
+          "frame": "CY2022Q4I",
+          "accn": "0000320193-23-000006"
+        },
+        "diluted_weighted_shares": {
+          "form": "10-Q",
+          "filed": "2024-02-02",
+          "fy": 2024,
+          "fp": "Q1",
+          "frame": "CY2022Q4",
+          "accn": "0000320193-24-000006"
+        }
+      },
+      "forms_seen": [
+        "10-Q"
+      ],
+      "latest_filed": "2024-05-03"
+    },
+    {
+      "period_end": "2023-12-30",
+      "period_type": "quarterly",
+      "metrics": {
+        "revenue": 119575000000,
+        "gross_profit": 54855000000,
+        "operating_income": 40373000000,
+        "net_income": 33916000000,
+        "operating_cash_flow": 39895000000,
+        "capex": 2392000000,
+        "share_based_compensation": 2997000000,
+        "dividends_paid": 3825000000,
+        "buybacks": 20139000000,
+        "cash_and_equivalents": 40760000000,
+        "current_assets": 143692000000,
+        "total_assets": 353514000000,
+        "current_liabilities": 133973000000,
+        "long_term_debt": 95088000000,
+        "stockholders_equity": 74100000000,
+        "retained_earnings": 8242000000,
+        "diluted_weighted_shares": 15576641000
+      },
+      "sources": {
+        "revenue": {
+          "form": "10-Q",
+          "filed": "2025-01-31",
+          "fy": 2025,
+          "fp": "Q1",
+          "frame": "CY2023Q4",
+          "accn": "0000320193-25-000008"
+        },
+        "gross_profit": {
+          "form": "10-Q",
+          "filed": "2025-01-31",
+          "fy": 2025,
+          "fp": "Q1",
+          "frame": "CY2023Q4",
+          "accn": "0000320193-25-000008"
+        },
+        "operating_income": {
+          "form": "10-Q",
+          "filed": "2025-01-31",
+          "fy": 2025,
+          "fp": "Q1",
+          "frame": "CY2023Q4",
+          "accn": "0000320193-25-000008"
+        },
+        "net_income": {
+          "form": "10-Q",
+          "filed": "2025-01-31",
+          "fy": 2025,
+          "fp": "Q1",
+          "frame": "CY2023Q4",
+          "accn": "0000320193-25-000008"
+        },
+        "operating_cash_flow": {
+          "form": "10-Q",
+          "filed": "2025-01-31",
+          "fy": 2025,
+          "fp": "Q1",
+          "frame": "CY2023Q4",
+          "accn": "0000320193-25-000008"
+        },
+        "capex": {
+          "form": "10-Q",
+          "filed": "2025-01-31",
+          "fy": 2025,
+          "fp": "Q1",
+          "frame": "CY2023Q4",
+          "accn": "0000320193-25-000008"
+        },
+        "share_based_compensation": {
+          "form": "10-Q",
+          "filed": "2025-01-31",
+          "fy": 2025,
+          "fp": "Q1",
+          "frame": "CY2023Q4",
+          "accn": "0000320193-25-000008"
+        },
+        "dividends_paid": {
+          "form": "10-Q",
+          "filed": "2025-01-31",
+          "fy": 2025,
+          "fp": "Q1",
+          "frame": "CY2023Q4",
+          "accn": "0000320193-25-000008"
+        },
+        "buybacks": {
+          "form": "10-Q",
+          "filed": "2025-01-31",
+          "fy": 2025,
+          "fp": "Q1",
+          "frame": "CY2023Q4",
+          "accn": "0000320193-25-000008"
+        },
+        "cash_and_equivalents": {
+          "form": "10-Q",
+          "filed": "2024-02-02",
+          "fy": 2024,
+          "fp": "Q1",
+          "frame": "CY2023Q4I",
+          "accn": "0000320193-24-000006"
+        },
+        "current_assets": {
+          "form": "10-Q",
+          "filed": "2024-02-02",
+          "fy": 2024,
+          "fp": "Q1",
+          "frame": "CY2023Q4I",
+          "accn": "0000320193-24-000006"
+        },
+        "total_assets": {
+          "form": "10-Q",
+          "filed": "2024-02-02",
+          "fy": 2024,
+          "fp": "Q1",
+          "frame": "CY2023Q4I",
+          "accn": "0000320193-24-000006"
+        },
+        "current_liabilities": {
+          "form": "10-Q",
+          "filed": "2024-02-02",
+          "fy": 2024,
+          "fp": "Q1",
+          "frame": "CY2023Q4I",
+          "accn": "0000320193-24-000006"
+        },
+        "long_term_debt": {
+          "form": "10-Q",
+          "filed": "2024-02-02",
+          "fy": 2024,
+          "fp": "Q1",
+          "frame": "CY2023Q4I",
+          "accn": "0000320193-24-000006"
+        },
+        "stockholders_equity": {
+          "form": "10-Q",
+          "filed": "2025-05-02",
+          "fy": 2025,
+          "fp": "Q2",
+          "frame": "CY2023Q4I",
+          "accn": "0000320193-25-000057"
+        },
+        "retained_earnings": {
+          "form": "10-Q",
+          "filed": "2024-02-02",
+          "fy": 2024,
+          "fp": "Q1",
+          "frame": "CY2023Q4I",
+          "accn": "0000320193-24-000006"
+        },
+        "diluted_weighted_shares": {
+          "form": "10-Q",
+          "filed": "2025-01-31",
+          "fy": 2025,
+          "fp": "Q1",
+          "frame": "CY2023Q4",
+          "accn": "0000320193-25-000008"
+        }
+      },
+      "forms_seen": [
+        "10-Q"
+      ],
+      "latest_filed": "2025-05-02"
+    },
+    {
+      "period_end": "2024-12-28",
+      "period_type": "quarterly",
+      "metrics": {
+        "revenue": 124300000000,
+        "gross_profit": 58275000000,
+        "operating_income": 42832000000,
+        "net_income": 36330000000,
+        "operating_cash_flow": 29935000000,
+        "capex": 2940000000,
+        "share_based_compensation": 3286000000,
+        "dividends_paid": 3856000000,
+        "buybacks": 23606000000,
+        "cash_and_equivalents": 30299000000,
+        "current_assets": 133240000000,
+        "total_assets": 344085000000,
+        "current_liabilities": 144365000000,
+        "long_term_debt": 83956000000,
+        "stockholders_equity": 66758000000,
+        "retained_earnings": -11221000000,
+        "diluted_weighted_shares": 15150865000
+      },
+      "sources": {
+        "revenue": {
+          "form": "10-Q",
+          "filed": "2026-01-30",
+          "fy": 2026,
+          "fp": "Q1",
+          "frame": "CY2024Q4",
+          "accn": "0000320193-26-000006"
+        },
+        "gross_profit": {
+          "form": "10-Q",
+          "filed": "2026-01-30",
+          "fy": 2026,
+          "fp": "Q1",
+          "frame": "CY2024Q4",
+          "accn": "0000320193-26-000006"
+        },
+        "operating_income": {
+          "form": "10-Q",
+          "filed": "2026-01-30",
+          "fy": 2026,
+          "fp": "Q1",
+          "frame": "CY2024Q4",
+          "accn": "0000320193-26-000006"
+        },
+        "net_income": {
+          "form": "10-Q",
+          "filed": "2026-01-30",
+          "fy": 2026,
+          "fp": "Q1",
+          "frame": "CY2024Q4",
+          "accn": "0000320193-26-000006"
+        },
+        "operating_cash_flow": {
+          "form": "10-Q",
+          "filed": "2026-01-30",
+          "fy": 2026,
+          "fp": "Q1",
+          "frame": "CY2024Q4",
+          "accn": "0000320193-26-000006"
+        },
+        "capex": {
+          "form": "10-Q",
+          "filed": "2026-01-30",
+          "fy": 2026,
+          "fp": "Q1",
+          "frame": "CY2024Q4",
+          "accn": "0000320193-26-000006"
+        },
+        "share_based_compensation": {
+          "form": "10-Q",
+          "filed": "2026-01-30",
+          "fy": 2026,
+          "fp": "Q1",
+          "frame": "CY2024Q4",
+          "accn": "0000320193-26-000006"
+        },
+        "dividends_paid": {
+          "form": "10-Q",
+          "filed": "2026-01-30",
+          "fy": 2026,
+          "fp": "Q1",
+          "frame": "CY2024Q4",
+          "accn": "0000320193-26-000006"
+        },
+        "buybacks": {
+          "form": "10-Q",
+          "filed": "2026-01-30",
+          "fy": 2026,
+          "fp": "Q1",
+          "frame": "CY2024Q4",
+          "accn": "0000320193-26-000006"
+        },
+        "cash_and_equivalents": {
+          "form": "10-Q",
+          "filed": "2025-01-31",
+          "fy": 2025,
+          "fp": "Q1",
+          "frame": "CY2024Q4I",
+          "accn": "0000320193-25-000008"
+        },
+        "current_assets": {
+          "form": "10-Q",
+          "filed": "2025-01-31",
+          "fy": 2025,
+          "fp": "Q1",
+          "frame": "CY2024Q4I",
+          "accn": "0000320193-25-000008"
+        },
+        "total_assets": {
+          "form": "10-Q",
+          "filed": "2025-01-31",
+          "fy": 2025,
+          "fp": "Q1",
+          "frame": "CY2024Q4I",
+          "accn": "0000320193-25-000008"
+        },
+        "current_liabilities": {
+          "form": "10-Q",
+          "filed": "2025-01-31",
+          "fy": 2025,
+          "fp": "Q1",
+          "frame": "CY2024Q4I",
+          "accn": "0000320193-25-000008"
+        },
+        "long_term_debt": {
+          "form": "10-Q",
+          "filed": "2025-01-31",
+          "fy": 2025,
+          "fp": "Q1",
+          "frame": "CY2024Q4I",
+          "accn": "0000320193-25-000008"
+        },
+        "stockholders_equity": {
+          "form": "10-Q",
+          "filed": "2026-01-30",
+          "fy": 2026,
+          "fp": "Q1",
+          "frame": "CY2024Q4I",
+          "accn": "0000320193-26-000006"
+        },
+        "retained_earnings": {
+          "form": "10-Q",
+          "filed": "2025-01-31",
+          "fy": 2025,
+          "fp": "Q1",
+          "frame": "CY2024Q4I",
+          "accn": "0000320193-25-000008"
+        },
+        "diluted_weighted_shares": {
+          "form": "10-Q",
+          "filed": "2026-01-30",
+          "fy": 2026,
+          "fp": "Q1",
+          "frame": "CY2024Q4",
+          "accn": "0000320193-26-000006"
+        }
+      },
+      "forms_seen": [
+        "10-Q"
+      ],
+      "latest_filed": "2026-01-30"
+    },
+    {
+      "period_end": "2025-12-27",
+      "period_type": "quarterly",
+      "metrics": {
+        "revenue": 143756000000,
+        "gross_profit": 69231000000,
+        "operating_income": 50852000000,
+        "net_income": 42097000000,
+        "operating_cash_flow": 53925000000,
+        "capex": 2373000000,
+        "share_based_compensation": 3594000000,
+        "dividends_paid": 3921000000,
+        "buybacks": 24701000000,
+        "cash_and_equivalents": 45317000000,
+        "current_assets": 158104000000,
+        "total_assets": 379297000000,
+        "current_liabilities": 162367000000,
+        "long_term_debt": 76685000000,
+        "stockholders_equity": 88190000000,
+        "retained_earnings": -2177000000,
+        "diluted_weighted_shares": 14810356000
+      },
+      "sources": {
+        "revenue": {
+          "form": "10-Q",
+          "filed": "2026-01-30",
+          "fy": 2026,
+          "fp": "Q1",
+          "frame": "CY2025Q4",
+          "accn": "0000320193-26-000006"
+        },
+        "gross_profit": {
+          "form": "10-Q",
+          "filed": "2026-01-30",
+          "fy": 2026,
+          "fp": "Q1",
+          "frame": "CY2025Q4",
+          "accn": "0000320193-26-000006"
+        },
+        "operating_income": {
+          "form": "10-Q",
+          "filed": "2026-01-30",
+          "fy": 2026,
+          "fp": "Q1",
+          "frame": "CY2025Q4",
+          "accn": "0000320193-26-000006"
+        },
+        "net_income": {
+          "form": "10-Q",
+          "filed": "2026-01-30",
+          "fy": 2026,
+          "fp": "Q1",
+          "frame": "CY2025Q4",
+          "accn": "0000320193-26-000006"
+        },
+        "operating_cash_flow": {
+          "form": "10-Q",
+          "filed": "2026-01-30",
+          "fy": 2026,
+          "fp": "Q1",
+          "frame": "CY2025Q4",
+          "accn": "0000320193-26-000006"
+        },
+        "capex": {
+          "form": "10-Q",
+          "filed": "2026-01-30",
+          "fy": 2026,
+          "fp": "Q1",
+          "frame": "CY2025Q4",
+          "accn": "0000320193-26-000006"
+        },
+        "share_based_compensation": {
+          "form": "10-Q",
+          "filed": "2026-01-30",
+          "fy": 2026,
+          "fp": "Q1",
+          "frame": "CY2025Q4",
+          "accn": "0000320193-26-000006"
+        },
+        "dividends_paid": {
+          "form": "10-Q",
+          "filed": "2026-01-30",
+          "fy": 2026,
+          "fp": "Q1",
+          "frame": "CY2025Q4",
+          "accn": "0000320193-26-000006"
+        },
+        "buybacks": {
+          "form": "10-Q",
+          "filed": "2026-01-30",
+          "fy": 2026,
+          "fp": "Q1",
+          "frame": "CY2025Q4",
+          "accn": "0000320193-26-000006"
+        },
+        "cash_and_equivalents": {
+          "form": "10-Q",
+          "filed": "2026-01-30",
+          "fy": 2026,
+          "fp": "Q1",
+          "frame": "CY2025Q4I",
+          "accn": "0000320193-26-000006"
+        },
+        "current_assets": {
+          "form": "10-Q",
+          "filed": "2026-01-30",
+          "fy": 2026,
+          "fp": "Q1",
+          "frame": "CY2025Q4I",
+          "accn": "0000320193-26-000006"
+        },
+        "total_assets": {
+          "form": "10-Q",
+          "filed": "2026-01-30",
+          "fy": 2026,
+          "fp": "Q1",
+          "frame": "CY2025Q4I",
+          "accn": "0000320193-26-000006"
+        },
+        "current_liabilities": {
+          "form": "10-Q",
+          "filed": "2026-01-30",
+          "fy": 2026,
+          "fp": "Q1",
+          "frame": "CY2025Q4I",
+          "accn": "0000320193-26-000006"
+        },
+        "long_term_debt": {
+          "form": "10-Q",
+          "filed": "2026-01-30",
+          "fy": 2026,
+          "fp": "Q1",
+          "frame": "CY2025Q4I",
+          "accn": "0000320193-26-000006"
+        },
+        "stockholders_equity": {
+          "form": "10-Q",
+          "filed": "2026-01-30",
+          "fy": 2026,
+          "fp": "Q1",
+          "frame": "CY2025Q4I",
+          "accn": "0000320193-26-000006"
+        },
+        "retained_earnings": {
+          "form": "10-Q",
+          "filed": "2026-01-30",
+          "fy": 2026,
+          "fp": "Q1",
+          "frame": "CY2025Q4I",
+          "accn": "0000320193-26-000006"
+        },
+        "diluted_weighted_shares": {
+          "form": "10-Q",
+          "filed": "2026-01-30",
+          "fy": 2026,
+          "fp": "Q1",
+          "frame": "CY2025Q4",
+          "accn": "0000320193-26-000006"
+        }
+      },
+      "forms_seen": [
+        "10-Q"
+      ],
+      "latest_filed": "2026-01-30"
+    }
+  ]
+}

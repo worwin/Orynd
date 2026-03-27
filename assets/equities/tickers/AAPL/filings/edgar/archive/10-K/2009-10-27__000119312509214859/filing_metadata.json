@@ -1,0 +1,27 @@
+{
+  "ticker": "AAPL",
+  "company_name": "Apple Inc.",
+  "cik": "0000320193",
+  "record": {
+    "accession_number": "0001193125-09-214859",
+    "filing_date": "2009-10-27",
+    "report_date": "2009-09-26",
+    "acceptance_datetime": "2009-10-27T20:18:29.000Z",
+    "act": "34",
+    "form": "10-K",
+    "file_number": "000-10030",
+    "film_number": "091139493",
+    "items": "",
+    "size": 3638340,
+    "is_xbrl": 1,
+    "is_inline_xbrl": 0,
+    "primary_document": "d10k.htm",
+    "primary_doc_description": "FOR THE FISCAL YEAR ENDED SEPTEMBER 26, 2009"
+  },
+  "urls": {
+    "directory_index_json": "https://www.sec.gov/Archives/edgar/data/320193/000119312509214859/index.json",
+    "full_submission_txt": "https://www.sec.gov/Archives/edgar/data/320193/000119312509214859/0001193125-09-214859.txt",
+    "primary_document": "https://www.sec.gov/Archives/edgar/data/320193/000119312509214859/d10k.htm"
+  },
+  "synced_at_utc": "2026-03-27T10:54:21.593582+00:00"
+}

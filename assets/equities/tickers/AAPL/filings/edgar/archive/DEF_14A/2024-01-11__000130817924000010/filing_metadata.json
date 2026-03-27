@@ -1,0 +1,27 @@
+{
+  "ticker": "AAPL",
+  "company_name": "Apple Inc.",
+  "cik": "0000320193",
+  "record": {
+    "accession_number": "0001308179-24-000010",
+    "filing_date": "2024-01-11",
+    "report_date": "2024-02-28",
+    "acceptance_datetime": "2024-01-11T21:30:29.000Z",
+    "act": "34",
+    "form": "DEF 14A",
+    "file_number": "001-36743",
+    "film_number": "24529569",
+    "items": "",
+    "size": 9051163,
+    "is_xbrl": 1,
+    "is_inline_xbrl": 1,
+    "primary_document": "laapl2024_def14a.htm",
+    "primary_doc_description": "APPLE INC. - DEF 14A"
+  },
+  "urls": {
+    "directory_index_json": "https://www.sec.gov/Archives/edgar/data/320193/000130817924000010/index.json",
+    "full_submission_txt": "https://www.sec.gov/Archives/edgar/data/320193/000130817924000010/0001308179-24-000010.txt",
+    "primary_document": "https://www.sec.gov/Archives/edgar/data/320193/000130817924000010/laapl2024_def14a.htm"
+  },
+  "synced_at_utc": "2026-03-27T10:46:45.990829+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "AAPL",
+  "company_name": "Apple Inc.",
+  "cik": "0000320193",
+  "record": {
+    "accession_number": "0000891618-94-000258",
+    "filing_date": "1994-12-12",
+    "report_date": "1995-01-24",
+    "acceptance_datetime": "1994-12-12T05:00:00.000Z",
+    "act": "",
+    "form": "DEF 14A",
+    "file_number": "000-10030",
+    "film_number": "94564234",
+    "items": "",
+    "size": 61019,
+    "is_xbrl": 0,
+    "is_inline_xbrl": 0,
+    "primary_document": "",
+    "primary_doc_description": "NOTICE & PROXY STATEMENT FOR APPLE COMPUTERS"
+  },
+  "urls": {
+    "directory_index_json": "https://www.sec.gov/Archives/edgar/data/320193/000089161894000258/index.json",
+    "full_submission_txt": "https://www.sec.gov/Archives/edgar/data/320193/000089161894000258/0000891618-94-000258.txt"
+  },
+  "synced_at_utc": "2026-03-27T10:59:30.492140+00:00"
+}
